@@ -1,0 +1,9 @@
+﻿Replicate ,Genotype,Treatment
+1,WT,Control
+2,WT,Control
+1,WT,CaCl2
+2,WT,CaCl2
+1,crz1/crz1,Control
+2,crz1/crz1,Control
+1,crz1/crz1,CaCl2
+2,crz1/crz1,CaCl2

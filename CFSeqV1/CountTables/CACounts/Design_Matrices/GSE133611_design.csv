@@ -1,0 +1,13 @@
+﻿Replicate,Genotype,Treatment
+1,capzz1^,Control
+2,capzz1^,Control
+3,capzz1^,Control
+1,capzz1^,tBOOH
+2,capzz1^,tBOOH
+3,capzz1^,tBOOH
+1,WT,Control
+2,WT,Control
+3,WT,Control
+1,WT,tBOOH
+2,WT,tBOOH
+3,WT,tBOOH

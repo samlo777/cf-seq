@@ -1,0 +1,2 @@
+Date ,GEO Accession ,Title ,Description,Strain,Medium,Treatment ,Genotype
+11/30/18,GSE123122,Transcript levels of genes in both the wild type SN148 and the crz1/crz1 mutant with or without 0.2M CaCl2 treatment,"We report the expression levels of transcripts for two alleles of 6,211 genes in log-phase growing cells of the wild type SN148 and the crz1/crz1 with or without 0.2M CaCl2 treatment.We find that as compared to the wild type cells without 0.2M CaCl2 treatment, there are 828 genes upregulated in the wild type cells with 0.2M CaCl2 treatment.",SN148,YPD,CaCl2,Delta-crz1

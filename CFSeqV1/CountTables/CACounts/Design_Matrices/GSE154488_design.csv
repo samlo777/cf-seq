@@ -1,0 +1,13 @@
+﻿Replicate,Sequencing Method,Treatment
+1,Ribo-Seq,YEPD
+2,Ribo-Seq,YEPD
+3,Ribo-Seq,YEPD
+1,Ribo-Seq,YEPD + Serum
+2,Ribo-Seq,YEPD + Serum
+3,Ribo-Seq,YEPD + Serum
+1,RNA-Seq,YEPD
+2,RNA-Seq,YEPD
+3,RNA-Seq,YEPD
+1,RNA-Seq,YEPD + Serum
+2,RNA-Seq,YEPD + Serum
+3,RNA-Seq,YEPD + Serum
