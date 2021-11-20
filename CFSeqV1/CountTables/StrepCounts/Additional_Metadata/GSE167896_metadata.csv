@@ -1,0 +1,2 @@
+Date ,GEO Accession ,Title ,Description,Strain,Medium,Treatment ,Genotype,Species
+1/1/21,GSE167896,RNA sequencing analysis of CopY-deficient Streptococcus agalactiae,"Total RNA was isolated from mid-log phase Streptococcus agalactiae cells deficient in CopY (∆copY strain GU2857), grown in Todd-Hewitt broth (THB) medium and sequenced using Illumina NextSeq500.","GU2857, 874391",Todd-Hewitt broth,NA,Delta-copY,Streptococcus agalactiae
