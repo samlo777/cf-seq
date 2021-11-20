@@ -1,0 +1,9 @@
+Replicate_Uneven,Treatment ,Dose 
+1,Control,0 mg/L
+1,AgNP (Sphere),1 mg / L
+1,AgNP (Sphere),20 mg / L
+1,AgNP (Sphere),25 mg / L
+2,AgNP (Sphere),25 mg / L
+1,AgNR (Rod) ,1 mg / L
+1,AgNR (Rod) ,30 mg / L
+1,AgNR (Rod) ,300 mg / L

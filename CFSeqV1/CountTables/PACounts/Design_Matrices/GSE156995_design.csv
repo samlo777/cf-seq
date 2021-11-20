@@ -1,0 +1,15 @@
+﻿Replicate,Genotype,Treatment,Time
+1,WT PA14,Control ,5 Hours
+1,WT PA14,Mucins,5 Hours
+2,WT PA14,Control ,5 Hours
+2,WT PA14,Mucins,5 Hours 
+1,WT PA14,Control ,5 Hours
+1,WT PA14,Glycans,5 Hours
+2,WT PA14,Control ,5 Hours
+2,WT PA14,Glycans,5 Hours
+1,PA14 RetS (delta dismed2),Control ,5 Hours
+1,PA14 RetS (delta dismed2),Glycans,5 Hours
+1,WT PA14,Control,15 min 
+1,WT PA14,Glycans,15 min 
+1,PA14 RetS (D858A) ,Control ,5 Hours
+1,PA14 RetS (D858A) ,Glycans,5 Hours
