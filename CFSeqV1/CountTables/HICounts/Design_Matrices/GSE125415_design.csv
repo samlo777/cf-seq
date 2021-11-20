@@ -1,0 +1,13 @@
+﻿Replicate,Genotype,Treatment
+1,WT,DMSO (Control)
+2,WT,DMSO (Control)
+3,WT,DMSO (Control)
+1,WT,beclomethasone dipropionate
+2,WT,beclomethasone dipropionate
+3,WT,beclomethasone dipropionate
+1,HI0628^,DMSO (Control)
+2,HI0628^,DMSO (Control)
+3,HI0628^,DMSO (Control)
+1,HI0628^,beclomethasone dipropionate
+2,HI0628^,beclomethasone dipropionate
+3,HI0628^,beclomethasone dipropionate
