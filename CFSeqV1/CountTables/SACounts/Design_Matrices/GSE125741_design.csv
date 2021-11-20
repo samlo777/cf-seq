@@ -1,0 +1,10 @@
+﻿Replicate,Genotype,Treatment
+1,WT,DMSO (Control)
+2,WT,DMSO (Control)
+3,WT,DMSO (Control)
+1,WT,Apicidin
+2,WT,Apicidin
+3,WT,Apicidin
+1,agr^,DMSO (Control)
+2,agr^,DMSO (Control)
+3,agr^,DMSO (Control)
