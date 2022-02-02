@@ -1,0 +1,55 @@
+Replicate,Strain,Treatment,Time
+1,2C7,0 ug / mL Congo Red,4 hr
+2,2C7,0 ug / mL Congo Red,4 hr
+3,2C7,0 ug / mL Congo Red,4 hr
+1,2C7,300 ug / mL Congo Red,4 hr
+2,2C7,300 ug / mL Congo Red,4 hr
+3,2C7,300 ug / mL Congo Red,4 hr
+1,1D4,300 ug / mL Congo Red,4 hr
+2,1D4,300 ug / mL Congo Red,4 hr
+3,1D4,300 ug / mL Congo Red,4 hr
+1,1D4,0 ug / mL Congo Red,4 hr
+2,1D4,0 ug / mL Congo Red,4 hr
+3,1D4,0 ug / mL Congo Red,4 hr
+1,1F4,50 ug / mL Congo Red,4 hr
+2,1F4,50 ug / mL Congo Red,4 hr
+3,1F4,50 ug / mL Congo Red,4 hr
+1,1F4,0 ug / mL Congo Red,4 hr
+2,1F4,0 ug / mL Congo Red,4 hr
+3,1F4,0 ug / mL Congo Red,4 hr
+1,1G9,50 ug / mL Congo Red,4 hr
+2,1G9,50 ug / mL Congo Red,4 hr
+3,1G9,50 ug / mL Congo Red,4 hr
+1,1G9,0 ug / mL Congo Red,4 hr
+2,1G9,0 ug / mL Congo Red,4 hr
+3,1G9,0 ug / mL Congo Red,4 hr
+1,KU80 (Parent),300 ug / mL Congo Red,4 hr
+2,KU80 (Parent),300 ug / mL Congo Red,4 hr
+3,KU80 (Parent),300 ug / mL Congo Red,4 hr
+1,KU80 (Parent),0 ug / mL Congo Red,4 hr
+2,KU80 (Parent),0 ug / mL Congo Red,4 hr
+3,KU80 (Parent),0 ug / mL Congo Red,4 hr
+1,KU80 (Parent),50 ug / mL Congo Red,4 hr
+2,KU80 (Parent),50 ug / mL Congo Red,4 hr
+3,KU80 (Parent),50 ug / mL Congo Red,4 hr
+1,KU80 (Parent),0 ug / mL Congo Red,4 hr
+2,KU80 (Parent),0 ug / mL Congo Red,4 hr
+3,KU80 (Parent),0 ug / mL Congo Red,4 hr
+1,1D4,300 ug / mL Congo Red,4 days
+2,1D4,300 ug / mL Congo Red,4 days
+3,1D4,300 ug / mL Congo Red,4 days
+1,1D4,0 ug / mL Congo Red,4 days
+2,1D4,0 ug / mL Congo Red,4 days
+3,1D4,0 ug / mL Congo Red,4 days
+1,2C7,300 ug / mL Congo Red,4 days
+2,2C7,300 ug / mL Congo Red,4 days
+3,2C7,300 ug / mL Congo Red,4 days
+1,2C7,0 ug / mL Congo Red,4 days
+2,2C7,0 ug / mL Congo Red,4 days
+3,2C7,0 ug / mL Congo Red,4 days
+1,KU80 (Parent),300 ug / mL Congo Red,4 days
+2,KU80 (Parent),300 ug / mL Congo Red,4 days
+3,KU80 (Parent),300 ug / mL Congo Red,4 days
+1,KU80 (Parent),0 ug / mL Congo Red,4 days
+2,KU80 (Parent),0 ug / mL Congo Red,4 days
+3,KU80 (Parent),0 ug / mL Congo Red,4 days

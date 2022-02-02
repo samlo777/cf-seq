@@ -1,0 +1,2 @@
+Date,GEO Accession,Title,Description,Strain,Medium,Treatment,Genotype,Link
+4/19/17,GSE97539,"Gene expression changes in the absence of the carbon catabolite repressor, CreA.","This experiment was designed to test the change in gene expression in the absence of the transcription factor, CreA. Two media conditions were tested to determine the role of this transcription factor in repressing (glucose) and derepressing (ethanol) carbon sources.",CEA10,Minimal Medium,NA,Delta-creA,https://www-ncbi-nlm-nih-gov.ezproxy.u-pec.fr/geo/query/acc.cgi?acc=GSE97539
