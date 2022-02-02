@@ -1,0 +1,2 @@
+Date,GEO Accession,Title,Description,Strain,Medium,Treatment,Genotype,Link
+12/21/18,GSE112597,The Pseudomonas aeruginosa PilSR two-component system regulates both twitching and swimming motilities,We used NGS to find that the PilS-PilR two component system of P. aeruginosa controls the expression of many non-pilus related genes and has a role in regulating swimming motility,PAK,LB,NA,"Delta-pilA, Delta-pilR",https://www-ncbi-nlm-nih-gov.ezproxy.u-pec.fr/geo/query/acc.cgi?acc=GSE112597

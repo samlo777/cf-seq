@@ -1,0 +1,2 @@
+Date ,GEO Accession ,Title ,Description,Strain,Medium,Treatment ,Genotype,Link
+11/2/20,GSE124385,Response of Pseudomonas aeruginosa to the innate immune system-derived oxidants hypochlorous acid and hypothiocyanous acid,"Purpose: The aim of this study was to determine the transcriptional response of P. aeruginosa PA14 to HOCl and HOSCN stress, and determine genes dependent on RclR (PA14_07340) regulation.",PA14,LB,"HOCl, HOSCN",Delta-rclR,https://www-ncbi-nlm-nih-gov.ezproxy.u-pec.fr/geo/query/acc.cgi?acc=GSE124385

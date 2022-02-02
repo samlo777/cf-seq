@@ -1,0 +1,4 @@
+Date ,GEO Accession ,Title ,Description,Strain,Medium,Treatment ,Genotype,Link
+12/16/20,GSE163248,Dkstatin-treated Pseudomonas aeruginosa trascriptome,"To better understand the effects of Dkstatin treatment, we compared transcriptome landscapes of PAO1 grown without or with either Dkstatin. A global view of the entire transcriptome uncovered the substantial differences between cells treated with Dkstatin-1 or Dkstatin-2.
+
+",PAO1,LB,"Dkstatin1, Dkstatin2",NA,https://www-ncbi-nlm-nih-gov.ezproxy.u-pec.fr/geo/query/acc.cgi?acc=GSE163248
