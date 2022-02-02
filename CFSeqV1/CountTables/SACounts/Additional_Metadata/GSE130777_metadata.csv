@@ -1,0 +1,2 @@
+Date ,GEO Accession ,Title ,Description,Strain,Medium,Treatment ,Genotype,Link
+5/7/19,GSE130777,Regulation of gene expression by MgrA in Staphylococcus aureus USA300 strain LAC,MgrA is a global regulator of gene expression in Staphylococcus aureus. Here we use RNA-sequencing to compare gene expression in a wild-type USA300 strain and an isogenic mgrA mutant.,"USA300, AH1263, AH3455",Tryptic soy broth,NA,Delta-mgrA,https://www-ncbi-nlm-nih-gov.ezproxy.u-pec.fr/geo/query/acc.cgi?acc=GSE130777

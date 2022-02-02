@@ -1,0 +1,2 @@
+Date,GEO Accession,Title,Description,Strain,Medium,Treatment,Genotype,Link
+6/12/19,GSE132179,RNA-Seq of WT Staphylococcus aureus and dpurR grown to exponential and stationary phase,We report here that mutants for purR display altered transcriptional profiles compared to WT S. aureus at multiple stages of growth.,"USA300, JE2",Tryptic soy broth,NA,Delta-purR,https://www-ncbi-nlm-nih-gov.ezproxy.u-pec.fr/geo/query/acc.cgi?acc=GSE132179

@@ -1,0 +1,25 @@
+﻿Replicate,Genotype,Time
+1,Delta-CshA (Full Deletion),0 sec
+1,Delta-CshA (Full Deletion),150 sec
+1,Delta-CshA (Full Deletion),300 sec
+1,Delta-CshA (Full Deletion),600 sec
+1,WT,0 sec
+1,WT,150 sec
+1,WT,300 sec
+1,WT,600 sec
+1,Delta-CshA (C-Terminal Deletion),0 sec
+1,Delta-CshA (C-Terminal Deletion),150 sec
+1,Delta-CshA (C-Terminal Deletion),300 sec
+1,Delta-CshA (C-Terminal Deletion),600 sec
+2,Delta-CshA (C-Terminal Deletion),0 sec
+2,Delta-CshA (C-Terminal Deletion),150 sec
+2,Delta-CshA (C-Terminal Deletion),300 sec
+2,Delta-CshA (C-Terminal Deletion),600 sec
+2,Delta-CshA (Full Deletion),0 sec
+2,Delta-CshA (Full Deletion),150 sec
+2,Delta-CshA (Full Deletion),300 sec
+2,Delta-CshA (Full Deletion),600 sec
+2,WT,0 sec
+2,WT,150 sec
+2,WT,300 sec
+2,WT,600 sec

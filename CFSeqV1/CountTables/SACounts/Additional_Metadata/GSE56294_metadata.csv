@@ -1,0 +1,2 @@
+Date,GEO Accession,Title,Description,Strain,Medium,Treatment,Genotype,Link
+1/5/15,GSE56294,Comparative genomics of Staphylococcus aureus and the application of a “pan-genome” for assigning RNA-Seq transcript reads from divergent strains and in vivo human nasal samples,"in vitro comparison between two MRSA grown in rich (BHI) and poor media (SNM), compared with the nasal metatranscriptome reads of S. aureus.","USA300, T032, clinical isolate","BHI, SNM",NA,NA,https://www-ncbi-nlm-nih-gov.ezproxy.u-pec.fr/geo/query/acc.cgi?acc=GSE56294

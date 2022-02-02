@@ -1,0 +1,11 @@
+﻿Replicate,Genotype
+1,WT
+2,WT
+1,Delta-rsaE
+2,Delta-rsaE
+1,Delta-rsaE + RsaE Under Inducible Promoter (OFF)
+2,Delta-rsaE + RsaE Under Inducible Promoter (OFF)
+3,Delta-rsaE + RsaE Under Inducible Promoter (OFF)
+1,Delta-rsaE + RsaE Under Inducible Promoter (ON)
+2,Delta-rsaE + RsaE Under Inducible Promoter (ON)
+3,Delta-rsaE + RsaE Under Inducible Promoter (ON)

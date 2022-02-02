@@ -1,0 +1,2 @@
+Date ,GEO Accession ,Title ,Description,Strain,Medium,Treatment ,Genotype,Link
+1/29/19,GSE125741,Effect of apicidin on gene expression in Staphylococcus aureus USA300 strain LAC,"The fungal metabolite apicidin acts as a quorum sensing inhibitor in Staphylococcus aureus. Here we use RNA-sequencing to examine the effect of apicidin on gene expression, comparing to untreated wild-type and an agr quorum sensing mutant.","USA300, AH1292, AH1263",Tryptic soy broth,Apicidin,Delta-agr,https://www-ncbi-nlm-nih-gov.ezproxy.u-pec.fr/geo/query/acc.cgi?acc=GSE125741
