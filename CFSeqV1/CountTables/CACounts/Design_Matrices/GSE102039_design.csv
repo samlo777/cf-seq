@@ -1,9 +1,0 @@
-﻿Replicate,Genotype,Culture_State
-1,WT,YPD + Air
-2,WT,YPD + Air
-1,WT,YPD + CO2
-2,WT,YPD + CO2
-1,sfl2 mutant,YPD + Air
-2,sfl2 mutant,YPD + Air
-1,sfl2 mutant,YPD + CO2
-2,sfl2 mutant,YPD + CO2

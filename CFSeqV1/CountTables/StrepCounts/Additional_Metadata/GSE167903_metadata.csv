@@ -1,2 +1,0 @@
-Date ,GEO Accession ,Title ,Description,Strain,Medium,Treatment ,Genotype,Species
-1/1/21,GSE167903,RNA sequencing analysis of SczA-deficient Streptococcus agalactiae during Cu intoxication,"Total RNA was isolated from mid-log phase Streptococcus agalactiae cells deficient in SczA (∆sczA strain GU2791), grown in Todd-Hewitt broth (THB) medium supplemented with 0.5 mM Cu and sequenced using Illumina NextSeq500.","GU2791, 874391",Todd-Hewitt broth,Copper,Delta-sczA,Streptococcus agalactiae
