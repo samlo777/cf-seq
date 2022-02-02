@@ -1,0 +1,2 @@
+Date,GEO Accession,Title,Description,Strain,Medium,Treatment,Genotype,Link
+4/15/19,GSE129786,RNA SEQ NTHi modA10,Comparison of RNA expression profiles from NTHi strain R2866 expressing methyltransferase ModA10 (ON) or not (LOCK_OFF).,R2866,BHI,NA,Delta-ModA10,https://www-ncbi-nlm-nih-gov.ezproxy.u-pec.fr/geo/query/acc.cgi?acc=GSE129786
