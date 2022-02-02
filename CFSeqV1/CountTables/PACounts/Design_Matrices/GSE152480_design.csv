@@ -1,0 +1,10 @@
+﻿Replicate,Genotype 
+1,WT PAO1
+2,WT PAO1
+3,WT PAO1
+1,^alpA
+2,^alpA
+3,^alpA
+1,alpA [Stop]
+2,alpA [Stop]
+3,alpA [Stop]

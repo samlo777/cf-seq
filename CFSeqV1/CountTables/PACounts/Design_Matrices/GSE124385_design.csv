@@ -1,0 +1,13 @@
+﻿Replicate,Genotype,Treatment
+1,WT,Control 
+1,WT,HOCl
+1,WT,HOSCN
+1,∆rclR,Control 
+1,∆rclR,HOCl
+1,∆rclR,HOSCN
+2,WT,Control 
+2,WT,HOCl
+2,WT,HOSCN
+2,∆rclR,Control 
+2,∆rclR,HOCl
+2,∆rclR,HOSCN
