@@ -1,0 +1,17 @@
+﻿Replicate,Genotype,Time
+1,WT,0 min
+1,WT,15 min
+1,WT,45 min
+1,Gcn5-Deficient,0 min
+1,Gcn5-Deficient,15 min
+1,Gcn5-Deficient,45 min
+2,WT,0 min
+2,WT,15 min
+2,WT,45 min
+2,Gcn5-Deficient,0 min
+3,WT,0 min
+3,WT,15 min
+3,WT,45 min
+3,Gcn5-Deficient,0 min
+2,Gcn5-Deficient,15 min
+2,Gcn5-Deficient,45 min

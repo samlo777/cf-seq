@@ -1,0 +1,11 @@
+﻿Replicate,Treatment,Genotype
+1,bathocuproine disulfonate (Copper Depletion Agent),Delta-Mac1
+2,bathocuproine disulfonate (Copper Depletion Agent),Delta-Mac1
+1,Control,Delta-Mac1
+2,Control,Delta-Mac1
+1,bathocuproine disulfonate (Copper Depletion Agent),WT
+2,bathocuproine disulfonate (Copper Depletion Agent),WT
+1,Copper Sulfate,WT
+2,Copper Sulfate,WT
+1,Control,WT
+2,Control,WT

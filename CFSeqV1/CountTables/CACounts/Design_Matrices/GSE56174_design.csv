@@ -1,0 +1,13 @@
+﻿Replicate,Strain,Medium
+1,chp1^efg1^,YPD
+2,chp1^efg1^,YPD
+3,chp1^efg1^,YPD
+1,chp1^efg1^,DMEM+10%FBS
+2,chp1^efg1^,DMEM+10%FBS
+3,chp1^efg1^,DMEM+10%FBS
+1,Evo,YPD
+2,Evo,YPD
+3,Evo,YPD
+1,Evo,DMEM+10%FBS
+2,Evo,DMEM+10%FBS
+3,Evo,DMEM+10%FBS
