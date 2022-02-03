@@ -1,0 +1,13 @@
+﻿Replicate,Treatment,Time
+1,Control,Untreated
+2,Control,Untreated
+3,Control,Untreated
+1,Heat-Shock,10 min
+2,Heat-Shock,10 min
+3,Heat-Shock,10 min
+1,Heat-Shock,20 min
+2,Heat-Shock,20 min
+3,Heat-Shock,20 min
+1,Heat-Shock,30 min
+2,Heat-Shock,30 min
+3,Heat-Shock,30 min

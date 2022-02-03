@@ -1,0 +1,6 @@
+﻿Replicate,Treatment,Time
+1,Control,Untreated
+2,Control,Untreated
+1,Bacteriophage SpSL1,10 min
+1,Bacteriophage SpSL1,50 min
+1,Bacteriophage SpSL1,90 min

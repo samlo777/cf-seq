@@ -1,0 +1,12 @@
+﻿Replicate,Genotype
+1,WT
+2,WT
+3,WT
+1,Delta-pbp1a
+2,Delta-pbp1a
+1,Delta-pbp1a + Delta-mltG
+2,Delta-pbp1a + Delta-mltG
+3,Delta-pbp1a + Delta-mltG
+1,Delta-pbp1a + Delta-mltG + Delta-pbp2b
+2,Delta-pbp1a + Delta-mltG + Delta-pbp2b
+3,Delta-pbp1a + Delta-mltG + Delta-pbp2b
