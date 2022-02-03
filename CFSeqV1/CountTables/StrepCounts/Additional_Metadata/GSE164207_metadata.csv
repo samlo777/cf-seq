@@ -1,0 +1,2 @@
+Date,GEO Accession,Title,Description,Strain,Medium,Treatment,Genotype,Species,Link
+1/11/21,GSE164207,RNA sequencing analysis of the genes regulated by TroR in Streptococcus suis,"The transcriptome of the wild type strain and ΔtroR of Streptococcus suis was compared by RNA sequencing analysis. The data revealed that some genes, such as the troABCD operon, were significantly differentially expressed in the ΔtroR mutant.",SC19,Tryptic soy broth,NA,Delta-troR,Streptococcus suis,https://www-ncbi-nlm-nih-gov.ezproxy.u-pec.fr/geo/query/acc.cgi?acc=GSE164207

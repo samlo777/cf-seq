@@ -1,0 +1,2 @@
+Date,GEO Accession,Title,Description,Strain,Medium,Treatment,Genotype,Species,Link
+6/13/17,GSE87759,RNA-seq analysis of genes regulated by stk in Streptococcus suis serotype 2,"To reveal the scope of the stk regulation and explore the differences in the regulatory roles of SC-19 and ∆stk, the global gene transcription profiles of the WT and ∆stk strains were determined by RNA-seq analysis.",05ZYH33,Tryptic soy broth,NA,Delta-stk,Streptococcus suis,https://www-ncbi-nlm-nih-gov.ezproxy.u-pec.fr/geo/query/acc.cgi?acc=GSE87759
