@@ -1,0 +1,2785 @@
+,Gene,Pathway
+1,sax:USA300_0001 dnaA,Two-component system
+2,sax:USA300_0002 dnaN,DNA replication
+3,sax:USA300_0002 dnaN,Mismatch repair
+4,sax:USA300_0002 dnaN,Homologous recombination
+5,sax:USA300_0004 recF,Homologous recombination
+6,sax:USA300_0008 hutH,Histidine metabolism
+7,sax:USA300_0008 hutH,Metabolic pathways
+8,sax:USA300_0009 serS,Aminoacyl-tRNA biosynthesis
+9,sax:USA300_0012 metX,Cysteine and methionine metabolism
+10,sax:USA300_0012 metX,Sulfur metabolism
+11,sax:USA300_0012 metX,Metabolic pathways
+12,sax:USA300_0012 metX,Biosynthesis of secondary metabolites
+13,sax:USA300_0012 metX,Biosynthesis of amino acids
+14,sax:USA300_0015 rplI,Ribosome
+15,sax:USA300_0016 dnaB1,DNA replication
+16,sax:USA300_0017 purA,Purine metabolism
+17,sax:USA300_0017 purA,"Alanine, aspartate and glutamate metabolism"
+18,sax:USA300_0017 purA,Metabolic pathways
+19,sax:USA300_0017 purA,Biosynthesis of cofactors
+20,sax:USA300_t0001,Aminoacyl-tRNA biosynthesis
+21,sax:USA300_t0002,Aminoacyl-tRNA biosynthesis
+22,sax:USA300_0018 yycF,Two-component system
+23,sax:USA300_0019,Two-component system
+24,sax:USA300_0029 ugpQ1,Glycerophospholipid metabolism
+25,sax:USA300_0031 mecA,Peptidoglycan biosynthesis
+26,sax:USA300_0031 mecA,Metabolic pathways
+27,sax:USA300_0031 mecA,beta-Lactam resistance
+28,sax:USA300_0032 mecR1,beta-Lactam resistance
+29,sax:USA300_0044,Homologous recombination
+30,sax:USA300_0045,Pyruvate metabolism
+31,sax:USA300_0045,Metabolic pathways
+32,sax:USA300_0057,Arginine and proline metabolism
+33,sax:USA300_0057,Metabolic pathways
+34,sax:USA300_0059 adhC,Glycolysis / Gluconeogenesis
+35,sax:USA300_0059 adhC,Fatty acid degradation
+36,sax:USA300_0059 adhC,Tyrosine metabolism
+37,sax:USA300_0059 adhC,Pyruvate metabolism
+38,sax:USA300_0059 adhC,Chloroalkane and chloroalkene degradation
+39,sax:USA300_0059 adhC,Naphthalene degradation
+40,sax:USA300_0059 adhC,Metabolic pathways
+41,sax:USA300_0059 adhC,Biosynthesis of secondary metabolites
+42,sax:USA300_0059 adhC,Microbial metabolism in diverse environments
+43,sax:USA300_0059 adhC,Degradation of aromatic compounds
+44,sax:USA300_0066 arcC1,Arginine biosynthesis
+45,sax:USA300_0066 arcC1,Purine metabolism
+46,sax:USA300_0066 arcC1,Nitrogen metabolism
+47,sax:USA300_0066 arcC1,Metabolic pathways
+48,sax:USA300_0066 arcC1,Microbial metabolism in diverse environments
+49,sax:USA300_0066 arcC1,Carbon metabolism
+50,sax:USA300_0067 arcB1,Arginine biosynthesis
+51,sax:USA300_0067 arcB1,Metabolic pathways
+52,sax:USA300_0067 arcB1,Biosynthesis of secondary metabolites
+53,sax:USA300_0067 arcB1,Biosynthesis of amino acids
+54,sax:USA300_0070 arcA1,Arginine biosynthesis
+55,sax:USA300_0070 arcA1,Metabolic pathways
+56,sax:USA300_0070 arcA1,Biosynthesis of secondary metabolites
+57,sax:USA300_0078,Quorum sensing
+58,sax:USA300_0079,Quorum sensing
+59,sax:USA300_0080,Quorum sensing
+60,sax:USA300_0081,Quorum sensing
+61,sax:USA300_0082,Quorum sensing
+62,sax:USA300_0093,Pyruvate metabolism
+63,sax:USA300_0093,Metabolic pathways
+64,sax:USA300_0108 plc,Inositol phosphate metabolism
+65,sax:USA300_0108 plc,Metabolic pathways
+66,sax:USA300_0122 spa,Staphylococcus aureus infection
+67,sax:USA300_0127,Biosynthesis of various other secondary metabolites
+68,sax:USA300_0127,Biosynthesis of various antibiotics
+69,sax:USA300_0127,Metabolic pathways
+70,sax:USA300_0127,Biosynthesis of secondary metabolites
+71,sax:USA300_0128 ocd,Biosynthesis of various other secondary metabolites
+72,sax:USA300_0128 ocd,Biosynthesis of various antibiotics
+73,sax:USA300_0128 ocd,Metabolic pathways
+74,sax:USA300_0128 ocd,Biosynthesis of secondary metabolites
+75,sax:USA300_0129,Biosynthesis of various other secondary metabolites
+76,sax:USA300_0129,Metabolic pathways
+77,sax:USA300_0129,Biosynthesis of secondary metabolites
+78,sax:USA300_0131,Biosynthesis of various other secondary metabolites
+79,sax:USA300_0131,Metabolic pathways
+80,sax:USA300_0131,Biosynthesis of secondary metabolites
+81,sax:USA300_0132,Biosynthesis of various other secondary metabolites
+82,sax:USA300_0132,Metabolic pathways
+83,sax:USA300_0132,Biosynthesis of secondary metabolites
+84,sax:USA3000134 lysA1,Biosynthesis of various other secondary metabolites
+85,sax:USA3000134 lysA1,Metabolic pathways
+86,sax:USA3000134 lysA1,Biosynthesis of secondary metabolites
+87,sax:USA300_0135,Biosynthesis of various other secondary metabolites
+88,sax:USA300_0135,Metabolic pathways
+89,sax:USA300_0135,Biosynthesis of secondary metabolites
+90,sax:USA300_0138,Butanoate metabolism
+91,sax:USA300_0138,Biosynthesis of secondary metabolites
+92,sax:USA300_0140 galE,Galactose metabolism
+93,sax:USA300_0140 galE,Amino sugar and nucleotide sugar metabolism
+94,sax:USA300_0140 galE,O-Antigen nucleotide sugar biosynthesis
+95,sax:USA300_0140 galE,Metabolic pathways
+96,sax:USA300_0140 galE,Biosynthesis of nucleotide sugars
+97,sax:USA3000148 deoD1,Purine metabolism
+98,sax:USA3000148 deoD1,Pyrimidine metabolism
+99,sax:USA3000148 deoD1,Nicotinate and nicotinamide metabolism
+100,sax:USA3000148 deoD1,Metabolic pathways
+101,sax:USA3000148 deoD1,Biosynthesis of secondary metabolites
+102,sax:USA3000150 deoC1,Pentose phosphate pathway
+103,sax:USA3000150 deoC1,Metabolic pathways
+104,sax:USA3000151 deoB1,Pentose phosphate pathway
+105,sax:USA3000151 deoB1,Purine metabolism
+106,sax:USA3000151 deoB1,Metabolic pathways
+107,sax:USA300_0152,ABC transporters
+108,sax:USA300_0153,ABC transporters
+109,sax:USA300_0154,ABC transporters
+110,sax:USA300_0155,ABC transporters
+111,sax:USA300_0162,Glycolysis / Gluconeogenesis
+112,sax:USA300_0162,Fatty acid degradation
+113,sax:USA300_0162,Tyrosine metabolism
+114,sax:USA300_0162,Pyruvate metabolism
+115,sax:USA300_0162,Chloroalkane and chloroalkene degradation
+116,sax:USA300_0162,Naphthalene degradation
+117,sax:USA300_0162,Butanoate metabolism
+118,sax:USA300_0162,Metabolic pathways
+119,sax:USA300_0162,Biosynthesis of secondary metabolites
+120,sax:USA300_0162,Microbial metabolism in diverse environments
+121,sax:USA300_0162,Degradation of aromatic compounds
+122,sax:USA3000167 cap5E,Amino sugar and nucleotide sugar metabolism
+123,sax:USA3000167 cap5E,O-Antigen nucleotide sugar biosynthesis
+124,sax:USA3000167 cap5E,Metabolic pathways
+125,sax:USA3000167 cap5E,Biosynthesis of nucleotide sugars
+126,sax:USA3000168 cap5F,O-Antigen nucleotide sugar biosynthesis
+127,sax:USA3000168 cap5F,Metabolic pathways
+128,sax:USA3000168 cap5F,Biosynthesis of nucleotide sugars
+129,sax:USA3000177 cap5O,Amino sugar and nucleotide sugar metabolism
+130,sax:USA3000177 cap5O,O-Antigen nucleotide sugar biosynthesis
+131,sax:USA3000177 cap5O,Metabolic pathways
+132,sax:USA3000177 cap5O,Biosynthesis of nucleotide sugars
+133,sax:USA3000177 cap5O,Two-component system
+134,sax:USA3000178 cap5P,Amino sugar and nucleotide sugar metabolism
+135,sax:USA3000178 cap5P,O-Antigen nucleotide sugar biosynthesis
+136,sax:USA3000178 cap5P,Metabolic pathways
+137,sax:USA3000178 cap5P,Biosynthesis of nucleotide sugars
+138,sax:USA3000178 cap5P,Two-component system
+139,sax:USA3000179 isdG1,Porphyrin metabolism
+140,sax:USA3000179 isdG1,Biosynthesis of secondary metabolites
+141,sax:USA3000181 aldH2,Glycolysis / Gluconeogenesis
+142,sax:USA3000181 aldH2,Ascorbate and aldarate metabolism
+143,sax:USA3000181 aldH2,Fatty acid degradation
+144,sax:USA3000181 aldH2,"Valine, leucine and isoleucine degradation"
+145,sax:USA3000181 aldH2,Lysine degradation
+146,sax:USA3000181 aldH2,Arginine and proline metabolism
+147,sax:USA3000181 aldH2,Histidine metabolism
+148,sax:USA3000181 aldH2,Tryptophan metabolism
+149,sax:USA3000181 aldH2,beta-Alanine metabolism
+150,sax:USA3000181 aldH2,Glycerolipid metabolism
+151,sax:USA3000181 aldH2,Pyruvate metabolism
+152,sax:USA3000181 aldH2,Chloroalkane and chloroalkene degradation
+153,sax:USA3000181 aldH2,Pantothenate and CoA biosynthesis
+154,sax:USA3000181 aldH2,Metabolic pathways
+155,sax:USA3000181 aldH2,Biosynthesis of secondary metabolites
+156,sax:USA3000181 aldH2,Microbial metabolism in diverse environments
+157,sax:USA3000181 aldH2,Biosynthesis of cofactors
+158,sax:USA300_0190 fdh,Glyoxylate and dicarboxylate metabolism
+159,sax:USA300_0190 fdh,Methane metabolism
+160,sax:USA300_0190 fdh,Metabolic pathways
+161,sax:USA300_0190 fdh,Microbial metabolism in diverse environments
+162,sax:USA300_0190 fdh,Carbon metabolism
+163,sax:USA300_0195 argB,Arginine biosynthesis
+164,sax:USA300_0195 argB,Metabolic pathways
+165,sax:USA300_0195 argB,Biosynthesis of secondary metabolites
+166,sax:USA300_0195 argB,2-Oxocarboxylic acid metabolism
+167,sax:USA300_0195 argB,Biosynthesis of amino acids
+168,sax:USA300_0196 argJ,Arginine biosynthesis
+169,sax:USA300_0196 argJ,Metabolic pathways
+170,sax:USA300_0196 argJ,Biosynthesis of secondary metabolites
+171,sax:USA300_0196 argJ,2-Oxocarboxylic acid metabolism
+172,sax:USA300_0196 argJ,Biosynthesis of amino acids
+173,sax:USA300_0197 argC,Arginine biosynthesis
+174,sax:USA300_0197 argC,Metabolic pathways
+175,sax:USA300_0197 argC,Biosynthesis of secondary metabolites
+176,sax:USA300_0197 argC,2-Oxocarboxylic acid metabolism
+177,sax:USA300_0197 argC,Biosynthesis of amino acids
+178,sax:USA300_0198 argD,Arginine and proline metabolism
+179,sax:USA300_0198 argD,Metabolic pathways
+180,sax:USA300_0198 argD,Biosynthesis of secondary metabolites
+181,sax:USA300_0203,Glycolysis / Gluconeogenesis
+182,sax:USA300_0203,Amino sugar and nucleotide sugar metabolism
+183,sax:USA300_0203,Metabolic pathways
+184,sax:USA300_0203,Phosphotransferase system (PTS)
+185,sax:USA300_0205,Amino sugar and nucleotide sugar metabolism
+186,sax:USA300_0205,Metabolic pathways
+187,sax:USA300_0206,Starch and sucrose metabolism
+188,sax:USA300_0206,Phosphotransferase system (PTS)
+189,sax:USA300_0212,Quorum sensing
+190,sax:USA300_0213,Quorum sensing
+191,sax:USA300_0214,Quorum sensing
+192,sax:USA300_0215 rlp,Quorum sensing
+193,sax:USA300_0216 ggt,Taurine and hypotaurine metabolism
+194,sax:USA300_0216 ggt,Cyanoamino acid metabolism
+195,sax:USA300_0216 ggt,Glutathione metabolism
+196,sax:USA300_0216 ggt,Metabolic pathways
+197,sax:USA300_0220,ABC transporters
+198,sax:USA300_0221,ABC transporters
+199,sax:USA300_0222,ABC transporters
+200,sax:USA300_0223,ABC transporters
+201,sax:USA300_0229,Two-component system
+202,sax:USA300_0230,Two-component system
+203,sax:USA300_0231,Two-component system
+204,sax:USA300_0232,Two-component system
+205,sax:USA300_0233 pfl,Pyruvate metabolism
+206,sax:USA300_0233 pfl,Propanoate metabolism
+207,sax:USA300_0233 pfl,Butanoate metabolism
+208,sax:USA300_0233 pfl,Metabolic pathways
+209,sax:USA300_0233 pfl,Microbial metabolism in diverse environments
+210,sax:USA3000236 glpQ1,Glycerophospholipid metabolism
+211,sax:USA300_0237,Staphylococcus aureus infection
+212,sax:USA300_0240,Fatty acid degradation
+213,sax:USA300_0240,"Valine, leucine and isoleucine degradation"
+214,sax:USA300_0240,Geraniol degradation
+215,sax:USA300_0240,Benzoate degradation
+216,sax:USA300_0240,alpha-Linolenic acid metabolism
+217,sax:USA300_0240,Metabolic pathways
+218,sax:USA300_0240,Biosynthesis of secondary metabolites
+219,sax:USA300_0240,Microbial metabolism in diverse environments
+220,sax:USA300_0240,Fatty acid metabolism
+221,sax:USA300_0241,Fatty acid degradation
+222,sax:USA300_0241,Benzoate degradation
+223,sax:USA300_0241,Butanoate metabolism
+224,sax:USA300_0241,Metabolic pathways
+225,sax:USA300_0241,Microbial metabolism in diverse environments
+226,sax:USA300_0241,Carbon metabolism
+227,sax:USA300_0241,Fatty acid metabolism
+228,sax:USA300_0242,Fatty acid degradation
+229,sax:USA300_0242,Lysine degradation
+230,sax:USA300_0242,Benzoate degradation
+231,sax:USA300_0242,Tryptophan metabolism
+232,sax:USA300_0242,Metabolic pathways
+233,sax:USA300_0242,Biosynthesis of secondary metabolites
+234,sax:USA300_0242,Microbial metabolism in diverse environments
+235,sax:USA300_0243,Fatty acid biosynthesis
+236,sax:USA300_0243,Fatty acid degradation
+237,sax:USA300_0243,Metabolic pathways
+238,sax:USA300_0243,Fatty acid metabolism
+239,sax:USA300_0243,Quorum sensing
+240,sax:USA300_0244,Pyruvate metabolism
+241,sax:USA300_0244,Propanoate metabolism
+242,sax:USA300_0244,Styrene degradation
+243,sax:USA300_0244,Metabolic pathways
+244,sax:USA300_0244,Microbial metabolism in diverse environments
+245,sax:USA300_0246,Quorum sensing
+246,sax:USA300_0251 ldh,Glycolysis / Gluconeogenesis
+247,sax:USA300_0251 ldh,Cysteine and methionine metabolism
+248,sax:USA300_0251 ldh,Pyruvate metabolism
+249,sax:USA300_0251 ldh,Propanoate metabolism
+250,sax:USA300_0251 ldh,Metabolic pathways
+251,sax:USA300_0251 ldh,Biosynthesis of secondary metabolites
+252,sax:USA300_0251 ldh,Microbial metabolism in diverse environments
+253,sax:USA300_0252,Glycolysis / Gluconeogenesis
+254,sax:USA300_0252,Starch and sucrose metabolism
+255,sax:USA300_0252,Amino sugar and nucleotide sugar metabolism
+256,sax:USA300_0252,Metabolic pathways
+257,sax:USA300_0252,Phosphotransferase system (PTS)
+258,sax:USA300_0256,Galactose metabolism
+259,sax:USA300_0256,Metabolic pathways
+260,sax:USA300_0256,Phosphotransferase system (PTS)
+261,sax:USA300_0257,Galactose metabolism
+262,sax:USA300_0257,Metabolic pathways
+263,sax:USA300_0257,Phosphotransferase system (PTS)
+264,sax:USA3000258 gatC1,Galactose metabolism
+265,sax:USA3000258 gatC1,Metabolic pathways
+266,sax:USA3000258 gatC1,Phosphotransferase system (PTS)
+267,sax:USA300_0259 gutB,Pentose and glucuronate interconversions
+268,sax:USA300_0259 gutB,Fructose and mannose metabolism
+269,sax:USA300_0259 gutB,Metabolic pathways
+270,sax:USA300_0261,Pentose and glucuronate interconversions
+271,sax:USA300_0261,Fructose and mannose metabolism
+272,sax:USA300_0261,Metabolic pathways
+273,sax:USA3000262 ispD2,Pentose and glucuronate interconversions
+274,sax:USA3000262 ispD2,Metabolic pathways
+275,sax:USA300_0263,Pentose and glucuronate interconversions
+276,sax:USA300_0263,Metabolic pathways
+277,sax:USA300_0266,Pentose and glucuronate interconversions
+278,sax:USA300_0266,Metabolic pathways
+279,sax:USA300_0267,Pentose and glucuronate interconversions
+280,sax:USA300_0267,Metabolic pathways
+281,sax:USA300_0271 lytS,Two-component system
+282,sax:USA300_0272 lytR,Two-component system
+283,sax:USA300_0273 lrgA,Two-component system
+284,sax:USA300_0274 lrgB,Two-component system
+285,sax:USA300_0277 bglA,Glycolysis / Gluconeogenesis
+286,sax:USA300_0277 bglA,Starch and sucrose metabolism
+287,sax:USA300_0280 rbsK,Pentose phosphate pathway
+288,sax:USA300_0280 rbsK,Metabolic pathways
+289,sax:USA300_0281 rbsD,ABC transporters
+290,sax:USA300_0288,Biosynthesis of secondary metabolites
+291,sax:USA300_0331,Pyrimidine metabolism
+292,sax:USA300_0331,Metabolic pathways
+293,sax:USA300_0332,Pyrimidine metabolism
+294,sax:USA300_0332,Metabolic pathways
+295,sax:USA300_0335 nanA,Amino sugar and nucleotide sugar metabolism
+296,sax:USA300_0335 nanA,Metabolic pathways
+297,sax:USA300_0338 nanE,Amino sugar and nucleotide sugar metabolism
+298,sax:USA300_0338 nanE,Metabolic pathways
+299,sax:USA300_0340 lip1,Glycerolipid metabolism
+300,sax:USA300_0340 lip1,Metabolic pathways
+301,sax:USA3000348 lplA1,Lipoic acid metabolism
+302,sax:USA3000348 lplA1,Metabolic pathways
+303,sax:USA3000348 lplA1,Biosynthesis of cofactors
+304,sax:USA300_0350,Ascorbate and aldarate metabolism
+305,sax:USA300_0350,Metabolic pathways
+306,sax:USA300_0350,Microbial metabolism in diverse environments
+307,sax:USA300_0350,Phosphotransferase system (PTS)
+308,sax:USA300_0351,Ascorbate and aldarate metabolism
+309,sax:USA300_0351,Metabolic pathways
+310,sax:USA300_0351,Microbial metabolism in diverse environments
+311,sax:USA300_0351,Phosphotransferase system (PTS)
+312,sax:USA300_0352,Ascorbate and aldarate metabolism
+313,sax:USA300_0352,Metabolic pathways
+314,sax:USA300_0352,Microbial metabolism in diverse environments
+315,sax:USA300_0352,Phosphotransferase system (PTS)
+316,sax:USA300_0360,Riboflavin metabolism
+317,sax:USA300_0360,Sulfur metabolism
+318,sax:USA300_0360,Metabolic pathways
+319,sax:USA300_0367,Protein export
+320,sax:USA300_0367,Bacterial secretion system
+321,sax:USA300_0368,Protein export
+322,sax:USA300_0368,Bacterial secretion system
+323,sax:USA300_0375,Fatty acid degradation
+324,sax:USA300_0375,"Valine, leucine and isoleucine degradation"
+325,sax:USA300_0375,Lysine degradation
+326,sax:USA300_0375,Benzoate degradation
+327,sax:USA300_0375,Tryptophan metabolism
+328,sax:USA300_0375,Pyruvate metabolism
+329,sax:USA300_0375,Glyoxylate and dicarboxylate metabolism
+330,sax:USA300_0375,Butanoate metabolism
+331,sax:USA300_0375,Terpenoid backbone biosynthesis
+332,sax:USA300_0375,Metabolic pathways
+333,sax:USA300_0375,Biosynthesis of secondary metabolites
+334,sax:USA300_0375,Microbial metabolism in diverse environments
+335,sax:USA300_0375,Carbon metabolism
+336,sax:USA300_0375,Fatty acid metabolism
+337,sax:USA300_0375,Two-component system
+338,sax:USA300_0377 metE,Cysteine and methionine metabolism
+339,sax:USA300_0377 metE,Selenocompound metabolism
+340,sax:USA300_0377 metE,Metabolic pathways
+341,sax:USA300_0377 metE,Biosynthesis of secondary metabolites
+342,sax:USA300_0377 metE,Biosynthesis of amino acids
+343,sax:USA300_0378,Cysteine and methionine metabolism
+344,sax:USA300_0378,Selenocompound metabolism
+345,sax:USA300_0378,One carbon pool by folate
+346,sax:USA300_0378,Metabolic pathways
+347,sax:USA300_0378,Biosynthesis of secondary metabolites
+348,sax:USA300_0378,Microbial metabolism in diverse environments
+349,sax:USA300_0378,Biosynthesis of amino acids
+350,sax:USA300_0379,Cysteine and methionine metabolism
+351,sax:USA300_0379,Selenocompound metabolism
+352,sax:USA300_0379,Metabolic pathways
+353,sax:USA300_0379,Biosynthesis of secondary metabolites
+354,sax:USA300_0379,Biosynthesis of amino acids
+355,sax:USA300_0380,Cysteine and methionine metabolism
+356,sax:USA300_0380,Selenocompound metabolism
+357,sax:USA300_0380,Sulfur metabolism
+358,sax:USA300_0380,Metabolic pathways
+359,sax:USA300_0380,Biosynthesis of secondary metabolites
+360,sax:USA300_0380,Biosynthesis of amino acids
+361,sax:USA300_0387 rpsF,Ribosome
+362,sax:USA300_0388 ssb1,DNA replication
+363,sax:USA300_0388 ssb1,Mismatch repair
+364,sax:USA300_0388 ssb1,Homologous recombination
+365,sax:USA300_0389 rpsR,Ribosome
+366,sax:USA300_0399,Glycolysis / Gluconeogenesis
+367,sax:USA300_0399,"Glycine, serine and threonine metabolism"
+368,sax:USA300_0399,Methane metabolism
+369,sax:USA300_0399,Metabolic pathways
+370,sax:USA300_0399,Biosynthesis of secondary metabolites
+371,sax:USA300_0399,Microbial metabolism in diverse environments
+372,sax:USA300_0399,Carbon metabolism
+373,sax:USA300_0399,Biosynthesis of amino acids
+374,sax:USA300_0405,Riboflavin metabolism
+375,sax:USA300_0405,Metabolic pathways
+376,sax:USA300_0411 xprT,Purine metabolism
+377,sax:USA300_0411 xprT,Metabolic pathways
+378,sax:USA300_0411 xprT,Biosynthesis of secondary metabolites
+379,sax:USA300_0413 guaB,Purine metabolism
+380,sax:USA300_0413 guaB,Metabolic pathways
+381,sax:USA300_0413 guaB,Biosynthesis of secondary metabolites
+382,sax:USA300_0414 guaA,Purine metabolism
+383,sax:USA300_0414 guaA,Metabolic pathways
+384,sax:USA3000427 set20,Staphylococcus aureus infection
+385,sax:USA3000428 set21,Staphylococcus aureus infection
+386,sax:USA3000429 set22,Staphylococcus aureus infection
+387,sax:USA300_0435 set,Staphylococcus aureus infection
+388,sax:USA300_0455,Quorum sensing
+389,sax:USA300_0456,Quorum sensing
+390,sax:USA300_0457,Oxidative phosphorylation
+391,sax:USA300_0457,Metabolic pathways
+392,sax:USA300_0464,ABC transporters
+393,sax:USA3000472 gltB1,"Alanine, aspartate and glutamate metabolism"
+394,sax:USA3000472 gltB1,Nitrogen metabolism
+395,sax:USA3000472 gltB1,Metabolic pathways
+396,sax:USA3000472 gltB1,Biosynthesis of secondary metabolites
+397,sax:USA3000472 gltB1,Microbial metabolism in diverse environments
+398,sax:USA3000472 gltB1,Biosynthesis of amino acids
+399,sax:USA300_0473 gltD,"Alanine, aspartate and glutamate metabolism"
+400,sax:USA300_0473 gltD,Nitrogen metabolism
+401,sax:USA300_0473 gltD,Metabolic pathways
+402,sax:USA300_0473 gltD,Biosynthesis of secondary metabolites
+403,sax:USA300_0473 gltD,Microbial metabolism in diverse environments
+404,sax:USA300_0473 gltD,Biosynthesis of amino acids
+405,sax:USA300_t0003,Aminoacyl-tRNA biosynthesis
+406,sax:USA300_0474 treP,Starch and sucrose metabolism
+407,sax:USA300_0474 treP,Phosphotransferase system (PTS)
+408,sax:USA300_0475 amyA,Starch and sucrose metabolism
+409,sax:USA300_0475 amyA,Metabolic pathways
+410,sax:USA300nc0002 srp,Protein export
+411,sax:USA3000477 dnaZX,DNA replication
+412,sax:USA3000477 dnaZX,Mismatch repair
+413,sax:USA3000477 dnaZX,Homologous recombination
+414,sax:USA300_0479 recR,Homologous recombination
+415,sax:USA300r0001 rrs1,Ribosome
+416,sax:USA300r0002 rrl1,Ribosome
+417,sax:USA300r0003 rrf1,Ribosome
+418,sax:USA300_0481 tmk,Pyrimidine metabolism
+419,sax:USA300_0481 tmk,Metabolic pathways
+420,sax:USA300_0483 holB,DNA replication
+421,sax:USA300_0483 holB,Mismatch repair
+422,sax:USA300_0483 holB,Homologous recombination
+423,sax:USA300_0490 metS,Selenocompound metabolism
+424,sax:USA300_0490 metS,Aminoacyl-tRNA biosynthesis
+425,sax:USA300_0490 metS,Metabolic pathways
+426,sax:USA300_0495 rplY,Ribosome
+427,sax:USA300_0497 mfd,Nucleotide excision repair
+428,sax:USA300_0504 hpt,Purine metabolism
+429,sax:USA300_0504 hpt,Metabolic pathways
+430,sax:USA300_0504 hpt,Biosynthesis of secondary metabolites
+431,sax:USA300_0507 cysK,Cysteine and methionine metabolism
+432,sax:USA300_0507 cysK,Sulfur metabolism
+433,sax:USA300_0507 cysK,Metabolic pathways
+434,sax:USA300_0507 cysK,Biosynthesis of secondary metabolites
+435,sax:USA300_0507 cysK,Microbial metabolism in diverse environments
+436,sax:USA300_0507 cysK,Carbon metabolism
+437,sax:USA300_0507 cysK,Biosynthesis of amino acids
+438,sax:USA300_0508 sul,Folate biosynthesis
+439,sax:USA300_0508 sul,Metabolic pathways
+440,sax:USA300_0508 sul,Biosynthesis of cofactors
+441,sax:USA300_0509 folB,Folate biosynthesis
+442,sax:USA300_0509 folB,Metabolic pathways
+443,sax:USA300_0509 folB,Biosynthesis of cofactors
+444,sax:USA300r0004 rrf2,Ribosome
+445,sax:USA300_t0004,Aminoacyl-tRNA biosynthesis
+446,sax:USA300_t0005,Aminoacyl-tRNA biosynthesis
+447,sax:USA300_t0006,Aminoacyl-tRNA biosynthesis
+448,sax:USA300_t0007,Aminoacyl-tRNA biosynthesis
+449,sax:USA300_t0008,Aminoacyl-tRNA biosynthesis
+450,sax:USA300_t0009,Aminoacyl-tRNA biosynthesis
+451,sax:USA300_t0010,Aminoacyl-tRNA biosynthesis
+452,sax:USA300_t0011,Aminoacyl-tRNA biosynthesis
+453,sax:USA300r0005 rrs2,Ribosome
+454,sax:USA300_t0012,Aminoacyl-tRNA biosynthesis
+455,sax:USA300r0006 rrl2,Ribosome
+456,sax:USA300r0007 rrf3,Ribosome
+457,sax:USA300_0511,Vitamin B6 metabolism
+458,sax:USA300_0511,Metabolic pathways
+459,sax:USA300_0511,Biosynthesis of cofactors
+460,sax:USA300_0512,Vitamin B6 metabolism
+461,sax:USA300_0512,Metabolic pathways
+462,sax:USA300_0512,Biosynthesis of cofactors
+463,sax:USA300_0521 gltX,Aminoacyl-tRNA biosynthesis
+464,sax:USA300_0521 gltX,Metabolic pathways
+465,sax:USA300_0521 gltX,Biosynthesis of cofactors
+466,sax:USA300_0522 cysE,Cysteine and methionine metabolism
+467,sax:USA300_0522 cysE,Sulfur metabolism
+468,sax:USA300_0522 cysE,Metabolic pathways
+469,sax:USA300_0522 cysE,Biosynthesis of secondary metabolites
+470,sax:USA300_0522 cysE,Microbial metabolism in diverse environments
+471,sax:USA300_0522 cysE,Carbon metabolism
+472,sax:USA300_0522 cysE,Biosynthesis of amino acids
+473,sax:USA300_0523 cysS,Aminoacyl-tRNA biosynthesis
+474,sax:USA3000528 rpmG1,Ribosome
+475,sax:USA300_0529 secE,Quorum sensing
+476,sax:USA300_0529 secE,Protein export
+477,sax:USA300_0529 secE,Bacterial secretion system
+478,sax:USA300_0531 rplK,Ribosome
+479,sax:USA300_0532 rplA,Ribosome
+480,sax:USA300_0533 rplJ,Ribosome
+481,sax:USA3000534 rplL1,Ribosome
+482,sax:USA300_0536 rpoB,RNA polymerase
+483,sax:USA300_0537 rpoC,RNA polymerase
+484,sax:USA300_0538,Ribosome
+485,sax:USA300_0539 rpsL,Ribosome
+486,sax:USA300_0540 rpsG,Ribosome
+487,sax:USA300_0543 kbl,"Glycine, serine and threonine metabolism"
+488,sax:USA300_0543 kbl,Metabolic pathways
+489,sax:USA300_0544,Pyruvate metabolism
+490,sax:USA300_0544,Metabolic pathways
+491,sax:USA300_0544,Microbial metabolism in diverse environments
+492,sax:USA300_0545 araB,Pentose and glucuronate interconversions
+493,sax:USA300_0545 araB,Metabolic pathways
+494,sax:USA300_0547 ilvE,Cysteine and methionine metabolism
+495,sax:USA300_0547 ilvE,"Valine, leucine and isoleucine degradation"
+496,sax:USA300_0547 ilvE,"Valine, leucine and isoleucine biosynthesis"
+497,sax:USA300_0547 ilvE,Pantothenate and CoA biosynthesis
+498,sax:USA300_0547 ilvE,Metabolic pathways
+499,sax:USA300_0547 ilvE,Biosynthesis of secondary metabolites
+500,sax:USA300_0547 ilvE,2-Oxocarboxylic acid metabolism
+501,sax:USA300_0547 ilvE,Biosynthesis of amino acids
+502,sax:USA300_0547 ilvE,Biosynthesis of cofactors
+503,sax:USA300_0549,Glyoxylate and dicarboxylate metabolism
+504,sax:USA300_0549,Metabolic pathways
+505,sax:USA300_0549,Biosynthesis of secondary metabolites
+506,sax:USA300_0550,Purine metabolism
+507,sax:USA300_0550,Pyrimidine metabolism
+508,sax:USA300_0550,Metabolic pathways
+509,sax:USA300_0551,Purine metabolism
+510,sax:USA300_0551,Metabolic pathways
+511,sax:USA300_0555 sdrC,Staphylococcus aureus infection
+512,sax:USA300_0556 sdrD,Staphylococcus aureus infection
+513,sax:USA300_0557 sdrE,Staphylococcus aureus infection
+514,sax:USA300_0560,Folate biosynthesis
+515,sax:USA300_0560,Metabolic pathways
+516,sax:USA300_0560,Biosynthesis of cofactors
+517,sax:USA300_0563 nagB,Amino sugar and nucleotide sugar metabolism
+518,sax:USA300_0563 nagB,Metabolic pathways
+519,sax:USA300_0564,Pentose phosphate pathway
+520,sax:USA300_0564,Methane metabolism
+521,sax:USA300_0564,Metabolic pathways
+522,sax:USA300_0564,Microbial metabolism in diverse environments
+523,sax:USA300_0564,Carbon metabolism
+524,sax:USA300_0564,Biosynthesis of amino acids
+525,sax:USA300_0565,Pentose phosphate pathway
+526,sax:USA300_0565,Methane metabolism
+527,sax:USA300_0565,Metabolic pathways
+528,sax:USA300_0565,Microbial metabolism in diverse environments
+529,sax:USA300_0565,Carbon metabolism
+530,sax:USA300_0565,Biosynthesis of amino acids
+531,sax:USA300_0566,Glyoxylate and dicarboxylate metabolism
+532,sax:USA300_0566,Metabolic pathways
+533,sax:USA300_0566,Biosynthesis of secondary metabolites
+534,sax:USA300_0569 vraB,Fatty acid degradation
+535,sax:USA300_0569 vraB,"Valine, leucine and isoleucine degradation"
+536,sax:USA300_0569 vraB,Lysine degradation
+537,sax:USA300_0569 vraB,Benzoate degradation
+538,sax:USA300_0569 vraB,Tryptophan metabolism
+539,sax:USA300_0569 vraB,Pyruvate metabolism
+540,sax:USA300_0569 vraB,Glyoxylate and dicarboxylate metabolism
+541,sax:USA300_0569 vraB,Butanoate metabolism
+542,sax:USA300_0569 vraB,Terpenoid backbone biosynthesis
+543,sax:USA300_0569 vraB,Metabolic pathways
+544,sax:USA300_0569 vraB,Biosynthesis of secondary metabolites
+545,sax:USA300_0569 vraB,Microbial metabolism in diverse environments
+546,sax:USA300_0569 vraB,Carbon metabolism
+547,sax:USA300_0569 vraB,Fatty acid metabolism
+548,sax:USA300_0569 vraB,Two-component system
+549,sax:USA300_0573 thiD,Vitamin B6 metabolism
+550,sax:USA300_0573 thiD,Metabolic pathways
+551,sax:USA300_0573 thiD,Biosynthesis of cofactors
+552,sax:USA300_0574 ung,Base excision repair
+553,sax:USA300_0580,Porphyrin metabolism
+554,sax:USA300_0580,Metabolic pathways
+555,sax:USA300_0580,Biosynthesis of secondary metabolites
+556,sax:USA300_0580,Biosynthesis of cofactors
+557,sax:USA300_0581 pta,Taurine and hypotaurine metabolism
+558,sax:USA300_0581 pta,Pyruvate metabolism
+559,sax:USA300_0581 pta,Propanoate metabolism
+560,sax:USA300_0581 pta,Methane metabolism
+561,sax:USA300_0581 pta,Metabolic pathways
+562,sax:USA300_0581 pta,Microbial metabolism in diverse environments
+563,sax:USA300_0581 pta,Carbon metabolism
+564,sax:USA3000582 lplA2,Lipoic acid metabolism
+565,sax:USA3000582 lplA2,Metabolic pathways
+566,sax:USA3000582 lplA2,Biosynthesis of cofactors
+567,sax:USA3000583 mvaK1,Terpenoid backbone biosynthesis
+568,sax:USA3000583 mvaK1,Metabolic pathways
+569,sax:USA3000583 mvaK1,Biosynthesis of secondary metabolites
+570,sax:USA300_0584 mvaD,Terpenoid backbone biosynthesis
+571,sax:USA300_0584 mvaD,Metabolic pathways
+572,sax:USA300_0584 mvaD,Biosynthesis of secondary metabolites
+573,sax:USA3000585 mvaK2,Terpenoid backbone biosynthesis
+574,sax:USA3000585 mvaK2,Metabolic pathways
+575,sax:USA3000585 mvaK2,Biosynthesis of secondary metabolites
+576,sax:USA300_0610 adh,Glycolysis / Gluconeogenesis
+577,sax:USA300_0610 adh,Fatty acid degradation
+578,sax:USA300_0610 adh,Tyrosine metabolism
+579,sax:USA300_0610 adh,Pyruvate metabolism
+580,sax:USA300_0610 adh,Chloroalkane and chloroalkene degradation
+581,sax:USA300_0610 adh,Naphthalene degradation
+582,sax:USA300_0610 adh,Metabolic pathways
+583,sax:USA300_0610 adh,Biosynthesis of secondary metabolites
+584,sax:USA300_0610 adh,Microbial metabolism in diverse environments
+585,sax:USA300_0610 adh,Degradation of aromatic compounds
+586,sax:USA300_0613 argS,Aminoacyl-tRNA biosynthesis
+587,sax:USA300_0651,ABC transporters
+588,sax:USA300_0652,ABC transporters
+589,sax:USA300_0653,ABC transporters
+590,sax:USA300_0657 tagH,ABC transporters
+591,sax:USA300_0658 tagG,ABC transporters
+592,sax:USA300_0661 tagD,Glycerophospholipid metabolism
+593,sax:USA300_0662 pbp4,Peptidoglycan biosynthesis
+594,sax:USA300_0662 pbp4,Metabolic pathways
+595,sax:USA300_0663,beta-Lactam resistance
+596,sax:USA300_0663,ABC transporters
+597,sax:USA300_0671,Glycerolipid metabolism
+598,sax:USA300_0671,Metabolic pathways
+599,sax:USA300_0672,Glycerolipid metabolism
+600,sax:USA300_0672,Metabolic pathways
+601,sax:USA300_0673,Glycerolipid metabolism
+602,sax:USA300_0673,Metabolic pathways
+603,sax:USA300_0680,Cationic antimicrobial peptide (CAMP) resistance
+604,sax:USA300_0680,Two-component system
+605,sax:USA300_0681,Cationic antimicrobial peptide (CAMP) resistance
+606,sax:USA300_0681,Two-component system
+607,sax:USA300_0682 vraF,Cationic antimicrobial peptide (CAMP) resistance
+608,sax:USA300_0682 vraF,ABC transporters
+609,sax:USA300_0682 vraF,Two-component system
+610,sax:USA300_0682 vraF,Staphylococcus aureus infection
+611,sax:USA300_0683 vraE,Cationic antimicrobial peptide (CAMP) resistance
+612,sax:USA300_0683 vraE,ABC transporters
+613,sax:USA300_0683 vraE,Two-component system
+614,sax:USA300_0683 vraE,Staphylococcus aureus infection
+615,sax:USA300_0706 bacA,Peptidoglycan biosynthesis
+616,sax:USA300_0707,ABC transporters
+617,sax:USA300_0708,ABC transporters
+618,sax:USA300_0722 fruK,Fructose and mannose metabolism
+619,sax:USA300_0722 fruK,Metabolic pathways
+620,sax:USA300_0722 fruK,Phosphotransferase system (PTS)
+621,sax:USA300_0723 fruA,Fructose and mannose metabolism
+622,sax:USA300_0723 fruA,Metabolic pathways
+623,sax:USA300_0723 fruA,Microbial metabolism in diverse environments
+624,sax:USA300_0723 fruA,Phosphotransferase system (PTS)
+625,sax:USA300_0724 nagA,Amino sugar and nucleotide sugar metabolism
+626,sax:USA300_0724 nagA,Metabolic pathways
+627,sax:USA300_0728 saeS,Two-component system
+628,sax:USA300_0729 saeR,Two-component system
+629,sax:USA300_0730,Sulfur metabolism
+630,sax:USA300_0730,Metabolic pathways
+631,sax:USA300_0730,Microbial metabolism in diverse environments
+632,sax:USA300_0733 exsD,Folate biosynthesis
+633,sax:USA300_0733 exsD,Metabolic pathways
+634,sax:USA300_0734,Folate biosynthesis
+635,sax:USA300_0734,Metabolic pathways
+636,sax:USA300_0734,Biosynthesis of cofactors
+637,sax:USA300_0735 exsB,Folate biosynthesis
+638,sax:USA300_0735 exsB,Metabolic pathways
+639,sax:USA300_0736 pabA,Folate biosynthesis
+640,sax:USA300_0736 pabA,Biosynthesis of cofactors
+641,sax:USA300_0737 pabB,Folate biosynthesis
+642,sax:USA300_0737 pabB,Biosynthesis of cofactors
+643,sax:USA300_0738 pabC,Folate biosynthesis
+644,sax:USA300_0738 pabC,Biosynthesis of cofactors
+645,sax:USA300_0742,Glycerolipid metabolism
+646,sax:USA300_0742,Metabolic pathways
+647,sax:USA3000744 recQ1,RNA degradation
+648,sax:USA300_0745,ABC transporters
+649,sax:USA300_0746,ABC transporters
+650,sax:USA3000747 hisC1,Histidine metabolism
+651,sax:USA3000747 hisC1,Tyrosine metabolism
+652,sax:USA3000747 hisC1,Phenylalanine metabolism
+653,sax:USA3000747 hisC1,"Phenylalanine, tyrosine and tryptophan biosynthesis"
+654,sax:USA3000747 hisC1,Novobiocin biosynthesis
+655,sax:USA3000747 hisC1,Metabolic pathways
+656,sax:USA3000747 hisC1,Biosynthesis of secondary metabolites
+657,sax:USA3000747 hisC1,Biosynthesis of amino acids
+658,sax:USA300_0752,Folate biosynthesis
+659,sax:USA300_0752,Metabolic pathways
+660,sax:USA300_0755 nrdE,Purine metabolism
+661,sax:USA300_0755 nrdE,Pyrimidine metabolism
+662,sax:USA300_0755 nrdE,Metabolic pathways
+663,sax:USA300_0756 nrdF,Purine metabolism
+664,sax:USA300_0756 nrdF,Pyrimidine metabolism
+665,sax:USA300_0756 nrdF,Metabolic pathways
+666,sax:USA300_0764 murB,Amino sugar and nucleotide sugar metabolism
+667,sax:USA300_0764 murB,Peptidoglycan biosynthesis
+668,sax:USA300_0764 murB,Metabolic pathways
+669,sax:USA300_0764 murB,Biosynthesis of nucleotide sugars
+670,sax:USA300_0769,"Glycine, serine and threonine metabolism"
+671,sax:USA300_0769,Glycerolipid metabolism
+672,sax:USA300_0769,Glyoxylate and dicarboxylate metabolism
+673,sax:USA300_0769,Metabolic pathways
+674,sax:USA300_0769,Biosynthesis of secondary metabolites
+675,sax:USA300_0769,Microbial metabolism in diverse environments
+676,sax:USA300_0774,O-Antigen repeat unit biosynthesis
+677,sax:USA300_0774,Metabolic pathways
+678,sax:USA3000780 secA1,Quorum sensing
+679,sax:USA3000780 secA1,Protein export
+680,sax:USA3000780 secA1,Bacterial secretion system
+681,sax:USA300_0786 uvrB,Nucleotide excision repair
+682,sax:USA300_0787 uvrA,Nucleotide excision repair
+683,sax:USA300_0790,Glycerophospholipid metabolism
+684,sax:USA300_0790,Biosynthesis of secondary metabolites
+685,sax:USA3000792 trxB1,Selenocompound metabolism
+686,sax:USA300_t0013,Aminoacyl-tRNA biosynthesis
+687,sax:USA300_0802 gap,Glycolysis / Gluconeogenesis
+688,sax:USA300_0802 gap,Metabolic pathways
+689,sax:USA300_0802 gap,Biosynthesis of secondary metabolites
+690,sax:USA300_0802 gap,Microbial metabolism in diverse environments
+691,sax:USA300_0802 gap,Carbon metabolism
+692,sax:USA300_0802 gap,Biosynthesis of amino acids
+693,sax:USA300_0803 pgk,Glycolysis / Gluconeogenesis
+694,sax:USA300_0803 pgk,Metabolic pathways
+695,sax:USA300_0803 pgk,Biosynthesis of secondary metabolites
+696,sax:USA300_0803 pgk,Microbial metabolism in diverse environments
+697,sax:USA300_0803 pgk,Carbon metabolism
+698,sax:USA300_0803 pgk,Biosynthesis of amino acids
+699,sax:USA300_0804 tpi,Glycolysis / Gluconeogenesis
+700,sax:USA300_0804 tpi,Fructose and mannose metabolism
+701,sax:USA300_0804 tpi,Inositol phosphate metabolism
+702,sax:USA300_0804 tpi,Metabolic pathways
+703,sax:USA300_0804 tpi,Biosynthesis of secondary metabolites
+704,sax:USA300_0804 tpi,Microbial metabolism in diverse environments
+705,sax:USA300_0804 tpi,Carbon metabolism
+706,sax:USA300_0804 tpi,Biosynthesis of amino acids
+707,sax:USA300_0805 pgm,Glycolysis / Gluconeogenesis
+708,sax:USA300_0805 pgm,"Glycine, serine and threonine metabolism"
+709,sax:USA300_0805 pgm,Methane metabolism
+710,sax:USA300_0805 pgm,Metabolic pathways
+711,sax:USA300_0805 pgm,Biosynthesis of secondary metabolites
+712,sax:USA300_0805 pgm,Microbial metabolism in diverse environments
+713,sax:USA300_0805 pgm,Carbon metabolism
+714,sax:USA300_0805 pgm,Biosynthesis of amino acids
+715,sax:USA300_0806 eno,Glycolysis / Gluconeogenesis
+716,sax:USA300_0806 eno,Methane metabolism
+717,sax:USA300_0806 eno,Metabolic pathways
+718,sax:USA300_0806 eno,Biosynthesis of secondary metabolites
+719,sax:USA300_0806 eno,Microbial metabolism in diverse environments
+720,sax:USA300_0806 eno,Carbon metabolism
+721,sax:USA300_0806 eno,Biosynthesis of amino acids
+722,sax:USA300_0806 eno,RNA degradation
+723,sax:USA300_0808 secG,Quorum sensing
+724,sax:USA300_0808 secG,Protein export
+725,sax:USA300_0808 secG,Bacterial secretion system
+726,sax:USA300_0810 vacB,RNA degradation
+727,sax:USA300_0819 clfA,Staphylococcus aureus infection
+728,sax:USA300_0836 aroD,"Phenylalanine, tyrosine and tryptophan biosynthesis"
+729,sax:USA300_0836 aroD,Metabolic pathways
+730,sax:USA300_0836 aroD,Biosynthesis of secondary metabolites
+731,sax:USA300_0836 aroD,Biosynthesis of amino acids
+732,sax:USA300_0840 gcvH,"Glycine, serine and threonine metabolism"
+733,sax:USA300_0840 gcvH,Glyoxylate and dicarboxylate metabolism
+734,sax:USA300_0840 gcvH,Metabolic pathways
+735,sax:USA300_0840 gcvH,Biosynthesis of secondary metabolites
+736,sax:USA300_0840 gcvH,Carbon metabolism
+737,sax:USA300_0847,ABC transporters
+738,sax:USA300_0848,ABC transporters
+739,sax:USA300_0849,ABC transporters
+740,sax:USA300_0851,Staphylococcus aureus infection
+741,sax:USA300_0852,Staphylococcus aureus infection
+742,sax:USA300_0873 sufS,Selenocompound metabolism
+743,sax:USA300_0873 sufS,Metabolic pathways
+744,sax:USA300_0879,Nitrogen metabolism
+745,sax:USA300_0879,Metabolic pathways
+746,sax:USA300_0885 lipA,Lipoic acid metabolism
+747,sax:USA300_0885 lipA,Metabolic pathways
+748,sax:USA300_0885 lipA,Biosynthesis of cofactors
+749,sax:USA300_0889,Microbial metabolism in diverse environments
+750,sax:USA300_0890,Glyoxylate and dicarboxylate metabolism
+751,sax:USA300_0890,Metabolic pathways
+752,sax:USA300_0890,Biosynthesis of secondary metabolites
+753,sax:USA300_0890,Microbial metabolism in diverse environments
+754,sax:USA300_0893 dltA,D-Amino acid metabolism
+755,sax:USA300_0893 dltA,Metabolic pathways
+756,sax:USA300_0893 dltA,Cationic antimicrobial peptide (CAMP) resistance
+757,sax:USA300_0893 dltA,Two-component system
+758,sax:USA300_0893 dltA,Staphylococcus aureus infection
+759,sax:USA300_0894 dltB,Cationic antimicrobial peptide (CAMP) resistance
+760,sax:USA300_0894 dltB,Two-component system
+761,sax:USA300_0894 dltB,Staphylococcus aureus infection
+762,sax:USA300_0895 dltC,D-Amino acid metabolism
+763,sax:USA300_0895 dltC,Metabolic pathways
+764,sax:USA300_0895 dltC,Cationic antimicrobial peptide (CAMP) resistance
+765,sax:USA300_0895 dltC,Two-component system
+766,sax:USA300_0895 dltC,Staphylococcus aureus infection
+767,sax:USA300_0896 dltD,Cationic antimicrobial peptide (CAMP) resistance
+768,sax:USA300_0896 dltD,Two-component system
+769,sax:USA300_0896 dltD,Staphylococcus aureus infection
+770,sax:USA300_0899,Oxidative phosphorylation
+771,sax:USA300_0899,Metabolic pathways
+772,sax:USA300_0902,Oxidative phosphorylation
+773,sax:USA300_0902,Metabolic pathways
+774,sax:USA300_0913 kapB,Two-component system
+775,sax:USA300_0916 rocD,Arginine and proline metabolism
+776,sax:USA300_0916 rocD,Metabolic pathways
+777,sax:USA300_0916 rocD,Biosynthesis of secondary metabolites
+778,sax:USA300_0917 gudB,Arginine biosynthesis
+779,sax:USA300_0917 gudB,"Alanine, aspartate and glutamate metabolism"
+780,sax:USA300_0917 gudB,Taurine and hypotaurine metabolism
+781,sax:USA300_0917 gudB,Nitrogen metabolism
+782,sax:USA300_0917 gudB,Metabolic pathways
+783,sax:USA300_0917 gudB,Microbial metabolism in diverse environments
+784,sax:USA3000918 glpQ2,Glycerophospholipid metabolism
+785,sax:USA300_0919 argH,Arginine biosynthesis
+786,sax:USA300_0919 argH,"Alanine, aspartate and glutamate metabolism"
+787,sax:USA300_0919 argH,Metabolic pathways
+788,sax:USA300_0919 argH,Biosynthesis of secondary metabolites
+789,sax:USA300_0919 argH,Biosynthesis of amino acids
+790,sax:USA300_0920 argG,Arginine biosynthesis
+791,sax:USA300_0920 argG,"Alanine, aspartate and glutamate metabolism"
+792,sax:USA300_0920 argG,Metabolic pathways
+793,sax:USA300_0920 argG,Biosynthesis of secondary metabolites
+794,sax:USA3000920 argG,Biosynthesis of amino acids
+795,sax:USA300_0921 pgi,Glycolysis / Gluconeogenesis
+796,sax:USA300_0921 pgi,Pentose phosphate pathway
+797,sax:USA300_0921 pgi,Starch and sucrose metabolism
+798,sax:USA300_0921 pgi,Amino sugar and nucleotide sugar metabolism
+799,sax:USA300_0921 pgi,Metabolic pathways
+800,sax:USA300_0921 pgi,Biosynthesis of secondary metabolites
+801,sax:USA300_0921 pgi,Microbial metabolism in diverse environments
+802,sax:USA300_0921 pgi,Carbon metabolism
+803,sax:USA300_0921 pgi,Biosynthesis of nucleotide sugars
+804,sax:USA300_0923 spsA,Protein export
+805,sax:USA300_0924 spsB,Protein export
+806,sax:USA300_0930,Riboflavin metabolism
+807,sax:USA300_0930,Metabolic pathways
+808,sax:USA300_0930,Biosynthesis of secondary metabolites
+809,sax:USA300_0930,Biosynthesis of cofactors
+810,sax:USA3000935 leuA1,"Valine, leucine and isoleucine biosynthesis"
+811,sax:USA3000935 leuA1,Pyruvate metabolism
+812,sax:USA3000935 leuA1,Metabolic pathways
+813,sax:USA3000935 leuA1,Biosynthesis of secondary metabolites
+814,sax:USA3000935 leuA1,2-Oxocarboxylic acid metabolism
+815,sax:USA3000935 leuA1,Biosynthesis of amino acids
+816,sax:USA300_0939 eap,Staphylococcus aureus infection
+817,sax:USA3000941 fabH1,Fatty acid biosynthesis
+818,sax:USA3000941 fabH1,Metabolic pathways
+819,sax:USA3000941 fabH1,Fatty acid metabolism
+820,sax:USA3000942 fabH2,Fatty acid biosynthesis
+821,sax:USA3000942 fabH2,Biotin metabolism
+822,sax:USA3000942 fabH2,Metabolic pathways
+823,sax:USA3000942 fabH2,Fatty acid metabolism
+824,sax:USA3000942 fabH2,Biosynthesis of cofactors
+825,sax:USA3000944 oppB1,beta-Lactam resistance
+826,sax:USA3000944 oppB1,ABC transporters
+827,sax:USA3000944 oppB1,Quorum sensing
+828,sax:USA3000945 oppC1,beta-Lactam resistance
+829,sax:USA3000945 oppC1,ABC transporters
+830,sax:USA3000945 oppC1,Quorum sensing
+831,sax:USA3000946 oppD1,beta-Lactam resistance
+832,sax:USA3000946 oppD1,ABC transporters
+833,sax:USA3000946 oppD1,Quorum sensing
+834,sax:USA3000947 oppF1,beta-Lactam resistance
+835,sax:USA3000947 oppF1,ABC transporters
+836,sax:USA3000947 oppF1,Quorum sensing
+837,sax:USA3000948 oppA1,beta-Lactam resistance
+838,sax:USA3000948 oppA1,ABC transporters
+839,sax:USA3000948 oppA1,Quorum sensing
+840,sax:USA3000949 oppA2,Quorum sensing
+841,sax:USA3000950 oppD2,Quorum sensing
+842,sax:USA3000951 oppD3,Quorum sensing
+843,sax:USA3000952 oppB3,Quorum sensing
+844,sax:USA3000953 oppC3,Quorum sensing
+845,sax:USA300_0954 trpS,Aminoacyl-tRNA biosynthesis
+846,sax:USA3000963 relA1,Purine metabolism
+847,sax:USA3000963 relA1,Metabolic pathways
+848,sax:USA300_0964 ppnK,Nicotinate and nicotinamide metabolism
+849,sax:USA300_0964 ppnK,Metabolic pathways
+850,sax:USA300_0964 ppnK,Biosynthesis of cofactors
+851,sax:USA300_0969 fabI,Fatty acid biosynthesis
+852,sax:USA300_0969 fabI,Biotin metabolism
+853,sax:USA300_0969 fabI,Metabolic pathways
+854,sax:USA300_0969 fabI,Biosynthesis of secondary metabolites
+855,sax:USA300_0969 fabI,Fatty acid metabolism
+856,sax:USA300_0969 fabI,Biosynthesis of cofactors
+857,sax:USA300_0975,Glycerolipid metabolism
+858,sax:USA300_0975,Metabolic pathways
+859,sax:USA3000976 murE1,Peptidoglycan biosynthesis
+860,sax:USA3000976 murE1,Metabolic pathways
+861,sax:USA300_t0014,Aminoacyl-tRNA biosynthesis
+862,sax:USA300_t0015,Aminoacyl-tRNA biosynthesis
+863,sax:USA300_0983,Quorum sensing
+864,sax:USA300_0989 menA,Ubiquinone and other terpenoid-quinone biosynthesis
+865,sax:USA300_0989 menA,Metabolic pathways
+866,sax:USA300_0989 menA,Biosynthesis of secondary metabolites
+867,sax:USA300_0989 menA,Biosynthesis of cofactors
+868,sax:USA300_0990 menF,Ubiquinone and other terpenoid-quinone biosynthesis
+869,sax:USA300_0990 menF,Metabolic pathways
+870,sax:USA300_0990 menF,Biosynthesis of secondary metabolites
+871,sax:USA300_0990 menF,Biosynthesis of cofactors
+872,sax:USA300_0991 menD,Ubiquinone and other terpenoid-quinone biosynthesis
+873,sax:USA300_0991 menD,Metabolic pathways
+874,sax:USA300_0991 menD,Biosynthesis of secondary metabolites
+875,sax:USA300_0991 menD,Biosynthesis of cofactors
+876,sax:USA300_0992,Ubiquinone and other terpenoid-quinone biosynthesis
+877,sax:USA300_0992,Metabolic pathways
+878,sax:USA300_0992,Biosynthesis of secondary metabolites
+879,sax:USA300_0992,Biosynthesis of cofactors
+880,sax:USA300_0993 menB,Ubiquinone and other terpenoid-quinone biosynthesis
+881,sax:USA300_0993 menB,Metabolic pathways
+882,sax:USA300_0993 menB,Biosynthesis of secondary metabolites
+883,sax:USA300_0993 menB,Biosynthesis of cofactors
+884,sax:USA300_0996 sspA,Quorum sensing
+885,sax:USA300_1002 qoxD,Oxidative phosphorylation
+886,sax:USA300_1002 qoxD,Metabolic pathways
+887,sax:USA300_1003 qoxC,Oxidative phosphorylation
+888,sax:USA300_1003 qoxC,Metabolic pathways
+889,sax:USA300_1004 qoxB,Oxidative phosphorylation
+890,sax:USA300_1004 qoxB,Metabolic pathways
+891,sax:USA300_1005 qoxA,Oxidative phosphorylation
+892,sax:USA300_1005 qoxA,Metabolic pathways
+893,sax:USA300_1008 folD,One carbon pool by folate
+894,sax:USA300_1008 folD,Metabolic pathways
+895,sax:USA300_1008 folD,Microbial metabolism in diverse environments
+896,sax:USA300_1008 folD,Carbon metabolism
+897,sax:USA300_1008 folD,Biosynthesis of cofactors
+898,sax:USA300_1009 purE,Purine metabolism
+899,sax:USA300_1009 purE,Metabolic pathways
+900,sax:USA300_1009 purE,Biosynthesis of secondary metabolites
+901,sax:USA300_1010 purK,Purine metabolism
+902,sax:USA300_1010 purK,Metabolic pathways
+903,sax:USA300_1010 purK,Biosynthesis of secondary metabolites
+904,sax:USA300_1011 purC,Purine metabolism
+905,sax:USA300_1011 purC,Metabolic pathways
+906,sax:USA300_1011 purC,Biosynthesis of secondary metabolites
+907,sax:USA300_1012 purS,Purine metabolism
+908,sax:USA300_1012 purS,Metabolic pathways
+909,sax:USA300_1012 purS,Biosynthesis of secondary metabolites
+910,sax:USA300_1013 purQ,Arginine biosynthesis
+911,sax:USA300_1013 purQ,Purine metabolism
+912,sax:USA300_1013 purQ,"Alanine, aspartate and glutamate metabolism"
+913,sax:USA300_1013 purQ,D-Amino acid metabolism
+914,sax:USA300_1013 purQ,Metabolic pathways
+915,sax:USA300_1013 purQ,Biosynthesis of secondary metabolites
+916,sax:USA300_1014 purL,Purine metabolism
+917,sax:USA300_1014 purL,Metabolic pathways
+918,sax:USA300_1014 purL,Biosynthesis of secondary metabolites
+919,sax:USA300_1015 purF,Purine metabolism
+920,sax:USA300_1015 purF,"Alanine, aspartate and glutamate metabolism"
+921,sax:USA300_1015 purF,Metabolic pathways
+922,sax:USA300_1015 purF,Biosynthesis of secondary metabolites
+923,sax:USA300_1016 purM,Purine metabolism
+924,sax:USA300_1016 purM,Metabolic pathways
+925,sax:USA300_1016 purM,Biosynthesis of secondary metabolites
+926,sax:USA300_1017 purH,Purine metabolism
+927,sax:USA300_1017 purH,One carbon pool by folate
+928,sax:USA300_1017 purH,Metabolic pathways
+929,sax:USA300_1017 purH,Biosynthesis of secondary metabolites
+930,sax:USA300_1018 purD,Purine metabolism
+931,sax:USA300_1018 purD,Metabolic pathways
+932,sax:USA300_1018 purD,Biosynthesis of secondary metabolites
+933,sax:USA300_1019,ABC transporters
+934,sax:USA300_1025 ptsH,Phosphotransferase system (PTS)
+935,sax:USA300_1026 ptsI,Phosphotransferase system (PTS)
+936,sax:USA300_1028 cydA,Oxidative phosphorylation
+937,sax:USA300_1028 cydA,Two-component system
+938,sax:USA300_1029 cydB,Oxidative phosphorylation
+939,sax:USA300_1029 cydB,Two-component system
+940,sax:USA300_1031,RNA degradation
+941,sax:USA300_1036 pdhA,Glycolysis / Gluconeogenesis
+942,sax:USA300_1036 pdhA,Citrate cycle (TCA cycle)
+943,sax:USA300_1036 pdhA,Pyruvate metabolism
+944,sax:USA300_1036 pdhA,Metabolic pathways
+945,sax:USA300_1036 pdhA,Biosynthesis of secondary metabolites
+946,sax:USA300_1036 pdhA,Microbial metabolism in diverse environments
+947,sax:USA300_1036 pdhA,Carbon metabolism
+948,sax:USA300_1037 phdB,Glycolysis / Gluconeogenesis
+949,sax:USA300_1037 phdB,Citrate cycle (TCA cycle)
+950,sax:USA300_1037 phdB,Pyruvate metabolism
+951,sax:USA300_1037 phdB,Metabolic pathways
+952,sax:USA300_1037 phdB,Biosynthesis of secondary metabolites
+953,sax:USA300_1037 phdB,Microbial metabolism in diverse environments
+954,sax:USA300_1037 phdB,Carbon metabolism
+955,sax:USA300_1038 pdhC,Glycolysis / Gluconeogenesis
+956,sax:USA300_1038 pdhC,Citrate cycle (TCA cycle)
+957,sax:USA300_1038 pdhC,Pyruvate metabolism
+958,sax:USA300_1038 pdhC,Metabolic pathways
+959,sax:USA300_1038 pdhC,Biosynthesis of secondary metabolites
+960,sax:USA300_1038 pdhC,Microbial metabolism in diverse environments
+961,sax:USA300_1038 pdhC,Carbon metabolism
+962,sax:USA300_1039 pdhD,Glycolysis / Gluconeogenesis
+963,sax:USA300_1039 pdhD,Citrate cycle (TCA cycle)
+964,sax:USA300_1039 pdhD,"Glycine, serine and threonine metabolism"
+965,sax:USA300_1039 pdhD,"Valine, leucine and isoleucine degradation"
+966,sax:USA300_1039 pdhD,Lysine degradation
+967,sax:USA300_1039 pdhD,Tryptophan metabolism
+968,sax:USA300_1039 pdhD,Pyruvate metabolism
+969,sax:USA300_1039 pdhD,Glyoxylate and dicarboxylate metabolism
+970,sax:USA300_1039 pdhD,Propanoate metabolism
+971,sax:USA300_1039 pdhD,Metabolic pathways
+972,sax:USA300_1039 pdhD,Biosynthesis of secondary metabolites
+973,sax:USA300_1039 pdhD,Microbial metabolism in diverse environments
+974,sax:USA300_1039 pdhD,Carbon metabolism
+975,sax:USA300_1039 pdhD,Biosynthesis of cofactors
+976,sax:USA300_1042 potA,ABC transporters
+977,sax:USA300_1043 potD,ABC transporters
+978,sax:USA300_1052 pycA,Citrate cycle (TCA cycle)
+979,sax:USA300_1052 pycA,Pyruvate metabolism
+980,sax:USA300_1052 pycA,Metabolic pathways
+981,sax:USA300_1052 pycA,Microbial metabolism in diverse environments
+982,sax:USA300_1052 pycA,Carbon metabolism
+983,sax:USA300_1052 pycA,Biosynthesis of amino acids
+984,sax:USA300_1053 ctaA,Oxidative phosphorylation
+985,sax:USA300_1053 ctaA,Porphyrin metabolism
+986,sax:USA300_1053 ctaA,Metabolic pathways
+987,sax:USA300_1053 ctaA,Biosynthesis of secondary metabolites
+988,sax:USA300_1053 ctaA,Biosynthesis of cofactors
+989,sax:USA300_1053 ctaA,Two-component system
+990,sax:USA300_1054 ctaB,Oxidative phosphorylation
+991,sax:USA300_1054 ctaB,Porphyrin metabolism
+992,sax:USA300_1054 ctaB,Metabolic pathways
+993,sax:USA300_1054 ctaB,Biosynthesis of secondary metabolites
+994,sax:USA300_1054 ctaB,Biosynthesis of cofactors
+995,sax:USA300_1062 coaD,Pantothenate and CoA biosynthesis
+996,sax:USA300_1062 coaD,Metabolic pathways
+997,sax:USA300_1062 coaD,Biosynthesis of cofactors
+998,sax:USA300_1064 isdA,Staphylococcus aureus infection
+999,sax:USA3001069 isdG2,Porphyrin metabolism
+1000,sax:USA3001069 isdG2,Biosynthesis of secondary metabolites
+1001,sax:USA300_1073 pheS,Aminoacyl-tRNA biosynthesis
+1002,sax:USA3001074 pheT1,Aminoacyl-tRNA biosynthesis
+1003,sax:USA300_1075 rnhC,DNA replication
+1004,sax:USA300_1079,Mismatch repair
+1005,sax:USA300_1082 uvrC,Nucleotide excision repair
+1006,sax:USA300_1083 sdhC,Citrate cycle (TCA cycle)
+1007,sax:USA300_1083 sdhC,Oxidative phosphorylation
+1008,sax:USA300_1083 sdhC,Butanoate metabolism
+1009,sax:USA300_1083 sdhC,Metabolic pathways
+1010,sax:USA300_1083 sdhC,Biosynthesis of secondary metabolites
+1011,sax:USA300_1083 sdhC,Microbial metabolism in diverse environments
+1012,sax:USA300_1083 sdhC,Carbon metabolism
+1013,sax:USA3001084 sdhA1,Citrate cycle (TCA cycle)
+1014,sax:USA3001084 sdhA1,Oxidative phosphorylation
+1015,sax:USA3001084 sdhA1,Butanoate metabolism
+1016,sax:USA3001084 sdhA1,Metabolic pathways
+1017,sax:USA3001084 sdhA1,Biosynthesis of secondary metabolites
+1018,sax:USA3001084 sdhA1,Microbial metabolism in diverse environments
+1019,sax:USA3001084 sdhA1,Carbon metabolism
+1020,sax:USA3001085 sdhB1,Citrate cycle (TCA cycle)
+1021,sax:USA3001085 sdhB1,Oxidative phosphorylation
+1022,sax:USA3001085 sdhB1,Butanoate metabolism
+1023,sax:USA3001085 sdhB1,Metabolic pathways
+1024,sax:USA3001085 sdhB1,Biosynthesis of secondary metabolites
+1025,sax:USA3001085 sdhB1,Microbial metabolism in diverse environments
+1026,sax:USA3001085 sdhB1,Carbon metabolism
+1027,sax:USA300_1086 murI,D-Amino acid metabolism
+1028,sax:USA300_1086 murI,Metabolic pathways
+1029,sax:USA300_1087,Purine metabolism
+1030,sax:USA300_1087,Metabolic pathways
+1031,sax:USA300_1092,Staphylococcus aureus infection
+1032,sax:USA300_1094,Staphylococcus aureus infection
+1033,sax:USA300_1095,Staphylococcus aureus infection
+1034,sax:USA3001106 arcB2,Arginine biosynthesis
+1035,sax:USA3001106 arcB2,Metabolic pathways
+1036,sax:USA3001106 arcB2,Biosynthesis of secondary metabolites
+1037,sax:USA3001106 arcB2,Biosynthesis of amino acids
+1038,sax:USA3001107 arcC2,Arginine biosynthesis
+1039,sax:USA3001107 arcC2,Purine metabolism
+1040,sax:USA3001107 arcC2,Nitrogen metabolism
+1041,sax:USA3001107 arcC2,Metabolic pathways
+1042,sax:USA3001107 arcC2,Microbial metabolism in diverse environments
+1043,sax:USA3001107 arcC2,Carbon metabolism
+1044,sax:USA300_1110,Staphylococcus aureus infection
+1045,sax:USA300_t0016,Aminoacyl-tRNA biosynthesis
+1046,sax:USA300_1112,Quorum sensing
+1047,sax:USA300_1113,Quorum sensing
+1048,sax:USA300_1121 pbpA,Peptidoglycan biosynthesis
+1049,sax:USA300_1121 pbpA,Metabolic pathways
+1050,sax:USA300_1121 pbpA,beta-Lactam resistance
+1051,sax:USA300_1122 mraY,Peptidoglycan biosynthesis
+1052,sax:USA300_1122 mraY,Metabolic pathways
+1053,sax:USA300_1122 mraY,Vancomycin resistance
+1054,sax:USA300_1123 murD,D-Amino acid metabolism
+1055,sax:USA300_1123 murD,Peptidoglycan biosynthesis
+1056,sax:USA300_1123 murD,Metabolic pathways
+1057,sax:USA300_1130 ileS,Aminoacyl-tRNA biosynthesis
+1058,sax:USA300_1131,Benzoate degradation
+1059,sax:USA300_1131,Xylene degradation
+1060,sax:USA300_1131,Styrene degradation
+1061,sax:USA300_1131,Metabolic pathways
+1062,sax:USA300_1131,Microbial metabolism in diverse environments
+1063,sax:USA300_1131,Degradation of aromatic compounds
+1064,sax:USA300_1133 lspA,Protein export
+1065,sax:USA300_1136 pyrR,Pyrimidine metabolism
+1066,sax:USA300_1136 pyrR,Metabolic pathways
+1067,sax:USA300_1138 pyrB,Pyrimidine metabolism
+1068,sax:USA300_1138 pyrB,"Alanine, aspartate and glutamate metabolism"
+1069,sax:USA300_1138 pyrB,Metabolic pathways
+1070,sax:USA300_1138 pyrB,Biosynthesis of cofactors
+1071,sax:USA300_1139 pyrC,Pyrimidine metabolism
+1072,sax:USA300_1139 pyrC,Metabolic pathways
+1073,sax:USA300_1139 pyrC,Biosynthesis of cofactors
+1074,sax:USA300_1140 carA,Pyrimidine metabolism
+1075,sax:USA300_1140 carA,"Alanine, aspartate and glutamate metabolism"
+1076,sax:USA300_1140 carA,Metabolic pathways
+1077,sax:USA300_1140 carA,Biosynthesis of cofactors
+1078,sax:USA300_1141 carB,Pyrimidine metabolism
+1079,sax:USA300_1141 carB,"Alanine, aspartate and glutamate metabolism"
+1080,sax:USA300_1141 carB,Metabolic pathways
+1081,sax:USA300_1141 carB,Biosynthesis of cofactors
+1082,sax:USA300_1142 pyrF,Pyrimidine metabolism
+1083,sax:USA300_1142 pyrF,Metabolic pathways
+1084,sax:USA300_1142 pyrF,Biosynthesis of cofactors
+1085,sax:USA300_1143 pyrE,Pyrimidine metabolism
+1086,sax:USA300_1143 pyrE,Metabolic pathways
+1087,sax:USA300_1143 pyrE,Biosynthesis of cofactors
+1088,sax:USA300_1147 gmk,Purine metabolism
+1089,sax:USA300_1147 gmk,Metabolic pathways
+1090,sax:USA300_1148 rpoZ,RNA polymerase
+1091,sax:USA300_1149,Pantothenate and CoA biosynthesis
+1092,sax:USA300_1149,Metabolic pathways
+1093,sax:USA300_1149,Biosynthesis of cofactors
+1094,sax:USA300_1150 priA,Homologous recombination
+1095,sax:USA300_1153 fmt2,One carbon pool by folate
+1096,sax:USA300_1153 fmt2,Aminoacyl-tRNA biosynthesis
+1097,sax:USA300_1153 fmt2,Metabolic pathways
+1098,sax:USA300_1158 engC,Thiamine metabolism
+1099,sax:USA300_1158 engC,Metabolic pathways
+1100,sax:USA300_1159 cfxE,Pentose phosphate pathway
+1101,sax:USA300_1159 cfxE,Pentose and glucuronate interconversions
+1102,sax:USA300_1159 cfxE,Metabolic pathways
+1103,sax:USA300_1159 cfxE,Biosynthesis of secondary metabolites
+1104,sax:USA300_1159 cfxE,Microbial metabolism in diverse environments
+1105,sax:USA300_1159 cfxE,Carbon metabolism
+1106,sax:USA300_1159 cfxE,Biosynthesis of amino acids
+1107,sax:USA300_1160 yloS,Thiamine metabolism
+1108,sax:USA300_1160 yloS,Metabolic pathways
+1109,sax:USA300_1160 yloS,Biosynthesis of cofactors
+1110,sax:USA300_1163 recG,Homologous recombination
+1111,sax:USA300_1165,Glycerolipid metabolism
+1112,sax:USA300_1165,Metabolic pathways
+1113,sax:USA300_1165,Biosynthesis of secondary metabolites
+1114,sax:USA300_1166 fabD,Fatty acid biosynthesis
+1115,sax:USA300_1166 fabD,Metabolic pathways
+1116,sax:USA300_1166 fabD,Biosynthesis of secondary metabolites
+1117,sax:USA300_1166 fabD,Fatty acid metabolism
+1118,sax:USA300_1167 fabG,Fatty acid biosynthesis
+1119,sax:USA300_1167 fabG,Biotin metabolism
+1120,sax:USA300_1167 fabG,Metabolic pathways
+1121,sax:USA300_1167 fabG,Biosynthesis of secondary metabolites
+1122,sax:USA300_1167 fabG,Fatty acid metabolism
+1123,sax:USA300_1167 fabG,Biosynthesis of cofactors
+1124,sax:USA300_1169 hmrB,Biosynthesis of various antibiotics
+1125,sax:USA300_1169 hmrB,Metabolic pathways
+1126,sax:USA300_1169 hmrB,Biosynthesis of secondary metabolites
+1127,sax:USA300_1172 ftsY,Quorum sensing
+1128,sax:USA300_1172 ftsY,Protein export
+1129,sax:USA300_1172 ftsY,Bacterial secretion system
+1130,sax:USA300_1175 rnhB,DNA replication
+1131,sax:USA300_1176 sucC,Citrate cycle (TCA cycle)
+1132,sax:USA300_1176 sucC,Propanoate metabolism
+1133,sax:USA300_1176 sucC,C5-Branched dibasic acid metabolism
+1134,sax:USA300_1176 sucC,Metabolic pathways
+1135,sax:USA300_1176 sucC,Biosynthesis of secondary metabolites
+1136,sax:USA300_1176 sucC,Microbial metabolism in diverse environments
+1137,sax:USA300_1176 sucC,Carbon metabolism
+1138,sax:USA300_1177 sucD,Citrate cycle (TCA cycle)
+1139,sax:USA300_1177 sucD,Propanoate metabolism
+1140,sax:USA300_1177 sucD,C5-Branched dibasic acid metabolism
+1141,sax:USA300_1177 sucD,Metabolic pathways
+1142,sax:USA300_1177 sucD,Biosynthesis of secondary metabolites
+1143,sax:USA300_1177 sucD,Microbial metabolism in diverse environments
+1144,sax:USA300_1177 sucD,Carbon metabolism
+1145,sax:USA300_1188 rpsB,Ribosome
+1146,sax:USA300_1191,Pyrimidine metabolism
+1147,sax:USA300_1191,Metabolic pathways
+1148,sax:USA300_1191,Biosynthesis of cofactors
+1149,sax:USA300_1192 uppS,Peptidoglycan biosynthesis
+1150,sax:USA300_1192 uppS,Terpenoid backbone biosynthesis
+1151,sax:USA300_1192 uppS,Biosynthesis of secondary metabolites
+1152,sax:USA300_1193 cdsA,Glycerophospholipid metabolism
+1153,sax:USA300_1193 cdsA,Metabolic pathways
+1154,sax:USA300_1193 cdsA,Biosynthesis of secondary metabolites
+1155,sax:USA300_1195 proS,Aminoacyl-tRNA biosynthesis
+1156,sax:USA3001196 dnaE1,DNA replication
+1157,sax:USA3001196 dnaE1,Mismatch repair
+1158,sax:USA3001196 dnaE1,Homologous recombination
+1159,sax:USA300_1204 ribC,Riboflavin metabolism
+1160,sax:USA300_1204 ribC,Metabolic pathways
+1161,sax:USA300_1204 ribC,Biosynthesis of secondary metabolites
+1162,sax:USA300_1204 ribC,Biosynthesis of cofactors
+1163,sax:USA300_1205 rpsO,Ribosome
+1164,sax:USA300_1206 pnp,RNA degradation
+1165,sax:USA300_1207,RNA degradation
+1166,sax:USA300_1212,Fatty acid biosynthesis
+1167,sax:USA300_1212,Biotin metabolism
+1168,sax:USA300_1212,Metabolic pathways
+1169,sax:USA300_1212,Biosynthesis of secondary metabolites
+1170,sax:USA300_1212,Fatty acid metabolism
+1171,sax:USA300_1212,Biosynthesis of cofactors
+1172,sax:USA300_1215 pgsA,Glycerophospholipid metabolism
+1173,sax:USA300_1215 pgsA,Metabolic pathways
+1174,sax:USA300_1217 recA,Homologous recombination
+1175,sax:USA300_1218,RNA degradation
+1176,sax:USA300_1220,Purine metabolism
+1177,sax:USA300_1220,Pyrimidine metabolism
+1178,sax:USA300_1220,Metabolic pathways
+1179,sax:USA300_1221 porA,Glycolysis / Gluconeogenesis
+1180,sax:USA300_1221 porA,Citrate cycle (TCA cycle)
+1181,sax:USA300_1221 porA,Pyruvate metabolism
+1182,sax:USA300_1221 porA,Butanoate metabolism
+1183,sax:USA300_1221 porA,Metabolic pathways
+1184,sax:USA300_1221 porA,Biosynthesis of secondary metabolites
+1185,sax:USA300_1221 porA,Microbial metabolism in diverse environments
+1186,sax:USA300_1221 porA,Carbon metabolism
+1187,sax:USA300_1222 porB,Glycolysis / Gluconeogenesis
+1188,sax:USA300_1222 porB,Citrate cycle (TCA cycle)
+1189,sax:USA300_1222 porB,Pyruvate metabolism
+1190,sax:USA300_1222 porB,Butanoate metabolism
+1191,sax:USA300_1222 porB,Metabolic pathways
+1192,sax:USA300_1222 porB,Biosynthesis of secondary metabolites
+1193,sax:USA300_1222 porB,Microbial metabolism in diverse environments
+1194,sax:USA300_1222 porB,Carbon metabolism
+1195,sax:USA3001227 mutS1,Mismatch repair
+1196,sax:USA300_1228 mutL,Mismatch repair
+1197,sax:USA300_1231 glpK,Glycerolipid metabolism
+1198,sax:USA300_1231 glpK,Metabolic pathways
+1199,sax:USA300_1232 glpD,Glycerophospholipid metabolism
+1200,sax:USA300_1232 glpD,Biosynthesis of secondary metabolites
+1201,sax:USA300_1234,Metabolic pathways
+1202,sax:USA300_1234,Biosynthesis of secondary metabolites
+1203,sax:USA300_1235 hfq,Quorum sensing
+1204,sax:USA300_1235 hfq,RNA degradation
+1205,sax:USA300_1236 bsaA,Glutathione metabolism
+1206,sax:USA300_1236 bsaA,Arachidonic acid metabolism
+1207,sax:USA300_1236 bsaA,Metabolic pathways
+1208,sax:USA300_1240 glnA,Arginine biosynthesis
+1209,sax:USA300_1240 glnA,"Alanine, aspartate and glutamate metabolism"
+1210,sax:USA300_1240 glnA,Glyoxylate and dicarboxylate metabolism
+1211,sax:USA300_1240 glnA,Nitrogen metabolism
+1212,sax:USA300_1240 glnA,Metabolic pathways
+1213,sax:USA300_1240 glnA,Microbial metabolism in diverse environments
+1214,sax:USA300_1240 glnA,Biosynthesis of amino acids
+1215,sax:USA300_1240 glnA,Two-component system
+1216,sax:USA300_1260,"Glycine, serine and threonine metabolism"
+1217,sax:USA300_1260,Metabolic pathways
+1218,sax:USA300_1260,Biosynthesis of secondary metabolites
+1219,sax:USA300_1260,Microbial metabolism in diverse environments
+1220,sax:USA300_1260,Biosynthesis of amino acids
+1221,sax:USA300_1262 cls,Glycerophospholipid metabolism
+1222,sax:USA300_1262 cls,Metabolic pathways
+1223,sax:USA300_1265,Two-component system
+1224,sax:USA300_1266,Two-component system
+1225,sax:USA3001271 lysC1,"Glycine, serine and threonine metabolism"
+1226,sax:USA3001271 lysC1,Monobactam biosynthesis
+1227,sax:USA3001271 lysC1,Cysteine and methionine metabolism
+1228,sax:USA3001271 lysC1,Lysine biosynthesis
+1229,sax:USA3001271 lysC1,Metabolic pathways
+1230,sax:USA3001271 lysC1,Biosynthesis of secondary metabolites
+1231,sax:USA3001271 lysC1,Microbial metabolism in diverse environments
+1232,sax:USA3001271 lysC1,2-Oxocarboxylic acid metabolism
+1233,sax:USA3001271 lysC1,Biosynthesis of amino acids
+1234,sax:USA300_1273 thrA,"Glycine, serine and threonine metabolism"
+1235,sax:USA300_1273 thrA,Cysteine and methionine metabolism
+1236,sax:USA300_1273 thrA,Lysine biosynthesis
+1237,sax:USA300_1273 thrA,Metabolic pathways
+1238,sax:USA300_1273 thrA,Biosynthesis of secondary metabolites
+1239,sax:USA300_1273 thrA,Microbial metabolism in diverse environments
+1240,sax:USA300_1273 thrA,Biosynthesis of amino acids
+1241,sax:USA300_1274 thrC,"Glycine, serine and threonine metabolism"
+1242,sax:USA300_1274 thrC,Vitamin B6 metabolism
+1243,sax:USA300_1274 thrC,Metabolic pathways
+1244,sax:USA300_1274 thrC,Biosynthesis of secondary metabolites
+1245,sax:USA300_1274 thrC,Microbial metabolism in diverse environments
+1246,sax:USA300_1274 thrC,Biosynthesis of amino acids
+1247,sax:USA300_1275 thrB,"Glycine, serine and threonine metabolism"
+1248,sax:USA300_1275 thrB,Metabolic pathways
+1249,sax:USA300_1275 thrB,Biosynthesis of secondary metabolites
+1250,sax:USA300_1275 thrB,Microbial metabolism in diverse environments
+1251,sax:USA300_1275 thrB,Biosynthesis of amino acids
+1252,sax:USA300_1277 katA,Tryptophan metabolism
+1253,sax:USA300_1277 katA,Glyoxylate and dicarboxylate metabolism
+1254,sax:USA300_1277 katA,Metabolic pathways
+1255,sax:USA300_1277 katA,Biosynthesis of secondary metabolites
+1256,sax:USA300_1277 katA,Carbon metabolism
+1257,sax:USA3001278 rpmG2,Ribosome
+1258,sax:USA300_1279 tkt,Pentose phosphate pathway
+1259,sax:USA300_1279 tkt,Metabolic pathways
+1260,sax:USA300_1279 tkt,Biosynthesis of secondary metabolites
+1261,sax:USA300_1279 tkt,Microbial metabolism in diverse environments
+1262,sax:USA300_1279 tkt,Carbon metabolism
+1263,sax:USA300_1279 tkt,Biosynthesis of amino acids
+1264,sax:USA300_1283 acnA,Citrate cycle (TCA cycle)
+1265,sax:USA300_1283 acnA,Glyoxylate and dicarboxylate metabolism
+1266,sax:USA300_1283 acnA,Metabolic pathways
+1267,sax:USA300_1283 acnA,Biosynthesis of secondary metabolites
+1268,sax:USA300_1283 acnA,Microbial metabolism in diverse environments
+1269,sax:USA300_1283 acnA,Carbon metabolism
+1270,sax:USA300_1283 acnA,2-Oxocarboxylic acid metabolism
+1271,sax:USA300_1283 acnA,Biosynthesis of amino acids
+1272,sax:USA300_1286,Glycerolipid metabolism
+1273,sax:USA300_1286,Glycerophospholipid metabolism
+1274,sax:USA300_1286,Metabolic pathways
+1275,sax:USA300_1286,Biosynthesis of secondary metabolites
+1276,sax:USA300_1294 fmtC,Cationic antimicrobial peptide (CAMP) resistance
+1277,sax:USA300_1294 fmtC,Two-component system
+1278,sax:USA300_1294 fmtC,Staphylococcus aureus infection
+1279,sax:USA300_1298,Benzoate degradation
+1280,sax:USA300_1298,Xylene degradation
+1281,sax:USA300_1298,Metabolic pathways
+1282,sax:USA300_1298,Microbial metabolism in diverse environments
+1283,sax:USA300_1298,Degradation of aromatic compounds
+1284,sax:USA300_1300 tyrA,"Phenylalanine, tyrosine and tryptophan biosynthesis"
+1285,sax:USA300_1300 tyrA,Novobiocin biosynthesis
+1286,sax:USA300_1300 tyrA,Metabolic pathways
+1287,sax:USA300_1300 tyrA,Biosynthesis of secondary metabolites
+1288,sax:USA300_1300 tyrA,Biosynthesis of amino acids
+1289,sax:USA300_1302 trpE,"Phenylalanine, tyrosine and tryptophan biosynthesis"
+1290,sax:USA300_1302 trpE,Metabolic pathways
+1291,sax:USA300_1302 trpE,Biosynthesis of secondary metabolites
+1292,sax:USA300_1302 trpE,Biosynthesis of amino acids
+1293,sax:USA300_1302 trpE,Quorum sensing
+1294,sax:USA300_1303 trpG,"Phenylalanine, tyrosine and tryptophan biosynthesis"
+1295,sax:USA300_1303 trpG,Metabolic pathways
+1296,sax:USA300_1303 trpG,Biosynthesis of secondary metabolites
+1297,sax:USA300_1303 trpG,Biosynthesis of amino acids
+1298,sax:USA300_1303 trpG,Quorum sensing
+1299,sax:USA300_1304 trpD,"Phenylalanine, tyrosine and tryptophan biosynthesis"
+1300,sax:USA300_1304 trpD,Metabolic pathways
+1301,sax:USA300_1304 trpD,Biosynthesis of secondary metabolites
+1302,sax:USA300_1304 trpD,Biosynthesis of amino acids
+1303,sax:USA300_1305 trpC,"Phenylalanine, tyrosine and tryptophan biosynthesis"
+1304,sax:USA300_1305 trpC,Metabolic pathways
+1305,sax:USA300_1305 trpC,Biosynthesis of secondary metabolites
+1306,sax:USA300_1305 trpC,Biosynthesis of amino acids
+1307,sax:USA300_1306 trpF,"Phenylalanine, tyrosine and tryptophan biosynthesis"
+1308,sax:USA300_1306 trpF,Metabolic pathways
+1309,sax:USA300_1306 trpF,Biosynthesis of secondary metabolites
+1310,sax:USA300_1306 trpF,Biosynthesis of amino acids
+1311,sax:USA300_1307 trpB,"Glycine, serine and threonine metabolism"
+1312,sax:USA300_1307 trpB,"Phenylalanine, tyrosine and tryptophan biosynthesis"
+1313,sax:USA300_1307 trpB,Metabolic pathways
+1314,sax:USA300_1307 trpB,Biosynthesis of secondary metabolites
+1315,sax:USA300_1307 trpB,Biosynthesis of amino acids
+1316,sax:USA300_1308 trpA,"Glycine, serine and threonine metabolism"
+1317,sax:USA300_1308 trpA,"Phenylalanine, tyrosine and tryptophan biosynthesis"
+1318,sax:USA300_1308 trpA,Metabolic pathways
+1319,sax:USA300_1308 trpA,Biosynthesis of secondary metabolites
+1320,sax:USA300_1308 trpA,Biosynthesis of amino acids
+1321,sax:USA300_1309 femA,Peptidoglycan biosynthesis
+1322,sax:USA300_1309 femA,Metabolic pathways
+1323,sax:USA300_1310 femB,Peptidoglycan biosynthesis
+1324,sax:USA300_1310 femB,Metabolic pathways
+1325,sax:USA300_1313,Quorum sensing
+1326,sax:USA300_1314,Quorum sensing
+1327,sax:USA300_1315,Quorum sensing
+1328,sax:USA300_1316,Quorum sensing
+1329,sax:USA300_1320 pstB,ABC transporters
+1330,sax:USA300_1321 pstA,ABC transporters
+1331,sax:USA300_1322 pstC,ABC transporters
+1332,sax:USA300_1324 pstS,ABC transporters
+1333,sax:USA300_1324 pstS,Two-component system
+1334,sax:USA3001328 lysC2,"Glycine, serine and threonine metabolism"
+1335,sax:USA3001328 lysC2,Monobactam biosynthesis
+1336,sax:USA3001328 lysC2,Cysteine and methionine metabolism
+1337,sax:USA3001328 lysC2,Lysine biosynthesis
+1338,sax:USA3001328 lysC2,Metabolic pathways
+1339,sax:USA3001328 lysC2,Biosynthesis of secondary metabolites
+1340,sax:USA3001328 lysC2,Microbial metabolism in diverse environments
+1341,sax:USA3001328 lysC2,2-Oxocarboxylic acid metabolism
+1342,sax:USA3001328 lysC2,Biosynthesis of amino acids
+1343,sax:USA300_1329 asd,"Glycine, serine and threonine metabolism"
+1344,sax:USA300_1329 asd,Monobactam biosynthesis
+1345,sax:USA300_1329 asd,Cysteine and methionine metabolism
+1346,sax:USA300_1329 asd,Lysine biosynthesis
+1347,sax:USA300_1329 asd,Metabolic pathways
+1348,sax:USA300_1329 asd,Biosynthesis of secondary metabolites
+1349,sax:USA300_1329 asd,Microbial metabolism in diverse environments
+1350,sax:USA300_1329 asd,2-Oxocarboxylic acid metabolism
+1351,sax:USA300_1329 asd,Biosynthesis of amino acids
+1352,sax:USA300_1330 dapA,Monobactam biosynthesis
+1353,sax:USA300_1330 dapA,Lysine biosynthesis
+1354,sax:USA300_1330 dapA,Metabolic pathways
+1355,sax:USA300_1330 dapA,Biosynthesis of secondary metabolites
+1356,sax:USA300_1330 dapA,Microbial metabolism in diverse environments
+1357,sax:USA300_1330 dapA,Biosynthesis of amino acids
+1358,sax:USA300_1331 dapB,Monobactam biosynthesis
+1359,sax:USA300_1331 dapB,Lysine biosynthesis
+1360,sax:USA300_1331 dapB,Metabolic pathways
+1361,sax:USA300_1331 dapB,Biosynthesis of secondary metabolites
+1362,sax:USA300_1331 dapB,Microbial metabolism in diverse environments
+1363,sax:USA300_1331 dapB,Biosynthesis of amino acids
+1364,sax:USA300_1332 dapD,Lysine biosynthesis
+1365,sax:USA300_1332 dapD,Metabolic pathways
+1366,sax:USA300_1332 dapD,Biosynthesis of secondary metabolites
+1367,sax:USA300_1332 dapD,Biosynthesis of amino acids
+1368,sax:USA300_1334 alr1,D-Amino acid metabolism
+1369,sax:USA300_1334 alr1,Metabolic pathways
+1370,sax:USA300_1334 alr1,Vancomycin resistance
+1371,sax:USA3001335 lysA2,Lysine biosynthesis
+1372,sax:USA3001335 lysA2,D-Amino acid metabolism
+1373,sax:USA3001335 lysA2,Metabolic pathways
+1374,sax:USA3001335 lysA2,Biosynthesis of secondary metabolites
+1375,sax:USA3001335 lysA2,Microbial metabolism in diverse environments
+1376,sax:USA3001335 lysA2,Biosynthesis of amino acids
+1377,sax:USA300_1347 odhB,Citrate cycle (TCA cycle)
+1378,sax:USA300_1347 odhB,Lysine degradation
+1379,sax:USA300_1347 odhB,Tryptophan metabolism
+1380,sax:USA300_1347 odhB,Metabolic pathways
+1381,sax:USA300_1347 odhB,Biosynthesis of secondary metabolites
+1382,sax:USA300_1347 odhB,Microbial metabolism in diverse environments
+1383,sax:USA300_1347 odhB,Carbon metabolism
+1384,sax:USA300_1348 sucA,Citrate cycle (TCA cycle)
+1385,sax:USA300_1348 sucA,Metabolic pathways
+1386,sax:USA300_1348 sucA,Biosynthesis of secondary metabolites
+1387,sax:USA300_1348 sucA,Microbial metabolism in diverse environments
+1388,sax:USA300_1348 sucA,Carbon metabolism
+1389,sax:USA300_1349,Two-component system
+1390,sax:USA300_1350 arlR,Two-component system
+1391,sax:USA300_1354,Peptidoglycan biosynthesis
+1392,sax:USA300_1355 murG,Peptidoglycan biosynthesis
+1393,sax:USA300_1355 murG,Metabolic pathways
+1394,sax:USA300_1355 murG,Vancomycin resistance
+1395,sax:USA300_1359,Glycolysis / Gluconeogenesis
+1396,sax:USA300_1359,Starch and sucrose metabolism
+1397,sax:USA300_1359,Amino sugar and nucleotide sugar metabolism
+1398,sax:USA300_1359,Metabolic pathways
+1399,sax:USA300_1359,Phosphotransferase system (PTS)
+1400,sax:USA300_1363 dfrB,One carbon pool by folate
+1401,sax:USA300_1363 dfrB,Folate biosynthesis
+1402,sax:USA300_1363 dfrB,Metabolic pathways
+1403,sax:USA300_1363 dfrB,Biosynthesis of cofactors
+1404,sax:USA300_1364 thyA,Pyrimidine metabolism
+1405,sax:USA300_1364 thyA,One carbon pool by folate
+1406,sax:USA300_1364 thyA,Metabolic pathways
+1407,sax:USA300_1371,DNA replication
+1408,sax:USA3001375 ilvA1,"Glycine, serine and threonine metabolism"
+1409,sax:USA3001375 ilvA1,"Valine, leucine and isoleucine biosynthesis"
+1410,sax:USA3001375 ilvA1,Metabolic pathways
+1411,sax:USA3001375 ilvA1,Biosynthesis of secondary metabolites
+1412,sax:USA3001375 ilvA1,Carbon metabolism
+1413,sax:USA3001375 ilvA1,Biosynthesis of amino acids
+1414,sax:USA300_1376 ald1,"Alanine, aspartate and glutamate metabolism"
+1415,sax:USA300_1376 ald1,Taurine and hypotaurine metabolism
+1416,sax:USA300_1376 ald1,Metabolic pathways
+1417,sax:USA300_1388 pbp2,Peptidoglycan biosynthesis
+1418,sax:USA300_1388 pbp2,Metabolic pathways
+1419,sax:USA300_1388 pbp2,beta-Lactam resistance
+1420,sax:USA300_1390 nth,Base excision repair
+1421,sax:USA300_1392 asnS,Aminoacyl-tRNA biosynthesis
+1422,sax:USA300_1394 birA,Biotin metabolism
+1423,sax:USA300_1394 birA,Metabolic pathways
+1424,sax:USA300_1402 aroA,"Phenylalanine, tyrosine and tryptophan biosynthesis"
+1425,sax:USA300_1402 aroA,Metabolic pathways
+1426,sax:USA300_1402 aroA,Biosynthesis of secondary metabolites
+1427,sax:USA300_1402 aroA,Biosynthesis of amino acids
+1428,sax:USA300_1403 aroB,"Phenylalanine, tyrosine and tryptophan biosynthesis"
+1429,sax:USA300_1403 aroB,Metabolic pathways
+1430,sax:USA300_1403 aroB,Biosynthesis of secondary metabolites
+1431,sax:USA300_1403 aroB,Biosynthesis of amino acids
+1432,sax:USA300_1404 aroC,"Phenylalanine, tyrosine and tryptophan biosynthesis"
+1433,sax:USA300_1404 aroC,Metabolic pathways
+1434,sax:USA300_1404 aroC,Biosynthesis of secondary metabolites
+1435,sax:USA300_1404 aroC,Biosynthesis of amino acids
+1436,sax:USA300_1406 ndk,Purine metabolism
+1437,sax:USA300_1406 ndk,Pyrimidine metabolism
+1438,sax:USA300_1406 ndk,Metabolic pathways
+1439,sax:USA300_1406 ndk,Biosynthesis of secondary metabolites
+1440,sax:USA300_1406 ndk,Biosynthesis of cofactors
+1441,sax:USA300_1407 gerC,Terpenoid backbone biosynthesis
+1442,sax:USA300_1407 gerC,Biosynthesis of secondary metabolites
+1443,sax:USA300_1408,Ubiquinone and other terpenoid-quinone biosynthesis
+1444,sax:USA300_1408,Metabolic pathways
+1445,sax:USA300_1408,Biosynthesis of secondary metabolites
+1446,sax:USA300_1408,Biosynthesis of cofactors
+1447,sax:USA300_1409,Terpenoid backbone biosynthesis
+1448,sax:USA300_1409,Biosynthesis of secondary metabolites
+1449,sax:USA300_1411 gpsA,Glycerophospholipid metabolism
+1450,sax:USA300_1411 gpsA,Biosynthesis of secondary metabolites
+1451,sax:USA300_1413 rpsA,Ribosome
+1452,sax:USA300_1415 cmk,Pyrimidine metabolism
+1453,sax:USA300_1415 cmk,Metabolic pathways
+1454,sax:USA300_1416 aspG,"Alanine, aspartate and glutamate metabolism"
+1455,sax:USA300_1416 aspG,Cyanoamino acid metabolism
+1456,sax:USA300_1416 aspG,Metabolic pathways
+1457,sax:USA300_1416 aspG,Biosynthesis of secondary metabolites
+1458,sax:USA300_1417,Selenocompound metabolism
+1459,sax:USA3001420 recQ2,RNA degradation
+1460,sax:USA30030 lukF-PV,Staphylococcus aureus infection
+1461,sax:USA30031 lukS-PV,Staphylococcus aureus infection
+1462,sax:USA300_1493 srrB,Two-component system
+1463,sax:USA300_1494 srrA,Two-component system
+1464,sax:USA300_1500 nudF,Purine metabolism
+1465,sax:USA300_1500 nudF,Riboflavin metabolism
+1466,sax:USA300_1500 nudF,Metabolic pathways
+1467,sax:USA300_1504,Arginine and proline metabolism
+1468,sax:USA300_1504,Metabolic pathways
+1469,sax:USA300_1504,Biosynthesis of secondary metabolites
+1470,sax:USA300_1504,Biosynthesis of amino acids
+1471,sax:USA300_1507,Pentose phosphate pathway
+1472,sax:USA300_1507,Glutathione metabolism
+1473,sax:USA300_1507,Metabolic pathways
+1474,sax:USA300_1507,Biosynthesis of secondary metabolites
+1475,sax:USA300_1507,Microbial metabolism in diverse environments
+1476,sax:USA300_1507,Carbon metabolism
+1477,sax:USA300_1509 malA,Galactose metabolism
+1478,sax:USA300_1509 malA,Starch and sucrose metabolism
+1479,sax:USA300_1509 malA,Metabolic pathways
+1480,sax:USA300_1509 malA,Biosynthesis of secondary metabolites
+1481,sax:USA300_1512 pgd,Pentose phosphate pathway
+1482,sax:USA300_1512 pgd,Glutathione metabolism
+1483,sax:USA300_1512 pgd,Metabolic pathways
+1484,sax:USA300_1512 pgd,Biosynthesis of secondary metabolites
+1485,sax:USA300_1512 pgd,Microbial metabolism in diverse environments
+1486,sax:USA300_1512 pgd,Carbon metabolism
+1487,sax:USA3001517 bmfBB,"Valine, leucine and isoleucine degradation"
+1488,sax:USA3001517 bmfBB,Propanoate metabolism
+1489,sax:USA3001517 bmfBB,Metabolic pathways
+1490,sax:USA3001517 bmfBB,Biosynthesis of secondary metabolites
+1491,sax:USA300_1518,"Valine, leucine and isoleucine degradation"
+1492,sax:USA300_1518,Propanoate metabolism
+1493,sax:USA300_1518,Metabolic pathways
+1494,sax:USA300_1518,Biosynthesis of secondary metabolites
+1495,sax:USA300_1519 odpA,"Valine, leucine and isoleucine degradation"
+1496,sax:USA300_1519 odpA,Propanoate metabolism
+1497,sax:USA300_1519 odpA,Metabolic pathways
+1498,sax:USA300_1519 odpA,Biosynthesis of secondary metabolites
+1499,sax:USA300_1520 lpdA,Glycolysis / Gluconeogenesis
+1500,sax:USA300_1520 lpdA,Citrate cycle (TCA cycle)
+1501,sax:USA300_1520 lpdA,"Glycine, serine and threonine metabolism"
+1502,sax:USA300_1520 lpdA,"Valine, leucine and isoleucine degradation"
+1503,sax:USA300_1520 lpdA,Lysine degradation
+1504,sax:USA300_1520 lpdA,Tryptophan metabolism
+1505,sax:USA300_1520 lpdA,Pyruvate metabolism
+1506,sax:USA300_1520 lpdA,Glyoxylate and dicarboxylate metabolism
+1507,sax:USA300_1520 lpdA,Propanoate metabolism
+1508,sax:USA300_1520 lpdA,Metabolic pathways
+1509,sax:USA300_1520 lpdA,Biosynthesis of secondary metabolites
+1510,sax:USA300_1520 lpdA,Microbial metabolism in diverse environments
+1511,sax:USA300_1520 lpdA,Carbon metabolism
+1512,sax:USA300_1520 lpdA,Biosynthesis of cofactors
+1513,sax:USA300_1523 ispA,Terpenoid backbone biosynthesis
+1514,sax:USA300_1523 ispA,Metabolic pathways
+1515,sax:USA300_1523 ispA,Biosynthesis of secondary metabolites
+1516,sax:USA300_1524 xseB,Mismatch repair
+1517,sax:USA300_1525 xseA,Mismatch repair
+1518,sax:USA300_1528 accC,Fatty acid biosynthesis
+1519,sax:USA300_1528 accC,Pyruvate metabolism
+1520,sax:USA300_1528 accC,Propanoate metabolism
+1521,sax:USA300_1528 accC,Metabolic pathways
+1522,sax:USA300_1528 accC,Biosynthesis of secondary metabolites
+1523,sax:USA300_1528 accC,Microbial metabolism in diverse environments
+1524,sax:USA300_1528 accC,Carbon metabolism
+1525,sax:USA300_1528 accC,Fatty acid metabolism
+1526,sax:USA300_1529 accB,Fatty acid biosynthesis
+1527,sax:USA300_1529 accB,Pyruvate metabolism
+1528,sax:USA300_1529 accB,Propanoate metabolism
+1529,sax:USA300_1529 accB,Metabolic pathways
+1530,sax:USA300_1529 accB,Biosynthesis of secondary metabolites
+1531,sax:USA300_1529 accB,Microbial metabolism in diverse environments
+1532,sax:USA300_1529 accB,Carbon metabolism
+1533,sax:USA300_1529 accB,Fatty acid metabolism
+1534,sax:USA300_1534,Lipoic acid metabolism
+1535,sax:USA300_1534,Metabolic pathways
+1536,sax:USA300_1534,Biosynthesis of cofactors
+1537,sax:USA3001536 gcvPB,"Glycine, serine and threonine metabolism"
+1538,sax:USA3001536 gcvPB,Glyoxylate and dicarboxylate metabolism
+1539,sax:USA3001536 gcvPB,Metabolic pathways
+1540,sax:USA3001536 gcvPB,Biosynthesis of secondary metabolites
+1541,sax:USA3001536 gcvPB,Carbon metabolism
+1542,sax:USA3001537 gcvPA,"Glycine, serine and threonine metabolism"
+1543,sax:USA3001537 gcvPA,Glyoxylate and dicarboxylate metabolism
+1544,sax:USA3001537 gcvPA,Metabolic pathways
+1545,sax:USA3001537 gcvPA,Biosynthesis of secondary metabolites
+1546,sax:USA3001537 gcvPA,Carbon metabolism
+1547,sax:USA300_1538 gcvT,"Glycine, serine and threonine metabolism"
+1548,sax:USA300_1538 gcvT,Glyoxylate and dicarboxylate metabolism
+1549,sax:USA300_1538 gcvT,One carbon pool by folate
+1550,sax:USA300_1538 gcvT,Metabolic pathways
+1551,sax:USA300_1538 gcvT,Biosynthesis of secondary metabolites
+1552,sax:USA300_1538 gcvT,Carbon metabolism
+1553,sax:USA300_1539 aroK,"Phenylalanine, tyrosine and tryptophan biosynthesis"
+1554,sax:USA300_1539 aroK,Metabolic pathways
+1555,sax:USA300_1539 aroK,Biosynthesis of secondary metabolites
+1556,sax:USA300_1539 aroK,Biosynthesis of amino acids
+1557,sax:USA300_1547,Pyruvate metabolism
+1558,sax:USA300_1547,Metabolic pathways
+1559,sax:USA300_1549 glcK,Glycolysis / Gluconeogenesis
+1560,sax:USA300_1549 glcK,Galactose metabolism
+1561,sax:USA300_1549 glcK,Starch and sucrose metabolism
+1562,sax:USA300_1549 glcK,Amino sugar and nucleotide sugar metabolism
+1563,sax:USA300_1549 glcK,Streptomycin biosynthesis
+1564,sax:USA300_1549 glcK,Metabolic pathways
+1565,sax:USA300_1549 glcK,Biosynthesis of secondary metabolites
+1566,sax:USA300_1549 glcK,Microbial metabolism in diverse environments
+1567,sax:USA300_1549 glcK,Carbon metabolism
+1568,sax:USA300_1549 glcK,Biosynthesis of nucleotide sugars
+1569,sax:USA300_1552,One carbon pool by folate
+1570,sax:USA300_1552,Metabolic pathways
+1571,sax:USA3001553 rpmG3,Ribosome
+1572,sax:USA300_1554 pbp3,Peptidoglycan biosynthesis
+1573,sax:USA300_1554 pbp3,Metabolic pathways
+1574,sax:USA300_1554 pbp3,beta-Lactam resistance
+1575,sax:USA300_1557,ABC transporters
+1576,sax:USA300_1558,ABC transporters
+1577,sax:USA300_1559 nfo,Base excision repair
+1578,sax:USA300_1563 rpoD,Flagellar assembly
+1579,sax:USA300_1564 dnaG,DNA replication
+1580,sax:USA300_1566 glyS,Aminoacyl-tRNA biosynthesis
+1581,sax:USA300_1567 recO,Homologous recombination
+1582,sax:USA300_1569 cdd,Pyrimidine metabolism
+1583,sax:USA300_1569 cdd,Metabolic pathways
+1584,sax:USA3001570 dgkA2,Peptidoglycan biosynthesis
+1585,sax:USA300_1576 rpsU,Ribosome
+1586,sax:USA300_1581 dnaK,RNA degradation
+1587,sax:USA300_1587 rpsT,Ribosome
+1588,sax:USA300_1588 holA,DNA replication
+1589,sax:USA300_1588 holA,Mismatch repair
+1590,sax:USA300_1588 holA,Homologous recombination
+1591,sax:USA3001590 comEB,Pyrimidine metabolism
+1592,sax:USA3001590 comEB,Metabolic pathways
+1593,sax:USA300_1595 nadD,Nicotinate and nicotinamide metabolism
+1594,sax:USA300_1595 nadD,Metabolic pathways
+1595,sax:USA300_1595 nadD,Biosynthesis of cofactors
+1596,sax:USA300_1597 aroE,"Phenylalanine, tyrosine and tryptophan biosynthesis"
+1597,sax:USA300_1597 aroE,Biosynthesis of various plant secondary metabolites
+1598,sax:USA300_1597 aroE,Metabolic pathways
+1599,sax:USA300_1597 aroE,Biosynthesis of secondary metabolites
+1600,sax:USA300_1597 aroE,Biosynthesis of amino acids
+1601,sax:USA3000 mtnN_pfs,Cysteine and methionine metabolism
+1602,sax:USA3000 mtnN_pfs,Metabolic pathways
+1603,sax:USA3000 mtnN_pfs,Biosynthesis of amino acids
+1604,sax:USA300_1603,Staphylococcus aureus infection
+1605,sax:USA300_1605,Glutathione metabolism
+1606,sax:USA300_1605,Metabolic pathways
+1607,sax:USA300_1606,Fatty acid biosynthesis
+1608,sax:USA300_1606,Pyruvate metabolism
+1609,sax:USA300_1606,Propanoate metabolism
+1610,sax:USA300_1606,Metabolic pathways
+1611,sax:USA300_1606,Biosynthesis of secondary metabolites
+1612,sax:USA300_1606,Microbial metabolism in diverse environments
+1613,sax:USA300_1606,Carbon metabolism
+1614,sax:USA300_1606,Fatty acid metabolism
+1615,sax:USA300_1607,Fatty acid biosynthesis
+1616,sax:USA300_1607,Pyruvate metabolism
+1617,sax:USA300_1607,Propanoate metabolism
+1618,sax:USA300_1607,Metabolic pathways
+1619,sax:USA300_1607,Biosynthesis of secondary metabolites
+1620,sax:USA300_1607,Microbial metabolism in diverse environments
+1621,sax:USA300_1607,Carbon metabolism
+1622,sax:USA300_1607,Fatty acid metabolism
+1623,sax:USA300_1611 udk,Pyrimidine metabolism
+1624,sax:USA300_1611 udk,Metabolic pathways
+1625,sax:USA300_1618 alaS,Aminoacyl-tRNA biosynthesis
+1626,sax:USA300_1619 recD,Homologous recombination
+1627,sax:USA300_1621 trmU,Sulfur relay system
+1628,sax:USA300_1622 csd1,Thiamine metabolism
+1629,sax:USA300_1622 csd1,Metabolic pathways
+1630,sax:USA300_1622 csd1,Biosynthesis of cofactors
+1631,sax:USA300_1622 csd1,Sulfur relay system
+1632,sax:USA300_1628 aspS,Aminoacyl-tRNA biosynthesis
+1633,sax:USA300_1629 hisS,Aminoacyl-tRNA biosynthesis
+1634,sax:USA300_1630 lytH,Cationic antimicrobial peptide (CAMP) resistance
+1635,sax:USA3001632 relA2,Purine metabolism
+1636,sax:USA3001632 relA2,Metabolic pathways
+1637,sax:USA300_1633 apt,Purine metabolism
+1638,sax:USA300_1633 apt,Metabolic pathways
+1639,sax:USA300_1634 recJ,Base excision repair
+1640,sax:USA300_1634 recJ,Mismatch repair
+1641,sax:USA300_1634 recJ,Homologous recombination
+1642,sax:USA3001636 secDF,Quorum sensing
+1643,sax:USA3001636 secDF,Protein export
+1644,sax:USA3001636 secDF,Bacterial secretion system
+1645,sax:USA300_1637 yajC,Quorum sensing
+1646,sax:USA300_1637 yajC,Protein export
+1647,sax:USA300_1637 yajC,Bacterial secretion system
+1648,sax:USA300_1640 ruvB,Homologous recombination
+1649,sax:USA300_1641 ruvA,Homologous recombination
+1650,sax:USA300_1642,"Phenylalanine, tyrosine and tryptophan biosynthesis"
+1651,sax:USA300_1642,Metabolic pathways
+1652,sax:USA300_1642,Biosynthesis of secondary metabolites
+1653,sax:USA300_1642,Biosynthesis of amino acids
+1654,sax:USA300_1644 rpmA,Ribosome
+1655,sax:USA300_1646 rplU,Ribosome
+1656,sax:USA300_1654 folC,Folate biosynthesis
+1657,sax:USA300_1654 folC,Metabolic pathways
+1658,sax:USA300_1654 folC,Biosynthesis of cofactors
+1659,sax:USA300_1655 valS,Aminoacyl-tRNA biosynthesis
+1660,sax:USA300_1656 tag,Base excision repair
+1661,sax:USA300_1659 hemL,Porphyrin metabolism
+1662,sax:USA300_1659 hemL,Metabolic pathways
+1663,sax:USA300_1659 hemL,Biosynthesis of secondary metabolites
+1664,sax:USA300_1659 hemL,Microbial metabolism in diverse environments
+1665,sax:USA300_1659 hemL,Biosynthesis of cofactors
+1666,sax:USA300_1660 hemB,Porphyrin metabolism
+1667,sax:USA300_1660 hemB,Metabolic pathways
+1668,sax:USA300_1660 hemB,Biosynthesis of secondary metabolites
+1669,sax:USA300_1660 hemB,Microbial metabolism in diverse environments
+1670,sax:USA300_1660 hemB,Biosynthesis of cofactors
+1671,sax:USA300_1661 hemD,Porphyrin metabolism
+1672,sax:USA300_1661 hemD,Metabolic pathways
+1673,sax:USA300_1661 hemD,Biosynthesis of secondary metabolites
+1674,sax:USA300_1661 hemD,Microbial metabolism in diverse environments
+1675,sax:USA300_1661 hemD,Biosynthesis of cofactors
+1676,sax:USA300_1662 hemC,Porphyrin metabolism
+1677,sax:USA300_1662 hemC,Metabolic pathways
+1678,sax:USA300_1662 hemC,Biosynthesis of secondary metabolites
+1679,sax:USA300_1662 hemC,Microbial metabolism in diverse environments
+1680,sax:USA300_1662 hemC,Biosynthesis of cofactors
+1681,sax:USA300_1664 hemA,Porphyrin metabolism
+1682,sax:USA300_1664 hemA,Metabolic pathways
+1683,sax:USA300_1664 hemA,Biosynthesis of secondary metabolites
+1684,sax:USA300_1664 hemA,Microbial metabolism in diverse environments
+1685,sax:USA300_1664 hemA,Biosynthesis of cofactors
+1686,sax:USA300_1669 thrS,Aminoacyl-tRNA biosynthesis
+1687,sax:USA300_1674 gapB,Glycolysis / Gluconeogenesis
+1688,sax:USA300_1674 gapB,Metabolic pathways
+1689,sax:USA300_1674 gapB,Biosynthesis of secondary metabolites
+1690,sax:USA300_1674 gapB,Microbial metabolism in diverse environments
+1691,sax:USA300_1674 gapB,Carbon metabolism
+1692,sax:USA300_1674 gapB,Biosynthesis of amino acids
+1693,sax:USA300_1675 coaE,Pantothenate and CoA biosynthesis
+1694,sax:USA300_1675 coaE,Metabolic pathways
+1695,sax:USA300_1675 coaE,Biosynthesis of cofactors
+1696,sax:USA300_1676 fpg,Base excision repair
+1697,sax:USA300_1677 polA,DNA replication
+1698,sax:USA300_1677 polA,Base excision repair
+1699,sax:USA300_1677 polA,Nucleotide excision repair
+1700,sax:USA300_1677 polA,Homologous recombination
+1701,sax:USA300_1679,Two-component system
+1702,sax:USA300_1680,Two-component system
+1703,sax:USA300_1681 icd,Citrate cycle (TCA cycle)
+1704,sax:USA300_1681 icd,Glutathione metabolism
+1705,sax:USA300_1681 icd,Metabolic pathways
+1706,sax:USA300_1681 icd,Biosynthesis of secondary metabolites
+1707,sax:USA300_1681 icd,Microbial metabolism in diverse environments
+1708,sax:USA300_1681 icd,Carbon metabolism
+1709,sax:USA300_1681 icd,2-Oxocarboxylic acid metabolism
+1710,sax:USA300_1681 icd,Biosynthesis of amino acids
+1711,sax:USA300_1682 citZ,Citrate cycle (TCA cycle)
+1712,sax:USA300_1682 citZ,Glyoxylate and dicarboxylate metabolism
+1713,sax:USA300_1682 citZ,Metabolic pathways
+1714,sax:USA300_1682 citZ,Biosynthesis of secondary metabolites
+1715,sax:USA300_1682 citZ,Microbial metabolism in diverse environments
+1716,sax:USA300_1682 citZ,Carbon metabolism
+1717,sax:USA300_1682 citZ,2-Oxocarboxylic acid metabolism
+1718,sax:USA300_1682 citZ,Biosynthesis of amino acids
+1719,sax:USA300_1684 pykA,Glycolysis / Gluconeogenesis
+1720,sax:USA300_1684 pykA,Pyruvate metabolism
+1721,sax:USA300_1684 pykA,Metabolic pathways
+1722,sax:USA300_1684 pykA,Biosynthesis of secondary metabolites
+1723,sax:USA300_1684 pykA,Microbial metabolism in diverse environments
+1724,sax:USA300_1684 pykA,Carbon metabolism
+1725,sax:USA300_1684 pykA,Biosynthesis of amino acids
+1726,sax:USA300_1685 pfkA,Glycolysis / Gluconeogenesis
+1727,sax:USA300_1685 pfkA,Pentose phosphate pathway
+1728,sax:USA300_1685 pfkA,Fructose and mannose metabolism
+1729,sax:USA300_1685 pfkA,Galactose metabolism
+1730,sax:USA300_1685 pfkA,Methane metabolism
+1731,sax:USA300_1685 pfkA,Metabolic pathways
+1732,sax:USA300_1685 pfkA,Biosynthesis of secondary metabolites
+1733,sax:USA300_1685 pfkA,Microbial metabolism in diverse environments
+1734,sax:USA300_1685 pfkA,Carbon metabolism
+1735,sax:USA300_1685 pfkA,Biosynthesis of amino acids
+1736,sax:USA300_1685 pfkA,RNA degradation
+1737,sax:USA300_1686 accA,Fatty acid biosynthesis
+1738,sax:USA300_1686 accA,Pyruvate metabolism
+1739,sax:USA300_1686 accA,Propanoate metabolism
+1740,sax:USA300_1686 accA,Metabolic pathways
+1741,sax:USA300_1686 accA,Biosynthesis of secondary metabolites
+1742,sax:USA300_1686 accA,Microbial metabolism in diverse environments
+1743,sax:USA300_1686 accA,Carbon metabolism
+1744,sax:USA300_1686 accA,Fatty acid metabolism
+1745,sax:USA300_1687 accD,Fatty acid biosynthesis
+1746,sax:USA300_1687 accD,Pyruvate metabolism
+1747,sax:USA300_1687 accD,Propanoate metabolism
+1748,sax:USA300_1687 accD,Metabolic pathways
+1749,sax:USA300_1687 accD,Biosynthesis of secondary metabolites
+1750,sax:USA300_1687 accD,Microbial metabolism in diverse environments
+1751,sax:USA300_1687 accD,Carbon metabolism
+1752,sax:USA300_1687 accD,Fatty acid metabolism
+1753,sax:USA300_1688,Pyruvate metabolism
+1754,sax:USA300_1688,Carbon metabolism
+1755,sax:USA300_1688,Two-component system
+1756,sax:USA3001689 dnaE2,DNA replication
+1757,sax:USA3001689 dnaE2,Mismatch repair
+1758,sax:USA3001689 dnaE2,Homologous recombination
+1759,sax:USA300_1690,Sulfur metabolism
+1760,sax:USA300_1690,Metabolic pathways
+1761,sax:USA300_1690,Microbial metabolism in diverse environments
+1762,sax:USA300_1696 ald,"Alanine, aspartate and glutamate metabolism"
+1763,sax:USA300_1696 ald,Taurine and hypotaurine metabolism
+1764,sax:USA300_1696 ald,Metabolic pathways
+1765,sax:USA300_1698 ackA,Taurine and hypotaurine metabolism
+1766,sax:USA300_1698 ackA,Pyruvate metabolism
+1767,sax:USA300_1698 ackA,Propanoate metabolism
+1768,sax:USA300_1698 ackA,Methane metabolism
+1769,sax:USA300_1698 ackA,Metabolic pathways
+1770,sax:USA300_1698 ackA,Microbial metabolism in diverse environments
+1771,sax:USA300_1698 ackA,Carbon metabolism
+1772,sax:USA300_1702 thiI,Thiamine metabolism
+1773,sax:USA300_1702 thiI,Metabolic pathways
+1774,sax:USA300_1702 thiI,Biosynthesis of cofactors
+1775,sax:USA300_1702 thiI,Sulfur relay system
+1776,sax:USA300_1703 csd2,Thiamine metabolism
+1777,sax:USA300_1703 csd2,Metabolic pathways
+1778,sax:USA300_1703 csd2,Biosynthesis of cofactors
+1779,sax:USA300_1703 csd2,Sulfur relay system
+1780,sax:USA300_1706,Cysteine and methionine metabolism
+1781,sax:USA300_1706,Metabolic pathways
+1782,sax:USA300_1707 rpsD,Ribosome
+1783,sax:USA3001709 ugpQ2,Glycerophospholipid metabolism
+1784,sax:USA300_1712 serA,"Glycine, serine and threonine metabolism"
+1785,sax:USA300_1712 serA,Cysteine and methionine metabolism
+1786,sax:USA300_1712 serA,Methane metabolism
+1787,sax:USA300_1712 serA,Metabolic pathways
+1788,sax:USA300_1712 serA,Biosynthesis of secondary metabolites
+1789,sax:USA300_1712 serA,Microbial metabolism in diverse environments
+1790,sax:USA300_1712 serA,Carbon metabolism
+1791,sax:USA300_1712 serA,Biosynthesis of amino acids
+1792,sax:USA300_1715,Amino sugar and nucleotide sugar metabolism
+1793,sax:USA300_1715,Phosphotransferase system (PTS)
+1794,sax:USA300_1717 tyrS,Aminoacyl-tRNA biosynthesis
+1795,sax:USA300_1718 sgtA,Peptidoglycan biosynthesis
+1796,sax:USA300_1718 sgtA,Metabolic pathways
+1797,sax:USA300_1721 fhs,One carbon pool by folate
+1798,sax:USA300_1721 fhs,Metabolic pathways
+1799,sax:USA300_1721 fhs,Microbial metabolism in diverse environments
+1800,sax:USA300_1721 fhs,Carbon metabolism
+1801,sax:USA300_1721 fhs,Biosynthesis of cofactors
+1802,sax:USA3001722 acsA1,Glycolysis / Gluconeogenesis
+1803,sax:USA3001722 acsA1,Pyruvate metabolism
+1804,sax:USA3001722 acsA1,Glyoxylate and dicarboxylate metabolism
+1805,sax:USA3001722 acsA1,Propanoate metabolism
+1806,sax:USA3001722 acsA1,Methane metabolism
+1807,sax:USA3001722 acsA1,Metabolic pathways
+1808,sax:USA3001722 acsA1,Biosynthesis of secondary metabolites
+1809,sax:USA3001722 acsA1,Microbial metabolism in diverse environments
+1810,sax:USA3001722 acsA1,Carbon metabolism
+1811,sax:USA300_1727,"Phenylalanine, tyrosine and tryptophan biosynthesis"
+1812,sax:USA300_1727,Metabolic pathways
+1813,sax:USA300_1727,Biosynthesis of secondary metabolites
+1814,sax:USA300_1727,Biosynthesis of amino acids
+1815,sax:USA300_1730 murC,Peptidoglycan biosynthesis
+1816,sax:USA300_1730 murC,Metabolic pathways
+1817,sax:USA300_1741 daaA,Lysine degradation
+1818,sax:USA300_1741 daaA,Arginine and proline metabolism
+1819,sax:USA300_1741 daaA,Phenylalanine metabolism
+1820,sax:USA300_1741 daaA,D-Amino acid metabolism
+1821,sax:USA300_1741 daaA,Metabolic pathways
+1822,sax:USA300_1742,Lysine biosynthesis
+1823,sax:USA300_1742,Metabolic pathways
+1824,sax:USA300_1742,Microbial metabolism in diverse environments
+1825,sax:USA300_1742,Biosynthesis of amino acids
+1826,sax:USA300_1749 leuS,Aminoacyl-tRNA biosynthesis
+1827,sax:USA300_1753 rot,Quorum sensing
+1828,sax:USA300_1755,Glycerophospholipid metabolism
+1829,sax:USA300_1756 putA,Arginine and proline metabolism
+1830,sax:USA300_1756 putA,Metabolic pathways
+1831,sax:USA300_1756 putA,Biosynthesis of secondary metabolites
+1832,sax:USA300_1757 ribH,Riboflavin metabolism
+1833,sax:USA300_1757 ribH,Metabolic pathways
+1834,sax:USA300_1757 ribH,Biosynthesis of secondary metabolites
+1835,sax:USA300_1757 ribH,Biosynthesis of cofactors
+1836,sax:USA300_1758 ribA,Riboflavin metabolism
+1837,sax:USA300_1758 ribA,Folate biosynthesis
+1838,sax:USA300_1758 ribA,Metabolic pathways
+1839,sax:USA300_1758 ribA,Biosynthesis of secondary metabolites
+1840,sax:USA300_1758 ribA,Biosynthesis of cofactors
+1841,sax:USA300_1759 ribB,Riboflavin metabolism
+1842,sax:USA300_1759 ribB,Metabolic pathways
+1843,sax:USA300_1759 ribB,Biosynthesis of secondary metabolites
+1844,sax:USA300_1759 ribB,Biosynthesis of cofactors
+1845,sax:USA300_1760 ribD,Riboflavin metabolism
+1846,sax:USA300_1760 ribD,Metabolic pathways
+1847,sax:USA300_1760 ribD,Biosynthesis of secondary metabolites
+1848,sax:USA300_1760 ribD,Biosynthesis of cofactors
+1849,sax:USA300_1760 ribD,Quorum sensing
+1850,sax:USA300_1770,Pentose phosphate pathway
+1851,sax:USA300_1770,Metabolic pathways
+1852,sax:USA300_1770,Biosynthesis of secondary metabolites
+1853,sax:USA300_1770,Microbial metabolism in diverse environments
+1854,sax:USA300_1770,Carbon metabolism
+1855,sax:USA300_1770,Biosynthesis of amino acids
+1856,sax:USA300_1777 metK,Cysteine and methionine metabolism
+1857,sax:USA300_1777 metK,Biosynthesis of various plant secondary metabolites
+1858,sax:USA300_1777 metK,Metabolic pathways
+1859,sax:USA300_1777 metK,Biosynthesis of secondary metabolites
+1860,sax:USA300_1777 metK,Biosynthesis of amino acids
+1861,sax:USA300_1777 metK,Biosynthesis of cofactors
+1862,sax:USA300_1778 pckA,Glycolysis / Gluconeogenesis
+1863,sax:USA300_1778 pckA,Citrate cycle (TCA cycle)
+1864,sax:USA300_1778 pckA,Pyruvate metabolism
+1865,sax:USA300_1778 pckA,Metabolic pathways
+1866,sax:USA300_1778 pckA,Biosynthesis of secondary metabolites
+1867,sax:USA300_1778 pckA,Microbial metabolism in diverse environments
+1868,sax:USA300_1778 pckA,Carbon metabolism
+1869,sax:USA300_1783,Ubiquinone and other terpenoid-quinone biosynthesis
+1870,sax:USA300_1783,Metabolic pathways
+1871,sax:USA300_1783,Biosynthesis of secondary metabolites
+1872,sax:USA300_1783,Biosynthesis of cofactors
+1873,sax:USA300_1784,Ubiquinone and other terpenoid-quinone biosynthesis
+1874,sax:USA300_1784,Metabolic pathways
+1875,sax:USA300_1784,Biosynthesis of secondary metabolites
+1876,sax:USA300_1784,Biosynthesis of cofactors
+1877,sax:USA300_1801 splF,Quorum sensing
+1878,sax:USA300_1802 splE,Quorum sensing
+1879,sax:USA300_1803 splD,Quorum sensing
+1880,sax:USA300_1806 splA,Quorum sensing
+1881,sax:USA300_1808 epiG,ABC transporters
+1882,sax:USA300_1808 epiG,Two-component system
+1883,sax:USA300_1808 epiG,Quorum sensing
+1884,sax:USA300_1809 epiE,ABC transporters
+1885,sax:USA300_1809 epiE,Two-component system
+1886,sax:USA300_1809 epiE,Quorum sensing
+1887,sax:USA300_1810 epiF,ABC transporters
+1888,sax:USA300_1810 epiF,Two-component system
+1889,sax:USA300_1810 epiF,Quorum sensing
+1890,sax:USA300_1811 epiP,Two-component system
+1891,sax:USA300_1811 epiP,Quorum sensing
+1892,sax:USA300_1813 epiC,Two-component system
+1893,sax:USA300_1813 epiC,Quorum sensing
+1894,sax:USA300_1814 epiB,Two-component system
+1895,sax:USA300_1814 epiB,Quorum sensing
+1896,sax:USA300_1815 epiA,Two-component system
+1897,sax:USA300_1815 epiA,Quorum sensing
+1898,sax:USA300_1817 lukD,Staphylococcus aureus infection
+1899,sax:USA300_1818 lukE,Staphylococcus aureus infection
+1900,sax:USA300_t0017,Aminoacyl-tRNA biosynthesis
+1901,sax:USA300_t0018,Aminoacyl-tRNA biosynthesis
+1902,sax:USA300_t0019,Aminoacyl-tRNA biosynthesis
+1903,sax:USA300_t0020,Aminoacyl-tRNA biosynthesis
+1904,sax:USA300_t0021,Aminoacyl-tRNA biosynthesis
+1905,sax:USA300_t0022,Aminoacyl-tRNA biosynthesis
+1906,sax:USA300_t0023,Aminoacyl-tRNA biosynthesis
+1907,sax:USA300_t0024,Aminoacyl-tRNA biosynthesis
+1908,sax:USA300_1823 hemG,Porphyrin metabolism
+1909,sax:USA300_1823 hemG,Metabolic pathways
+1910,sax:USA300_1823 hemG,Biosynthesis of secondary metabolites
+1911,sax:USA300_1823 hemG,Biosynthesis of cofactors
+1912,sax:USA300_1824 hemH,Porphyrin metabolism
+1913,sax:USA300_1824 hemH,Metabolic pathways
+1914,sax:USA300_1824 hemH,Biosynthesis of secondary metabolites
+1915,sax:USA300_1824 hemH,Biosynthesis of cofactors
+1916,sax:USA300_1825 hemE,Porphyrin metabolism
+1917,sax:USA300_1825 hemE,Metabolic pathways
+1918,sax:USA300_1825 hemE,Biosynthesis of secondary metabolites
+1919,sax:USA300_1825 hemE,Biosynthesis of cofactors
+1920,sax:USA300_1845 fumC,Citrate cycle (TCA cycle)
+1921,sax:USA300_1845 fumC,Pyruvate metabolism
+1922,sax:USA300_1845 fumC,Metabolic pathways
+1923,sax:USA300_1845 fumC,Biosynthesis of secondary metabolites
+1924,sax:USA300_1845 fumC,Microbial metabolism in diverse environments
+1925,sax:USA300_1845 fumC,Carbon metabolism
+1926,sax:USA300_1852 glnQ,ABC transporters
+1927,sax:USA300_1853,ABC transporters
+1928,sax:USA300_t0025,Aminoacyl-tRNA biosynthesis
+1929,sax:USA300_t0026,Aminoacyl-tRNA biosynthesis
+1930,sax:USA300_t0027,Aminoacyl-tRNA biosynthesis
+1931,sax:USA300_t0028,Aminoacyl-tRNA biosynthesis
+1932,sax:USA300_t0029,Aminoacyl-tRNA biosynthesis
+1933,sax:USA300_t0030,Aminoacyl-tRNA biosynthesis
+1934,sax:USA300_t0031,Aminoacyl-tRNA biosynthesis
+1935,sax:USA300_t0032,Aminoacyl-tRNA biosynthesis
+1936,sax:USA300_t0033,Aminoacyl-tRNA biosynthesis
+1937,sax:USA300_t0034,Aminoacyl-tRNA biosynthesis
+1938,sax:USA300_t0035,Aminoacyl-tRNA biosynthesis
+1939,sax:USA300_t0036,Aminoacyl-tRNA biosynthesis
+1940,sax:USA300_t0037,Aminoacyl-tRNA biosynthesis
+1941,sax:USA300_t0038,Aminoacyl-tRNA biosynthesis
+1942,sax:USA300_t0039,Aminoacyl-tRNA biosynthesis
+1943,sax:USA300_t0040,Aminoacyl-tRNA biosynthesis
+1944,sax:USA300_t0041,Aminoacyl-tRNA biosynthesis
+1945,sax:USA300_t0042,Aminoacyl-tRNA biosynthesis
+1946,sax:USA300_t0043,Aminoacyl-tRNA biosynthesis
+1947,sax:USA300_t0044,Aminoacyl-tRNA biosynthesis
+1948,sax:USA300_t0045,Aminoacyl-tRNA biosynthesis
+1949,sax:USA300_t0046,Aminoacyl-tRNA biosynthesis
+1950,sax:USA300_t0047,Aminoacyl-tRNA biosynthesis
+1951,sax:USA300_t0048,Aminoacyl-tRNA biosynthesis
+1952,sax:USA300_t0049,Aminoacyl-tRNA biosynthesis
+1953,sax:USA300_t0050,Aminoacyl-tRNA biosynthesis
+1954,sax:USA300r0008 rrf4,Ribosome
+1955,sax:USA300r0009 rrl3,Ribosome
+1956,sax:USA300_t0051,Aminoacyl-tRNA biosynthesis
+1957,sax:USA300_t0052,Aminoacyl-tRNA biosynthesis
+1958,sax:USA300r0010 rrs3,Ribosome
+1959,sax:USA3001859 hemL2,Porphyrin metabolism
+1960,sax:USA3001859 hemL2,Metabolic pathways
+1961,sax:USA3001859 hemL2,Biosynthesis of secondary metabolites
+1962,sax:USA3001859 hemL2,Microbial metabolism in diverse environments
+1963,sax:USA3001859 hemL2,Biosynthesis of cofactors
+1964,sax:USA300_1863 mutY,Base excision repair
+1965,sax:USA300_1865,ABC transporters
+1966,sax:USA300_1866,ABC transporters
+1967,sax:USA300_1869,Peptidoglycan biosynthesis
+1968,sax:USA300_1869,Metabolic pathways
+1969,sax:USA300_1877,Two-component system
+1970,sax:USA300_1880 vraR,Two-component system
+1971,sax:USA300_1881 vraS,Two-component system
+1972,sax:USA300_1889,Peptidoglycan biosynthesis
+1973,sax:USA300_1889,Metabolic pathways
+1974,sax:USA3001890 murE2,Peptidoglycan biosynthesis
+1975,sax:USA3001890 murE2,Metabolic pathways
+1976,sax:USA300_1893,DNA replication
+1977,sax:USA300_1893,Mismatch repair
+1978,sax:USA300_1893,Homologous recombination
+1979,sax:USA300_1897,Glycerolipid metabolism
+1980,sax:USA300_1897,Glycerophospholipid metabolism
+1981,sax:USA300_1897,Metabolic pathways
+1982,sax:USA300_1897,Biosynthesis of secondary metabolites
+1983,sax:USA3001900 gatB2,Aminoacyl-tRNA biosynthesis
+1984,sax:USA3001900 gatB2,Metabolic pathways
+1985,sax:USA3001901 gatA2,Aminoacyl-tRNA biosynthesis
+1986,sax:USA3001901 gatA2,Metabolic pathways
+1987,sax:USA3001902 gatC2,Aminoacyl-tRNA biosynthesis
+1988,sax:USA3001902 gatC2,Metabolic pathways
+1989,sax:USA300_1905,DNA replication
+1990,sax:USA300_1905,Base excision repair
+1991,sax:USA300_1905,Nucleotide excision repair
+1992,sax:USA300_1905,Mismatch repair
+1993,sax:USA300_1906 pcrA,Nucleotide excision repair
+1994,sax:USA300_1906 pcrA,Mismatch repair
+1995,sax:USA300_1907 pcrB,Glycerophospholipid metabolism
+1996,sax:USA300_1907 pcrB,Biosynthesis of secondary metabolites
+1997,sax:USA300_1909 purB,Purine metabolism
+1998,sax:USA300_1909 purB,"Alanine, aspartate and glutamate metabolism"
+1999,sax:USA300_1909 purB,Metabolic pathways
+2000,sax:USA300_1909 purB,Biosynthesis of secondary metabolites
+2001,sax:USA300_1909 purB,Biosynthesis of cofactors
+2002,sax:USA300_1914 nadE,Nicotinate and nicotinamide metabolism
+2003,sax:USA300_1914 nadE,Metabolic pathways
+2004,sax:USA300_1914 nadE,Biosynthesis of cofactors
+2005,sax:USA300_1915,Nicotinate and nicotinamide metabolism
+2006,sax:USA300_1915,Metabolic pathways
+2007,sax:USA300_1915,Biosynthesis of cofactors
+2008,sax:USA300_1916,Arginine biosynthesis
+2009,sax:USA300_1916,Arginine and proline metabolism
+2010,sax:USA300_1916,Metabolic pathways
+2011,sax:USA300_1916,Biosynthesis of secondary metabolites
+2012,sax:USA300_1917 pheA,"Phenylalanine, tyrosine and tryptophan biosynthesis"
+2013,sax:USA300_1917 pheA,Metabolic pathways
+2014,sax:USA300_1917 pheA,Biosynthesis of secondary metabolites
+2015,sax:USA300_1917 pheA,Biosynthesis of amino acids
+2016,sax:USA300_1921 ppaC,Oxidative phosphorylation
+2017,sax:USA3001923 aldH1,Carotenoid biosynthesis
+2018,sax:USA3001923 aldH1,Biosynthesis of secondary metabolites
+2019,sax:USA300_1925,Pentose phosphate pathway
+2020,sax:USA300_1925,Metabolic pathways
+2021,sax:USA300_1925,Biosynthesis of secondary metabolites
+2022,sax:USA300_1925,Microbial metabolism in diverse environments
+2023,sax:USA300_1925,Carbon metabolism
+2024,sax:USA3001942 mapW2,Staphylococcus aureus infection
+2025,sax:USA300_1946,Staphylococcus aureus infection
+2026,sax:USA300_1947 chp,Staphylococcus aureus infection
+2027,sax:USA300_1949 sak,Cationic antimicrobial peptide (CAMP) resistance
+2028,sax:USA300_1949 sak,Staphylococcus aureus infection
+2029,sax:USA300_1980 dut,Pyrimidine metabolism
+2030,sax:USA300_1980 dut,Metabolic pathways
+2031,sax:USA300_1989 ssb2,DNA replication
+2032,sax:USA300_1989 ssb2,Mismatch repair
+2033,sax:USA300_1989 ssb2,Homologous recombination
+2034,sax:USA300_2011,Staphylococcus aureus infection
+2035,sax:USA300_2013,Staphylococcus aureus infection
+2036,sax:USA300_2014,Lysine biosynthesis
+2037,sax:USA300_2014,Metabolic pathways
+2038,sax:USA300_2014,Microbial metabolism in diverse environments
+2039,sax:USA300_2014,Biosynthesis of amino acids
+2040,sax:USA3002024 groEL,RNA degradation
+2041,sax:USA300_2029,"Alanine, aspartate and glutamate metabolism"
+2042,sax:USA300_2029,Metabolic pathways
+2043,sax:USA300HOU_nc0020,Quorum sensing
+2044,sax:USA300_2031 hld,Quorum sensing
+2045,sax:USA300_2032 agrB,Two-component system
+2046,sax:USA300_2032 agrB,Quorum sensing
+2047,sax:USA300_2033 agrD,Two-component system
+2048,sax:USA300_2033 agrD,Quorum sensing
+2049,sax:USA300_2034 agrC,Two-component system
+2050,sax:USA300_2034 agrC,Quorum sensing
+2051,sax:USA300_2035 agrA,Two-component system
+2052,sax:USA300_2035 agrA,Quorum sensing
+2053,sax:USA300_2037 frk,Fructose and mannose metabolism
+2054,sax:USA300_2037 frk,Starch and sucrose metabolism
+2055,sax:USA300_2037 frk,Amino sugar and nucleotide sugar metabolism
+2056,sax:USA300_2037 frk,Metabolic pathways
+2057,sax:USA300_2037 frk,Biosynthesis of secondary metabolites
+2058,sax:USA300_2037 frk,Biosynthesis of nucleotide sugars
+2059,sax:USA300_2038 scrB,Galactose metabolism
+2060,sax:USA300_2038 scrB,Starch and sucrose metabolism
+2061,sax:USA300_2038 scrB,Metabolic pathways
+2062,sax:USA300_2038 scrB,Biosynthesis of secondary metabolites
+2063,sax:USA300_2048 ilvD,"Valine, leucine and isoleucine biosynthesis"
+2064,sax:USA300_2048 ilvD,Pantothenate and CoA biosynthesis
+2065,sax:USA300_2048 ilvD,Metabolic pathways
+2066,sax:USA300_2048 ilvD,Biosynthesis of secondary metabolites
+2067,sax:USA300_2048 ilvD,2-Oxocarboxylic acid metabolism
+2068,sax:USA300_2048 ilvD,Biosynthesis of amino acids
+2069,sax:USA3002049 ilvB1,"Valine, leucine and isoleucine biosynthesis"
+2070,sax:USA3002049 ilvB1,Butanoate metabolism
+2071,sax:USA3002049 ilvB1,C5-Branched dibasic acid metabolism
+2072,sax:USA3002049 ilvB1,Pantothenate and CoA biosynthesis
+2073,sax:USA3002049 ilvB1,Metabolic pathways
+2074,sax:USA3002049 ilvB1,Biosynthesis of secondary metabolites
+2075,sax:USA3002049 ilvB1,2-Oxocarboxylic acid metabolism
+2076,sax:USA3002049 ilvB1,Biosynthesis of amino acids
+2077,sax:USA300_2050 ilvH,"Valine, leucine and isoleucine biosynthesis"
+2078,sax:USA300_2050 ilvH,Butanoate metabolism
+2079,sax:USA300_2050 ilvH,C5-Branched dibasic acid metabolism
+2080,sax:USA300_2050 ilvH,Pantothenate and CoA biosynthesis
+2081,sax:USA300_2050 ilvH,Metabolic pathways
+2082,sax:USA300_2050 ilvH,Biosynthesis of secondary metabolites
+2083,sax:USA300_2050 ilvH,2-Oxocarboxylic acid metabolism
+2084,sax:USA300_2050 ilvH,Biosynthesis of amino acids
+2085,sax:USA300_2051 ilvC,"Valine, leucine and isoleucine biosynthesis"
+2086,sax:USA300_2051 ilvC,Pantothenate and CoA biosynthesis
+2087,sax:USA300_2051 ilvC,Metabolic pathways
+2088,sax:USA300_2051 ilvC,Biosynthesis of secondary metabolites
+2089,sax:USA300_2051 ilvC,2-Oxocarboxylic acid metabolism
+2090,sax:USA300_2051 ilvC,Biosynthesis of amino acids
+2091,sax:USA3002052 leuA2,"Valine, leucine and isoleucine biosynthesis"
+2092,sax:USA3002052 leuA2,Pyruvate metabolism
+2093,sax:USA3002052 leuA2,Metabolic pathways
+2094,sax:USA3002052 leuA2,Biosynthesis of secondary metabolites
+2095,sax:USA3002052 leuA2,2-Oxocarboxylic acid metabolism
+2096,sax:USA3002052 leuA2,Biosynthesis of amino acids
+2097,sax:USA300_2053 leuB,"Valine, leucine and isoleucine biosynthesis"
+2098,sax:USA300_2053 leuB,C5-Branched dibasic acid metabolism
+2099,sax:USA300_2053 leuB,Metabolic pathways
+2100,sax:USA300_2053 leuB,Biosynthesis of secondary metabolites
+2101,sax:USA300_2053 leuB,2-Oxocarboxylic acid metabolism
+2102,sax:USA300_2053 leuB,Biosynthesis of amino acids
+2103,sax:USA300_2054 leuC,"Valine, leucine and isoleucine biosynthesis"
+2104,sax:USA300_2054 leuC,C5-Branched dibasic acid metabolism
+2105,sax:USA300_2054 leuC,Metabolic pathways
+2106,sax:USA300_2054 leuC,Biosynthesis of secondary metabolites
+2107,sax:USA300_2054 leuC,2-Oxocarboxylic acid metabolism
+2108,sax:USA300_2054 leuC,Biosynthesis of amino acids
+2109,sax:USA300_2055 leuD,"Valine, leucine and isoleucine biosynthesis"
+2110,sax:USA300_2055 leuD,C5-Branched dibasic acid metabolism
+2111,sax:USA300_2055 leuD,Metabolic pathways
+2112,sax:USA300_2055 leuD,Biosynthesis of secondary metabolites
+2113,sax:USA300_2055 leuD,2-Oxocarboxylic acid metabolism
+2114,sax:USA300_2055 leuD,Biosynthesis of amino acids
+2115,sax:USA3002056 ilvA2,"Glycine, serine and threonine metabolism"
+2116,sax:USA3002056 ilvA2,"Valine, leucine and isoleucine biosynthesis"
+2117,sax:USA3002056 ilvA2,Metabolic pathways
+2118,sax:USA3002056 ilvA2,Biosynthesis of secondary metabolites
+2119,sax:USA3002056 ilvA2,Carbon metabolism
+2120,sax:USA3002056 ilvA2,Biosynthesis of amino acids
+2121,sax:USA300r0011 rrf5,Ribosome
+2122,sax:USA300r0012 rrl4,Ribosome
+2123,sax:USA300r0013 rrs4,Ribosome
+2124,sax:USA300_t0053,Aminoacyl-tRNA biosynthesis
+2125,sax:USA300_t0054,Aminoacyl-tRNA biosynthesis
+2126,sax:USA300_2065 alr2,D-Amino acid metabolism
+2127,sax:USA300_2065 alr2,Metabolic pathways
+2128,sax:USA300_2065 alr2,Vancomycin resistance
+2129,sax:USA300_2066 acpS,Pantothenate and CoA biosynthesis
+2130,sax:USA300_2066 acpS,Metabolic pathways
+2131,sax:USA300_2070 kdpC,Two-component system
+2132,sax:USA300_2071 kdpB,Two-component system
+2133,sax:USA300_2072 kdpA,Two-component system
+2134,sax:USA300_2073,Two-component system
+2135,sax:USA300_2074 kdpD,Two-component system
+2136,sax:USA300_2075 kdpE,Two-component system
+2137,sax:USA300_2075 kdpE,Quorum sensing
+2138,sax:USA300_2076,RNA degradation
+2139,sax:USA300_2077 murF,Lysine biosynthesis
+2140,sax:USA300_2077 murF,Peptidoglycan biosynthesis
+2141,sax:USA300_2077 murF,Metabolic pathways
+2142,sax:USA300_2077 murF,Vancomycin resistance
+2143,sax:USA300_2078 ddlA,D-Amino acid metabolism
+2144,sax:USA300_2078 ddlA,Peptidoglycan biosynthesis
+2145,sax:USA300_2078 ddlA,Metabolic pathways
+2146,sax:USA300_2078 ddlA,Vancomycin resistance
+2147,sax:USA300_2083 cls2,Glycerophospholipid metabolism
+2148,sax:USA300_2083 cls2,Metabolic pathways
+2149,sax:USA300_2087,Quorum sensing
+2150,sax:USA300_2087,Protein export
+2151,sax:USA300_2087,Bacterial secretion system
+2152,sax:USA300_2089 fabZ,Fatty acid biosynthesis
+2153,sax:USA300_2089 fabZ,Biotin metabolism
+2154,sax:USA300_2089 fabZ,Metabolic pathways
+2155,sax:USA300_2089 fabZ,Fatty acid metabolism
+2156,sax:USA300_2089 fabZ,Biosynthesis of cofactors
+2157,sax:USA300_2090 murA,Amino sugar and nucleotide sugar metabolism
+2158,sax:USA300_2090 murA,Peptidoglycan biosynthesis
+2159,sax:USA300_2090 murA,Metabolic pathways
+2160,sax:USA300_2090 murA,Biosynthesis of nucleotide sugars
+2161,sax:USA300_2092 atpC,Oxidative phosphorylation
+2162,sax:USA300_2092 atpC,Metabolic pathways
+2163,sax:USA300_2093 atpD,Oxidative phosphorylation
+2164,sax:USA300_2093 atpD,Metabolic pathways
+2165,sax:USA300_2094 atpG,Oxidative phosphorylation
+2166,sax:USA300_2094 atpG,Metabolic pathways
+2167,sax:USA300_2095 atpA,Oxidative phosphorylation
+2168,sax:USA300_2095 atpA,Metabolic pathways
+2169,sax:USA300_2096 atpH,Oxidative phosphorylation
+2170,sax:USA300_2096 atpH,Metabolic pathways
+2171,sax:USA300_2097 atpF,Oxidative phosphorylation
+2172,sax:USA300_2097 atpF,Metabolic pathways
+2173,sax:USA300_2098 atpE,Oxidative phosphorylation
+2174,sax:USA300_2098 atpE,Metabolic pathways
+2175,sax:USA300_2099 atpB,Oxidative phosphorylation
+2176,sax:USA300_2099 atpB,Metabolic pathways
+2177,sax:USA300_2101 mnaA,Amino sugar and nucleotide sugar metabolism
+2178,sax:USA300_2101 mnaA,O-Antigen nucleotide sugar biosynthesis
+2179,sax:USA300_2101 mnaA,Metabolic pathways
+2180,sax:USA300_2101 mnaA,Biosynthesis of nucleotide sugars
+2181,sax:USA300_2101 mnaA,Two-component system
+2182,sax:USA300_2102 upp,Pyrimidine metabolism
+2183,sax:USA300_2102 upp,Metabolic pathways
+2184,sax:USA300_2103 glyA,"Glycine, serine and threonine metabolism"
+2185,sax:USA300_2103 glyA,Cyanoamino acid metabolism
+2186,sax:USA300_2103 glyA,Glyoxylate and dicarboxylate metabolism
+2187,sax:USA300_2103 glyA,One carbon pool by folate
+2188,sax:USA300_2103 glyA,Methane metabolism
+2189,sax:USA300_2103 glyA,Metabolic pathways
+2190,sax:USA300_2103 glyA,Biosynthesis of secondary metabolites
+2191,sax:USA300_2103 glyA,Microbial metabolism in diverse environments
+2192,sax:USA300_2103 glyA,Carbon metabolism
+2193,sax:USA300_2103 glyA,Biosynthesis of amino acids
+2194,sax:USA300_2103 glyA,Biosynthesis of cofactors
+2195,sax:USA300_2107 tdk,Pyrimidine metabolism
+2196,sax:USA300_2107 tdk,Metabolic pathways
+2197,sax:USA300_2108 rpmE,Ribosome
+2198,sax:USA300_2109 rho,RNA degradation
+2199,sax:USA300_2110 aldA,Glycolysis / Gluconeogenesis
+2200,sax:USA300_2110 aldA,Ascorbate and aldarate metabolism
+2201,sax:USA300_2110 aldA,Fatty acid degradation
+2202,sax:USA300_2110 aldA,"Valine, leucine and isoleucine degradation"
+2203,sax:USA300_2110 aldA,Lysine degradation
+2204,sax:USA300_2110 aldA,Arginine and proline metabolism
+2205,sax:USA300_2110 aldA,Histidine metabolism
+2206,sax:USA300_2110 aldA,Tryptophan metabolism
+2207,sax:USA300_2110 aldA,beta-Alanine metabolism
+2208,sax:USA300_2110 aldA,Glycerolipid metabolism
+2209,sax:USA300_2110 aldA,Pyruvate metabolism
+2210,sax:USA300_2110 aldA,Chloroalkane and chloroalkene degradation
+2211,sax:USA300_2110 aldA,Pantothenate and CoA biosynthesis
+2212,sax:USA300_2110 aldA,Metabolic pathways
+2213,sax:USA300_2110 aldA,Biosynthesis of secondary metabolites
+2214,sax:USA300_2110 aldA,Microbial metabolism in diverse environments
+2215,sax:USA300_2110 aldA,Biosynthesis of cofactors
+2216,sax:USA300_2112 murZ,Amino sugar and nucleotide sugar metabolism
+2217,sax:USA300_2112 murZ,Peptidoglycan biosynthesis
+2218,sax:USA300_2112 murZ,Metabolic pathways
+2219,sax:USA300_2112 murZ,Biosynthesis of nucleotide sugars
+2220,sax:USA300_2113 fbaA,Glycolysis / Gluconeogenesis
+2221,sax:USA300_2113 fbaA,Pentose phosphate pathway
+2222,sax:USA300_2113 fbaA,Fructose and mannose metabolism
+2223,sax:USA300_2113 fbaA,Methane metabolism
+2224,sax:USA300_2113 fbaA,Metabolic pathways
+2225,sax:USA300_2113 fbaA,Biosynthesis of secondary metabolites
+2226,sax:USA300_2113 fbaA,Microbial metabolism in diverse environments
+2227,sax:USA300_2113 fbaA,Carbon metabolism
+2228,sax:USA300_2113 fbaA,Biosynthesis of amino acids
+2229,sax:USA300_2115 pyrG,Pyrimidine metabolism
+2230,sax:USA300_2115 pyrG,Metabolic pathways
+2231,sax:USA300_2115 pyrG,Biosynthesis of cofactors
+2232,sax:USA3002116 rpoE2,RNA polymerase
+2233,sax:USA300_2119 coaA,Pantothenate and CoA biosynthesis
+2234,sax:USA300_2119 coaA,Metabolic pathways
+2235,sax:USA300_2119 coaA,Biosynthesis of cofactors
+2236,sax:USA300_2123 luxS,Cysteine and methionine metabolism
+2237,sax:USA300_2123 luxS,Metabolic pathways
+2238,sax:USA300_2123 luxS,Biosynthesis of amino acids
+2239,sax:USA300_2123 luxS,Quorum sensing
+2240,sax:USA300_2125 pdp,Pyrimidine metabolism
+2241,sax:USA300_2125 pdp,Metabolic pathways
+2242,sax:USA3002126 deoC2,Pentose phosphate pathway
+2243,sax:USA3002126 deoC2,Metabolic pathways
+2244,sax:USA3002127 deoD2,Purine metabolism
+2245,sax:USA3002127 deoD2,Pyrimidine metabolism
+2246,sax:USA3002127 deoD2,Nicotinate and nicotinamide metabolism
+2247,sax:USA3002127 deoD2,Metabolic pathways
+2248,sax:USA3002127 deoD2,Biosynthesis of secondary metabolites
+2249,sax:USA3002132 manA1,Fructose and mannose metabolism
+2250,sax:USA3002132 manA1,Amino sugar and nucleotide sugar metabolism
+2251,sax:USA3002132 manA1,O-Antigen nucleotide sugar biosynthesis
+2252,sax:USA3002132 manA1,Metabolic pathways
+2253,sax:USA3002132 manA1,Biosynthesis of secondary metabolites
+2254,sax:USA3002132 manA1,Biosynthesis of cofactors
+2255,sax:USA3002132 manA1,Biosynthesis of nucleotide sugars
+2256,sax:USA300_2145 glmS,"Alanine, aspartate and glutamate metabolism"
+2257,sax:USA300_2145 glmS,Amino sugar and nucleotide sugar metabolism
+2258,sax:USA300_2145 glmS,Metabolic pathways
+2259,sax:USA300_2145 glmS,Biosynthesis of nucleotide sugars
+2260,sax:USA300_2146 mtlF,Fructose and mannose metabolism
+2261,sax:USA300_2146 mtlF,Metabolic pathways
+2262,sax:USA300_2146 mtlF,Phosphotransferase system (PTS)
+2263,sax:USA300_2148 mtlA,Fructose and mannose metabolism
+2264,sax:USA300_2148 mtlA,Metabolic pathways
+2265,sax:USA300_2148 mtlA,Phosphotransferase system (PTS)
+2266,sax:USA300_2149 mtlD,Fructose and mannose metabolism
+2267,sax:USA300_2149 mtlD,Metabolic pathways
+2268,sax:USA300_2151 glmM,Amino sugar and nucleotide sugar metabolism
+2269,sax:USA300_2151 glmM,Metabolic pathways
+2270,sax:USA300_2151 glmM,Biosynthesis of nucleotide sugars
+2271,sax:USA300_2154 arg,Arginine biosynthesis
+2272,sax:USA300_2154 arg,Arginine and proline metabolism
+2273,sax:USA300_2154 arg,Metabolic pathways
+2274,sax:USA300_2154 arg,Biosynthesis of secondary metabolites
+2275,sax:USA300_2154 arg,Biosynthesis of amino acids
+2276,sax:USA300_t0055,Aminoacyl-tRNA biosynthesis
+2277,sax:USA300_t0056,Aminoacyl-tRNA biosynthesis
+2278,sax:USA300_t0057,Aminoacyl-tRNA biosynthesis
+2279,sax:USA300_t0058,Aminoacyl-tRNA biosynthesis
+2280,sax:USA300_t0059,Aminoacyl-tRNA biosynthesis
+2281,sax:USA300_t0060,Aminoacyl-tRNA biosynthesis
+2282,sax:USA300r0014 rrf6,Ribosome
+2283,sax:USA300r0015 rrl5,Ribosome
+2284,sax:USA300r0016 rrs5,Ribosome
+2285,sax:USA300_2167,ABC transporters
+2286,sax:USA300_2168,ABC transporters
+2287,sax:USA300_2169,ABC transporters
+2288,sax:USA300_2170,D-Amino acid metabolism
+2289,sax:USA300_2170,Biosynthesis of various other secondary metabolites
+2290,sax:USA300_2170,Metabolic pathways
+2291,sax:USA300_2170,Biosynthesis of secondary metabolites
+2292,sax:USA300_2171,Biosynthesis of various other secondary metabolites
+2293,sax:USA300_2171,Metabolic pathways
+2294,sax:USA300_2171,Biosynthesis of secondary metabolites
+2295,sax:USA300_2173,Biosynthesis of various other secondary metabolites
+2296,sax:USA300_2173,Metabolic pathways
+2297,sax:USA300_2173,Biosynthesis of secondary metabolites
+2298,sax:USA300_2182 lacG,Galactose metabolism
+2299,sax:USA300_2182 lacG,Metabolic pathways
+2300,sax:USA300_2183 lacE,Galactose metabolism
+2301,sax:USA300_2183 lacE,Metabolic pathways
+2302,sax:USA300_2183 lacE,Phosphotransferase system (PTS)
+2303,sax:USA300_2184 lacF,Galactose metabolism
+2304,sax:USA300_2184 lacF,Metabolic pathways
+2305,sax:USA300_2184 lacF,Phosphotransferase system (PTS)
+2306,sax:USA300_2185 lacD,Galactose metabolism
+2307,sax:USA300_2185 lacD,Metabolic pathways
+2308,sax:USA300_2185 lacD,Quorum sensing
+2309,sax:USA300_2186 lacC,Galactose metabolism
+2310,sax:USA300_2186 lacC,Metabolic pathways
+2311,sax:USA300_2187 lacB,Galactose metabolism
+2312,sax:USA300_2187 lacB,Metabolic pathways
+2313,sax:USA300_2188 lacA,Galactose metabolism
+2314,sax:USA300_2188 lacA,Metabolic pathways
+2315,sax:USA300_2190,Nicotinate and nicotinamide metabolism
+2316,sax:USA300_2190,Metabolic pathways
+2317,sax:USA300_2201 alsD,Butanoate metabolism
+2318,sax:USA300_2201 alsD,C5-Branched dibasic acid metabolism
+2319,sax:USA300_2201 alsD,Biosynthesis of secondary metabolites
+2320,sax:USA300_2202 alsS,"Valine, leucine and isoleucine biosynthesis"
+2321,sax:USA300_2202 alsS,Butanoate metabolism
+2322,sax:USA300_2202 alsS,C5-Branched dibasic acid metabolism
+2323,sax:USA300_2202 alsS,Pantothenate and CoA biosynthesis
+2324,sax:USA300_2202 alsS,Metabolic pathways
+2325,sax:USA300_2202 alsS,Biosynthesis of secondary metabolites
+2326,sax:USA300_2202 alsS,2-Oxocarboxylic acid metabolism
+2327,sax:USA300_2202 alsS,Biosynthesis of amino acids
+2328,sax:USA300_2208 rpsI,Ribosome
+2329,sax:USA300_2209 rplM,Ribosome
+2330,sax:USA300_2211,ABC transporters
+2331,sax:USA300_2212,ABC transporters
+2332,sax:USA300_2213,ABC transporters
+2333,sax:USA300_2214 rplQ,Ribosome
+2334,sax:USA300_2215 rpoA,RNA polymerase
+2335,sax:USA300_2216 rpsK,Ribosome
+2336,sax:USA300_2217 rpsM,Ribosome
+2337,sax:USA300_2218 rmpJ,Ribosome
+2338,sax:USA300_2220 adk,Purine metabolism
+2339,sax:USA300_2220 adk,Thiamine metabolism
+2340,sax:USA300_2220 adk,Metabolic pathways
+2341,sax:USA300_2220 adk,Biosynthesis of secondary metabolites
+2342,sax:USA300_2220 adk,Biosynthesis of cofactors
+2343,sax:USA3002221 secY1,Quorum sensing
+2344,sax:USA3002221 secY1,Protein export
+2345,sax:USA3002221 secY1,Bacterial secretion system
+2346,sax:USA300_2222 rplO,Ribosome
+2347,sax:USA300_2223 rpmD,Ribosome
+2348,sax:USA300_2224 rpsE,Ribosome
+2349,sax:USA300_2225 rplR,Ribosome
+2350,sax:USA300_2226 rplF,Ribosome
+2351,sax:USA300_2227 rpsH,Ribosome
+2352,sax:USA300_2228,Ribosome
+2353,sax:USA300_2229 rplE,Ribosome
+2354,sax:USA300_2230 rplX,Ribosome
+2355,sax:USA300_2231 rplN,Ribosome
+2356,sax:USA300_2232 rpsQ,Ribosome
+2357,sax:USA300_2233 rpmC,Ribosome
+2358,sax:USA300_2244 fmhB,Peptidoglycan biosynthesis
+2359,sax:USA300_2244 fmhB,Metabolic pathways
+2360,sax:USA300_2250 moaA,Folate biosynthesis
+2361,sax:USA300_2250 moaA,Metabolic pathways
+2362,sax:USA300_2250 moaA,Biosynthesis of cofactors
+2363,sax:USA300_2250 moaA,Sulfur relay system
+2364,sax:USA300_2251 mobA,Folate biosynthesis
+2365,sax:USA300_2251 mobA,Metabolic pathways
+2366,sax:USA300_2252 moaD,Sulfur relay system
+2367,sax:USA300_2253 moaE,Folate biosynthesis
+2368,sax:USA300_2253 moaE,Metabolic pathways
+2369,sax:USA300_2253 moaE,Biosynthesis of cofactors
+2370,sax:USA300_2253 moaE,Sulfur relay system
+2371,sax:USA300_2255 moeA,Folate biosynthesis
+2372,sax:USA300_2255 moeA,Metabolic pathways
+2373,sax:USA300_2255 moeA,Biosynthesis of cofactors
+2374,sax:USA300_2256 moaC,Folate biosynthesis
+2375,sax:USA300_2256 moaC,Metabolic pathways
+2376,sax:USA300_2256 moaC,Biosynthesis of cofactors
+2377,sax:USA300_2256 moaC,Sulfur relay system
+2378,sax:USA300_2257 moaB,Folate biosynthesis
+2379,sax:USA300_2257 moaB,Metabolic pathways
+2380,sax:USA300_2257 moaB,Biosynthesis of cofactors
+2381,sax:USA300_2257 moaB,Sulfur relay system
+2382,sax:USA300_2258 moeB,Sulfur relay system
+2383,sax:USA300_2259 modC,ABC transporters
+2384,sax:USA300_2260 modB,ABC transporters
+2385,sax:USA300_2261 modA,ABC transporters
+2386,sax:USA300_2264,ABC transporters
+2387,sax:USA300_2265,Purine metabolism
+2388,sax:USA300_2265,Nicotinate and nicotinamide metabolism
+2389,sax:USA300_2265,Metabolic pathways
+2390,sax:USA300_2269 ureA,Arginine biosynthesis
+2391,sax:USA300_2269 ureA,Purine metabolism
+2392,sax:USA300_2269 ureA,Metabolic pathways
+2393,sax:USA300_2269 ureA,Microbial metabolism in diverse environments
+2394,sax:USA300_2270 ureB,Arginine biosynthesis
+2395,sax:USA300_2270 ureB,Purine metabolism
+2396,sax:USA300_2270 ureB,Metabolic pathways
+2397,sax:USA300_2270 ureB,Microbial metabolism in diverse environments
+2398,sax:USA300_2271 ureC,Arginine biosynthesis
+2399,sax:USA300_2271 ureC,Purine metabolism
+2400,sax:USA300_2271 ureC,Metabolic pathways
+2401,sax:USA300_2271 ureC,Microbial metabolism in diverse environments
+2402,sax:USA300_2291,Glyoxylate and dicarboxylate metabolism
+2403,sax:USA300_2291,Methane metabolism
+2404,sax:USA300_2291,Metabolic pathways
+2405,sax:USA300_2291,Microbial metabolism in diverse environments
+2406,sax:USA300_2291,Carbon metabolism
+2407,sax:USA300_2293 suhB,Streptomycin biosynthesis
+2408,sax:USA300_2293 suhB,Inositol phosphate metabolism
+2409,sax:USA300_2293 suhB,Metabolic pathways
+2410,sax:USA300_2293 suhB,Biosynthesis of secondary metabolites
+2411,sax:USA300_2303,Starch and sucrose metabolism
+2412,sax:USA300_2303,Phosphotransferase system (PTS)
+2413,sax:USA300_2310 hutI,Histidine metabolism
+2414,sax:USA300_2310 hutI,Metabolic pathways
+2415,sax:USA300_2311 hutU,Histidine metabolism
+2416,sax:USA300_2311 hutU,Metabolic pathways
+2417,sax:USA300_2314 hutG,Histidine metabolism
+2418,sax:USA300_2314 hutG,Metabolic pathways
+2419,sax:USA300_2316,Pentose phosphate pathway
+2420,sax:USA300_2316,Metabolic pathways
+2421,sax:USA300_2316,Biosynthesis of secondary metabolites
+2422,sax:USA300_2316,Microbial metabolism in diverse environments
+2423,sax:USA300_2316,Carbon metabolism
+2424,sax:USA300_2316,Biosynthesis of amino acids
+2425,sax:USA300_2319,Glycolysis / Gluconeogenesis
+2426,sax:USA300_2319,Galactose metabolism
+2427,sax:USA300_2319,Metabolic pathways
+2428,sax:USA300_2319,Biosynthesis of secondary metabolites
+2429,sax:USA300_2319,Microbial metabolism in diverse environments
+2430,sax:USA300_2325,Base excision repair
+2431,sax:USA300_2327,Terpenoid backbone biosynthesis
+2432,sax:USA300_2327,Metabolic pathways
+2433,sax:USA300_2327,Biosynthesis of secondary metabolites
+2434,sax:USA300_2342 htrB,ABC transporters
+2435,sax:USA300_2343 htrA,ABC transporters
+2436,sax:USA300_2348 mqo,Citrate cycle (TCA cycle)
+2437,sax:USA300_2348 mqo,Pyruvate metabolism
+2438,sax:USA300_2348 mqo,Metabolic pathways
+2439,sax:USA300_2348 mqo,Biosynthesis of secondary metabolites
+2440,sax:USA300_2348 mqo,Microbial metabolism in diverse environments
+2441,sax:USA300_2348 mqo,Carbon metabolism
+2442,sax:USA300_2353,Propanoate metabolism
+2443,sax:USA300_2353,Metabolic pathways
+2444,sax:USA300_2362 scrA,Starch and sucrose metabolism
+2445,sax:USA300_2362 scrA,Phosphotransferase system (PTS)
+2446,sax:USA300_2369 narK,Two-component system
+2447,sax:USA300_2373,Two-component system
+2448,sax:USA300_2374,Two-component system
+2449,sax:USA300_2375,Two-component system
+2450,sax:USA300_2376 narI,Nitrogen metabolism
+2451,sax:USA300_2376 narI,Metabolic pathways
+2452,sax:USA300_2376 narI,Microbial metabolism in diverse environments
+2453,sax:USA300_2376 narI,Two-component system
+2454,sax:USA300_2377 narJ,Two-component system
+2455,sax:USA300_2378 narH,Nitrogen metabolism
+2456,sax:USA300_2378 narH,Metabolic pathways
+2457,sax:USA300_2378 narH,Microbial metabolism in diverse environments
+2458,sax:USA300_2378 narH,Two-component system
+2459,sax:USA300_2379 narG,Nitrogen metabolism
+2460,sax:USA300_2379 narG,Metabolic pathways
+2461,sax:USA300_2379 narG,Microbial metabolism in diverse environments
+2462,sax:USA300_2379 narG,Two-component system
+2463,sax:USA300_2380 hemX,Porphyrin metabolism
+2464,sax:USA300_2380 hemX,Metabolic pathways
+2465,sax:USA300_2380 hemX,Biosynthesis of secondary metabolites
+2466,sax:USA300_2380 hemX,Microbial metabolism in diverse environments
+2467,sax:USA300_2380 hemX,Biosynthesis of cofactors
+2468,sax:USA300_2381 nirD,Nitrogen metabolism
+2469,sax:USA300_2381 nirD,Metabolic pathways
+2470,sax:USA300_2381 nirD,Microbial metabolism in diverse environments
+2471,sax:USA300_2382 nirB,Nitrogen metabolism
+2472,sax:USA300_2382 nirB,Metabolic pathways
+2473,sax:USA300_2382 nirB,Microbial metabolism in diverse environments
+2474,sax:USA300_2386,ABC transporters
+2475,sax:USA300_2393,ABC transporters
+2476,sax:USA300_2394,ABC transporters
+2477,sax:USA300_2395,ABC transporters
+2478,sax:USA300_2395,Flagellar assembly
+2479,sax:USA3002398 gpmA2,Glycolysis / Gluconeogenesis
+2480,sax:USA3002398 gpmA2,"Glycine, serine and threonine metabolism"
+2481,sax:USA3002398 gpmA2,Methane metabolism
+2482,sax:USA3002398 gpmA2,Metabolic pathways
+2483,sax:USA3002398 gpmA2,Biosynthesis of secondary metabolites
+2484,sax:USA3002398 gpmA2,Microbial metabolism in diverse environments
+2485,sax:USA3002398 gpmA2,Carbon metabolism
+2486,sax:USA3002398 gpmA2,Biosynthesis of amino acids
+2487,sax:USA300_2401,Staphylococcus aureus infection
+2488,sax:USA300_2402 hlgA,Staphylococcus aureus infection
+2489,sax:USA300_2404 hlgC,Staphylococcus aureus infection
+2490,sax:USA300_2405 hlgB,Staphylococcus aureus infection
+2491,sax:USA300_2407 bioW,Biotin metabolism
+2492,sax:USA300_2407 bioW,Metabolic pathways
+2493,sax:USA300_2407 bioW,Biosynthesis of cofactors
+2494,sax:USA300_2408 bioF,Biotin metabolism
+2495,sax:USA300_2408 bioF,Metabolic pathways
+2496,sax:USA300_2408 bioF,Biosynthesis of cofactors
+2497,sax:USA300_2409 bioB,Biotin metabolism
+2498,sax:USA300_2409 bioB,Metabolic pathways
+2499,sax:USA300_2409 bioB,Biosynthesis of cofactors
+2500,sax:USA300_2410 bioA,Biotin metabolism
+2501,sax:USA300_2410 bioA,Metabolic pathways
+2502,sax:USA300_2410 bioA,Biosynthesis of cofactors
+2503,sax:USA300_2411 bioD,Biotin metabolism
+2504,sax:USA300_2411 bioD,Metabolic pathways
+2505,sax:USA300_2411 bioD,Biosynthesis of cofactors
+2506,sax:USA300_2412,ABC transporters
+2507,sax:USA300_2413,ABC transporters
+2508,sax:USA300_2418 glxK,"Glycine, serine and threonine metabolism"
+2509,sax:USA300_2418 glxK,Glycerolipid metabolism
+2510,sax:USA300_2418 glxK,Glyoxylate and dicarboxylate metabolism
+2511,sax:USA300_2418 glxK,Metabolic pathways
+2512,sax:USA300_2418 glxK,Biosynthesis of secondary metabolites
+2513,sax:USA300_2418 glxK,Microbial metabolism in diverse environments
+2514,sax:USA3002432 panE1,Pantothenate and CoA biosynthesis
+2515,sax:USA3002432 panE1,Metabolic pathways
+2516,sax:USA3002432 panE1,Biosynthesis of secondary metabolites
+2517,sax:USA3002432 panE1,Biosynthesis of cofactors
+2518,sax:USA3002434 opuCD,ABC transporters
+2519,sax:USA3002435 opuBC,ABC transporters
+2520,sax:USA300_2436,ABC transporters
+2521,sax:USA300_2437,ABC transporters
+2522,sax:USA300_2454,ABC transporters
+2523,sax:USA300_2455,ABC transporters
+2524,sax:USA300_2456,ABC transporters
+2525,sax:USA300_2457,ABC transporters
+2526,sax:USA300_2458,ABC transporters
+2527,sax:USA300_2459,D-Amino acid metabolism
+2528,sax:USA300_2459,Metabolic pathways
+2529,sax:USA300_2460,D-Amino acid metabolism
+2530,sax:USA300_2460,Metabolic pathways
+2531,sax:USA300_2461,D-Amino acid metabolism
+2532,sax:USA300_2461,Metabolic pathways
+2533,sax:USA300_2482,Glycolysis / Gluconeogenesis
+2534,sax:USA300_2482,Pentose phosphate pathway
+2535,sax:USA300_2482,Galactose metabolism
+2536,sax:USA300_2482,Purine metabolism
+2537,sax:USA300_2482,Starch and sucrose metabolism
+2538,sax:USA300_2482,Amino sugar and nucleotide sugar metabolism
+2539,sax:USA300_2482,Streptomycin biosynthesis
+2540,sax:USA300_2482,Metabolic pathways
+2541,sax:USA300_2482,Biosynthesis of secondary metabolites
+2542,sax:USA300_2482,Microbial metabolism in diverse environments
+2543,sax:USA300_2482,Biosynthesis of nucleotide sugars
+2544,sax:USA300_2489 galU,Pentose and glucuronate interconversions
+2545,sax:USA300_2489 galU,Galactose metabolism
+2546,sax:USA300_2489 galU,Starch and sucrose metabolism
+2547,sax:USA300_2489 galU,Amino sugar and nucleotide sugar metabolism
+2548,sax:USA300_2489 galU,O-Antigen nucleotide sugar biosynthesis
+2549,sax:USA300_2489 galU,Metabolic pathways
+2550,sax:USA300_2489 galU,Biosynthesis of secondary metabolites
+2551,sax:USA300_2489 galU,Biosynthesis of cofactors
+2552,sax:USA300_2489 galU,Biosynthesis of nucleotide sugars
+2553,sax:USA300_2490 fnbB,Bacterial invasion of epithelial cells
+2554,sax:USA300_2491 fnbA,Bacterial invasion of epithelial cells
+2555,sax:USA300_2493 gntK,Pentose phosphate pathway
+2556,sax:USA300_2493 gntK,Metabolic pathways
+2557,sax:USA300_2493 gntK,Biosynthesis of secondary metabolites
+2558,sax:USA300_2493 gntK,Microbial metabolism in diverse environments
+2559,sax:USA300_2493 gntK,Carbon metabolism
+2560,sax:USA300_2496,Purine metabolism
+2561,sax:USA300_2496,Metabolic pathways
+2562,sax:USA300_2505,Glycolysis / Gluconeogenesis
+2563,sax:USA300_2505,Pentose phosphate pathway
+2564,sax:USA300_2505,Fructose and mannose metabolism
+2565,sax:USA300_2505,Methane metabolism
+2566,sax:USA300_2505,Metabolic pathways
+2567,sax:USA300_2505,Biosynthesis of secondary metabolites
+2568,sax:USA300_2505,Microbial metabolism in diverse environments
+2569,sax:USA300_2511,Benzoate degradation
+2570,sax:USA300_2511,Xylene degradation
+2571,sax:USA300_2511,Styrene degradation
+2572,sax:USA300_2511,Metabolic pathways
+2573,sax:USA300_2511,Microbial metabolism in diverse environments
+2574,sax:USA300_2511,Degradation of aromatic compounds
+2575,sax:USA300_2513 ddh,Pyruvate metabolism
+2576,sax:USA300_2513 ddh,Metabolic pathways
+2577,sax:USA300_2513 ddh,Microbial metabolism in diverse environments
+2578,sax:USA300_2515,ABC transporters
+2579,sax:USA300_2516,ABC transporters
+2580,sax:USA3002521 sdhA2,"Glycine, serine and threonine metabolism"
+2581,sax:USA3002521 sdhA2,Cysteine and methionine metabolism
+2582,sax:USA3002521 sdhA2,Metabolic pathways
+2583,sax:USA3002521 sdhA2,Biosynthesis of secondary metabolites
+2584,sax:USA3002521 sdhA2,Carbon metabolism
+2585,sax:USA3002521 sdhA2,Biosynthesis of amino acids
+2586,sax:USA3002522 sdhB2,"Glycine, serine and threonine metabolism"
+2587,sax:USA3002522 sdhB2,Cysteine and methionine metabolism
+2588,sax:USA3002522 sdhB2,Metabolic pathways
+2589,sax:USA3002522 sdhB2,Biosynthesis of secondary metabolites
+2590,sax:USA3002522 sdhB2,Carbon metabolism
+2591,sax:USA3002522 sdhB2,Biosynthesis of amino acids
+2592,sax:USA300_2530 ptsG,Glycolysis / Gluconeogenesis
+2593,sax:USA300_2530 ptsG,Amino sugar and nucleotide sugar metabolism
+2594,sax:USA300_2530 ptsG,Metabolic pathways
+2595,sax:USA300_2530 ptsG,Phosphotransferase system (PTS)
+2596,sax:USA3002531 ilvB2,Pyruvate metabolism
+2597,sax:USA3002531 ilvB2,Metabolic pathways
+2598,sax:USA300_2539,Terpenoid backbone biosynthesis
+2599,sax:USA300_2539,Biosynthesis of secondary metabolites
+2600,sax:USA300_2540 mvaS,"Valine, leucine and isoleucine degradation"
+2601,sax:USA300_2540 mvaS,Butanoate metabolism
+2602,sax:USA300_2540 mvaS,Terpenoid backbone biosynthesis
+2603,sax:USA300_2540 mvaS,Metabolic pathways
+2604,sax:USA300_2540 mvaS,Biosynthesis of secondary metabolites
+2605,sax:USA300_2549,"Alanine, aspartate and glutamate metabolism"
+2606,sax:USA300_2549,Arginine and proline metabolism
+2607,sax:USA300_2549,Metabolic pathways
+2608,sax:USA300_2554,Pyruvate metabolism
+2609,sax:USA300_2554,Metabolic pathways
+2610,sax:USA300_2554,Microbial metabolism in diverse environments
+2611,sax:USA300_2555,Cysteine and methionine metabolism
+2612,sax:USA300_2555,Metabolic pathways
+2613,sax:USA300_2556 crtN,Carotenoid biosynthesis
+2614,sax:USA300_2556 crtN,Biosynthesis of secondary metabolites
+2615,sax:USA300_2557 crtM,Carotenoid biosynthesis
+2616,sax:USA300_2557 crtM,Biosynthesis of secondary metabolites
+2617,sax:USA300_2558,Carotenoid biosynthesis
+2618,sax:USA300_2558,Biosynthesis of secondary metabolites
+2619,sax:USA300_2559,Carotenoid biosynthesis
+2620,sax:USA300_2559,Biosynthesis of secondary metabolites
+2621,sax:USA300_2560,Carotenoid biosynthesis
+2622,sax:USA300_2560,Biosynthesis of secondary metabolites
+2623,sax:USA300_2583 pyrD,Pyrimidine metabolism
+2624,sax:USA300_2583 pyrD,Metabolic pathways
+2625,sax:USA300_2583 pyrD,Biosynthesis of cofactors
+2626,sax:USA300_2591 panD,beta-Alanine metabolism
+2627,sax:USA300_2591 panD,Pantothenate and CoA biosynthesis
+2628,sax:USA300_2591 panD,Metabolic pathways
+2629,sax:USA300_2591 panD,Biosynthesis of secondary metabolites
+2630,sax:USA300_2591 panD,Biosynthesis of cofactors
+2631,sax:USA300_2592 panC,beta-Alanine metabolism
+2632,sax:USA300_2592 panC,Pantothenate and CoA biosynthesis
+2633,sax:USA300_2592 panC,Metabolic pathways
+2634,sax:USA300_2592 panC,Biosynthesis of secondary metabolites
+2635,sax:USA300_2592 panC,Biosynthesis of cofactors
+2636,sax:USA300_2593 panB,Pantothenate and CoA biosynthesis
+2637,sax:USA300_2593 panB,Metabolic pathways
+2638,sax:USA300_2593 panB,Biosynthesis of secondary metabolites
+2639,sax:USA300_2593 panB,Biosynthesis of cofactors
+2640,sax:USA3002594 panE2,Pantothenate and CoA biosynthesis
+2641,sax:USA3002594 panE2,Metabolic pathways
+2642,sax:USA3002594 panE2,Biosynthesis of secondary metabolites
+2643,sax:USA3002594 panE2,Biosynthesis of cofactors
+2644,sax:USA300_2596,"Alanine, aspartate and glutamate metabolism"
+2645,sax:USA300_2596,beta-Alanine metabolism
+2646,sax:USA300_2596,Propanoate metabolism
+2647,sax:USA300_2596,Butanoate metabolism
+2648,sax:USA300_2596,Metabolic pathways
+2649,sax:USA300_2596,Microbial metabolism in diverse environments
+2650,sax:USA300_2599 fdaB,Glycolysis / Gluconeogenesis
+2651,sax:USA300_2599 fdaB,Pentose phosphate pathway
+2652,sax:USA300_2599 fdaB,Fructose and mannose metabolism
+2653,sax:USA300_2599 fdaB,Methane metabolism
+2654,sax:USA300_2599 fdaB,Metabolic pathways
+2655,sax:USA300_2599 fdaB,Biosynthesis of secondary metabolites
+2656,sax:USA300_2599 fdaB,Microbial metabolism in diverse environments
+2657,sax:USA300_2599 fdaB,Carbon metabolism
+2658,sax:USA300_2599 fdaB,Biosynthesis of amino acids
+2659,sax:USA300_2600 mqo2,Citrate cycle (TCA cycle)
+2660,sax:USA300_2600 mqo2,Pyruvate metabolism
+2661,sax:USA300_2600 mqo2,Metabolic pathways
+2662,sax:USA300_2600 mqo2,Biosynthesis of secondary metabolites
+2663,sax:USA300_2600 mqo2,Microbial metabolism in diverse environments
+2664,sax:USA300_2600 mqo2,Carbon metabolism
+2665,sax:USA3002602 acsA2,Glycolysis / Gluconeogenesis
+2666,sax:USA3002602 acsA2,Pyruvate metabolism
+2667,sax:USA3002602 acsA2,Glyoxylate and dicarboxylate metabolism
+2668,sax:USA3002602 acsA2,Propanoate metabolism
+2669,sax:USA3002602 acsA2,Methane metabolism
+2670,sax:USA3002602 acsA2,Metabolic pathways
+2671,sax:USA3002602 acsA2,Biosynthesis of secondary metabolites
+2672,sax:USA3002602 acsA2,Microbial metabolism in diverse environments
+2673,sax:USA3002602 acsA2,Carbon metabolism
+2674,sax:USA300_2605 betA,"Glycine, serine and threonine metabolism"
+2675,sax:USA300_2605 betA,Metabolic pathways
+2676,sax:USA300_2606 betB,"Glycine, serine and threonine metabolism"
+2677,sax:USA300_2606 betB,Metabolic pathways
+2678,sax:USA300_2614 nrdD,Purine metabolism
+2679,sax:USA300_2614 nrdD,Pyrimidine metabolism
+2680,sax:USA300_2614 nrdD,Metabolic pathways
+2681,sax:USA300_2617 cysG,Porphyrin metabolism
+2682,sax:USA300_2617 cysG,Metabolic pathways
+2683,sax:USA300_2617 cysG,Biosynthesis of secondary metabolites
+2684,sax:USA300_2617 cysG,Biosynthesis of cofactors
+2685,sax:USA300_2618 cysJ,Sulfur metabolism
+2686,sax:USA300_2618 cysJ,Metabolic pathways
+2687,sax:USA300_2618 cysJ,Microbial metabolism in diverse environments
+2688,sax:USA3002619 gpxA2,Glutathione metabolism
+2689,sax:USA3002619 gpxA2,Arachidonic acid metabolism
+2690,sax:USA3002619 gpxA2,Metabolic pathways
+2691,sax:USA300_2621,ABC transporters
+2692,sax:USA300_2621,Two-component system
+2693,sax:USA300_2622,ABC transporters
+2694,sax:USA300_2622,Two-component system
+2695,sax:USA300_2623,Two-component system
+2696,sax:USA300_2624,Two-component system
+2697,sax:USA300_2626,Thiamine metabolism
+2698,sax:USA300_2626,Folate biosynthesis
+2699,sax:USA300_2626,Metabolic pathways
+2700,sax:USA300_2626,Biosynthesis of cofactors
+2701,sax:USA300_2626,Two-component system
+2702,sax:USA300_2630 clfB,Staphylococcus aureus infection
+2703,sax:USA3002632 arcC3,Arginine biosynthesis
+2704,sax:USA3002632 arcC3,Purine metabolism
+2705,sax:USA3002632 arcC3,Nitrogen metabolism
+2706,sax:USA3002632 arcC3,Metabolic pathways
+2707,sax:USA3002632 arcC3,Microbial metabolism in diverse environments
+2708,sax:USA3002632 arcC3,Carbon metabolism
+2709,sax:USA3002634 arcB3,Arginine biosynthesis
+2710,sax:USA3002634 arcB3,Metabolic pathways
+2711,sax:USA3002634 arcB3,Biosynthesis of secondary metabolites
+2712,sax:USA3002634 arcB3,Biosynthesis of amino acids
+2713,sax:USA3002635 arcA3,Arginine biosynthesis
+2714,sax:USA3002635 arcA3,Metabolic pathways
+2715,sax:USA3002635 arcA3,Biosynthesis of secondary metabolites
+2716,sax:USA300_2637 aur,Cationic antimicrobial peptide (CAMP) resistance
+2717,sax:USA300_2637 aur,Staphylococcus aureus infection
+2718,sax:USA300_2641,Fructose and mannose metabolism
+2719,sax:USA300_2641,Metabolic pathways
+2720,sax:USA300_2641,Microbial metabolism in diverse environments
+2721,sax:USA300_2641,Phosphotransferase system (PTS)
+2722,sax:USA3002642 manA2,Fructose and mannose metabolism
+2723,sax:USA3002642 manA2,Amino sugar and nucleotide sugar metabolism
+2724,sax:USA3002642 manA2,O-Antigen nucleotide sugar biosynthesis
+2725,sax:USA3002642 manA2,Metabolic pathways
+2726,sax:USA3002642 manA2,Biosynthesis of secondary metabolites
+2727,sax:USA3002642 manA2,Biosynthesis of cofactors
+2728,sax:USA3002642 manA2,Biosynthesis of nucleotide sugars
+2729,sax:USA3002649 secA2,Quorum sensing
+2730,sax:USA3002649 secA2,Protein export
+2731,sax:USA3002649 secA2,Bacterial secretion system
+2732,sax:USA3002653 secY2,Quorum sensing
+2733,sax:USA3002653 secY2,Protein export
+2734,sax:USA3002653 secY2,Bacterial secretion system
+2735,sax:USA300_2671 lip,Glycerolipid metabolism
+2736,sax:USA300_2671 lip,Metabolic pathways
+2737,sax:USA3002673 hisIE,Histidine metabolism
+2738,sax:USA3002673 hisIE,Metabolic pathways
+2739,sax:USA3002673 hisIE,Biosynthesis of secondary metabolites
+2740,sax:USA3002673 hisIE,Biosynthesis of amino acids
+2741,sax:USA300_2674 hisF,Histidine metabolism
+2742,sax:USA300_2674 hisF,Metabolic pathways
+2743,sax:USA300_2674 hisF,Biosynthesis of secondary metabolites
+2744,sax:USA300_2674 hisF,Biosynthesis of amino acids
+2745,sax:USA300_2675 hisA,Histidine metabolism
+2746,sax:USA300_2675 hisA,Metabolic pathways
+2747,sax:USA300_2675 hisA,Biosynthesis of secondary metabolites
+2748,sax:USA300_2675 hisA,Biosynthesis of amino acids
+2749,sax:USA300_2676 hisH,Histidine metabolism
+2750,sax:USA300_2676 hisH,Metabolic pathways
+2751,sax:USA300_2676 hisH,Biosynthesis of secondary metabolites
+2752,sax:USA300_2676 hisH,Biosynthesis of amino acids
+2753,sax:USA300_2677 hisB,Histidine metabolism
+2754,sax:USA300_2677 hisB,Metabolic pathways
+2755,sax:USA300_2677 hisB,Biosynthesis of secondary metabolites
+2756,sax:USA300_2677 hisB,Biosynthesis of amino acids
+2757,sax:USA3002678 hisC2,Histidine metabolism
+2758,sax:USA3002678 hisC2,Tyrosine metabolism
+2759,sax:USA3002678 hisC2,Phenylalanine metabolism
+2760,sax:USA3002678 hisC2,"Phenylalanine, tyrosine and tryptophan biosynthesis"
+2761,sax:USA3002678 hisC2,Novobiocin biosynthesis
+2762,sax:USA3002678 hisC2,Metabolic pathways
+2763,sax:USA3002678 hisC2,Biosynthesis of secondary metabolites
+2764,sax:USA3002678 hisC2,Biosynthesis of amino acids
+2765,sax:USA300_2679 hisD,Histidine metabolism
+2766,sax:USA300_2679 hisD,Metabolic pathways
+2767,sax:USA300_2679 hisD,Biosynthesis of secondary metabolites
+2768,sax:USA300_2679 hisD,Biosynthesis of amino acids
+2769,sax:USA300_2680 hisG,Histidine metabolism
+2770,sax:USA300_2680 hisG,Metabolic pathways
+2771,sax:USA300_2680 hisG,Biosynthesis of secondary metabolites
+2772,sax:USA300_2680 hisG,Biosynthesis of amino acids
+2773,sax:USA300_2685,ABC transporters
+2774,sax:USA300_2703,ABC transporters
+2775,sax:USA300_2703,Two-component system
+2776,sax:USA300_2704,ABC transporters
+2777,sax:USA300_2704,Two-component system
+2778,sax:USA300_2717,Ribosome
+2779,sax:pUSA30R0011 blaZ,beta-Lactam resistance
+2780,sax:pUSA30R0012 blaR,beta-Lactam resistance
+2781,sax:pUSA30R0013 blaI,beta-Lactam resistance
+2782,sax:pUSA300HOUMR0023,ABC transporters
+2783,sax:pUSA300HOUMR0024,ABC transporters
+2784,sax:pUSA300HOUMR0028,ABC transporters
