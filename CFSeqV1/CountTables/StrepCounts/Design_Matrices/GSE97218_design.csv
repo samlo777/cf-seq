@@ -1,0 +1,13 @@
+﻿Replicate,Treatment,Time
+1,Control,Untreated
+2,Control,Untreated
+3,Control,Untreated
+1,Ampicillin,10 min
+2,Ampicillin,10 min
+3,Ampicillin,10 min
+1,Ampicillin,20 min
+2,Ampicillin,20 min
+3,Ampicillin,20 min
+1,Ampicillin,30 min
+2,Ampicillin,30 min
+3,Ampicillin,30 min
