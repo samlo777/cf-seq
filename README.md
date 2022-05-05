@@ -8,7 +8,9 @@ CF-Seq is an easy to use web-application geared toward microbiologists who study
 
 If you use CF-Seq for your own research, please cite the following publication: 
 
-https://www.biorxiv.org/content/10.1101/2022.03.07.483313v1
+CF-Seq, An Accessible Web Application for Rapid Re-Analysis of Cystic Fibrosis Pathogen RNA Sequencing Studies
+Samuel L. Neff, Thomas H. Hampton, Charles Puerner, Liviu Cengher, Georgia Doing, Alexandra J. Lee, Katja Koeppen, Ambrose L. Cheung, Deborah A. Hogan, Robert A. Cramer, Bruce A. Stanton
+bioRxiv 2022.03.07.483313; doi: https://doi.org/10.1101/2022.03.07.483313
 
 If you have any questions about the application or its source code, please reach out to neff [dot] sam1 [at] gmail [dot] com
 
