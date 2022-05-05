@@ -1,2 +1,0 @@
-Date ,GEO Accession ,Title ,Description,Strain,Medium,Treatment ,Genotype,Species,Link
-6/1/21,GSE167897,RNA sequencing analysis of CopY-deficient Streptococcus agalactiae during Cu stress,"Total RNA was isolated from mid-log phase Streptococcus agalactiae cells deficient in CopY (∆copY strain GU2857), grown in Todd-Hewitt broth (THB) medium supplemented with 0.5 mM Cu and sequenced using Illumina NextSeq500.","GU2857, 874391",Todd-Hewitt broth,Copper,Delta-copY,Streptococcus agalactiae,https://www-ncbi-nlm-nih-gov.ezproxy.u-pec.fr/geo/query/acc.cgi?acc=GSE167897
